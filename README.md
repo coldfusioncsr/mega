@@ -1,8 +1,5 @@
-# Crew MEGA
-
-## Code of Conduct
+# MEGA
 This crew is supposed to be friendly and supportive. We ride along each other to earn more rewards and fun.
-Topics on CSR2 are welcome, being neutral to other topics if you like to raise, try not to bring in topics that may lead to conflict.
 
 ## Goals
 1. 25-30 active members
@@ -20,13 +17,18 @@ Topics on CSR2 are welcome, being neutral to other topics if you like to raise, 
 - https://csr2boss.com/how-to-donate-crew-token-use-wildcards-wisely/
 - [700k rp guide](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/), https://www.reddit.com/r/CSRRacing2/comments/10mq83k/crew_rp_guide_for_beginners/
 
+### Busyman's minimum guide
+1. Complete 'Weekly Elite Cup' (10:00 UTC Mon, 0:00 UTC Tue-Fri)
+2. Collect and donate all tokens
+3. Complete 'Prestige Cup'
+
 ## Admins
-are supposed to lead by example, communicate, coordinate, help entire crew to earn more cars, parts over winnings.
+are expected to lead by example, communicate, coordinate, help entire crew to earn more cars, parts over winnings.
+- g1 ops, to keep active players in, inactive/naughty members out
 - g2 ops, to educate members to be eligible for WEC, and remind members to attend WEC in time.
 - g3 ops, to remind members to collect and donate tokens
-- HR, to keep active players in, inactive/naughty members out
 
-## External resources
+## Other resources
 - https://csr2racers.com/2020/01/11/all-the-csr2-cars-with-tune-and-shift-pattern-for-the-best-time/
 - https://csr2racers.com/2020/01/01/bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them/
 - https://csr2boss.com/csr2-racing-live-races-guide-how-to-win-every-time/
