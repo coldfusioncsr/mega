@@ -10,12 +10,15 @@ Topics on CSR2 are welcome, being neutral to other topics if you like to raise, 
 3. 20mil RPs for milestone car
 
 ### g2 - Weekly Elite Cup
+- https://csr2racers.com/2020/12/09/elite-tuners-csr2-events-all-you-need-to-know/
 - https://www.reddit.com/r/CSRRacing2/comments/kfjbcc/weekly_elite_cup_rewards/
 
 ### g3 - 20mil RPs
 - Collect tokens in time from Daily Bonus (Wednesdays), Milestone Prize, Crew Cup, Token Cup
-- Fullfil one wildcard then move to next. Splitting donations delay wildcard campains
+- Fullfil one wildcard then move to next. Do NOT split donations which delays wildcard campaigns.
 - **Wildcard is activated at 16:00 UTC by administrator**
+- https://csr2boss.com/how-to-donate-crew-token-use-wildcards-wisely/
+- [700k rp guide](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/), https://www.reddit.com/r/CSRRacing2/comments/10mq83k/crew_rp_guide_for_beginners/
 
 ## Admins
 are supposed to lead by example, communicate, coordinate, help entire crew to earn more cars, parts over winnings.
@@ -29,4 +32,3 @@ are supposed to lead by example, communicate, coordinate, help entire crew to ea
 - https://csr2boss.com/csr2-racing-live-races-guide-how-to-win-every-time/
 - [Season Schedule](https://docs.google.com/spreadsheets/d/1jsgWgXeBoPMRBNFMbDjJLuDbk90S9DuI_o8sPuSyBmI/htmlview)
 - [Elite Tokens](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPHrSP6Ttu1Ctc7_jTQRtXIQFd9-9emCuc8oe_FtnLSjvJBj7e3OM8sNjCo8dVb901kyRqFvr-Inng/pubhtml)
-- https://csr2boss.com/how-to-donate-crew-token-use-wildcards-wisely/
