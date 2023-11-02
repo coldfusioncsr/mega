@@ -2,19 +2,29 @@
 This crew is supposed to be friendly and supportive. We ride along each other to earn more rewards and fun.
 
 ## Recruitment
-Active players (Rank 60+, 600k RP/season) needed
+Active players (Rank 60+, 600k RP/season) are needed. Make in-app request on the last day of each season.
 
 ## Goals
 1. 25-30 active members
 2. 23+ eligible to win 900 races of 'Weekly Elite Cup' for 34 rewards
-3. 20mil RPs for milestone car
+3. 20mil RPs for 29 milestone prizes including milestone car
+
+### Busyman's minimum guide
+1. Win 40 races of 'Weekly Elite Cup' (10:00 UTC Mon, 0:00 UTC Tue-Fri)
+2. Collect and donate all tokens
+3. Complete 'Prestige Cup'
 
 ### g2 - Weekly Elite Cup
+To max a car, yellow elite parts are needed but are very hard to earn. In WEC rewards, there are 15 yellow elite parts.
 - https://csr2racers.com/2020/12/09/elite-tuners-csr2-events-all-you-need-to-know/
 - https://www.reddit.com/r/CSRRacing2/comments/kfjbcc/weekly_elite_cup_rewards/
 
 ### g3 - 20mil RPs
-- Collect tokens in time from Daily Bonus (3rd day of csr2 week), Milestone Prize (29th, 27th, 20th, 13th), Crew Cup, Token Cup
+
+#### Wildcard token
+- [Any unused Wildcard tokens will be lost at the end of each Crew Championship season, so make sure you use them up before the season ends!](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8074-what-happens-to-my-wildcard-tokens-at-the-end-of-the-crew-championship-season/)
+- Collect tokens in time from Daily Bonus (4th day of csr week), Milestone Prize (29th, 27th, 20th, 13th), Crew Cup, Token Cup
+- [RP and Wildcard tokens can only be claimed during Crew Cup events](https://www.tumblr.com/csrracingofficial/178448763240/the-player-inbox-explained)
 
 #### Wildcard strategy
 - Fullfil one wildcard then move to next. Do NOT split donations which delays wildcard campaigns.
@@ -23,7 +33,7 @@ Active players (Rank 60+, 600k RP/season) needed
 - Token coefficient by (percent / tokens), 1st(0.0012, 0.0014, 0.02), 2nd(0.0007, 0.0008, 0.0011), 3rd(0.0004, 0.0005, 0.00076)
 - Token coefficient by (hours * percent / tokens), 1st(0.0036, 0.0028, 0.002), 2nd(0.0021, 0.0016, 0.0011), 3rd(0.0012, 0.001, 0.00076)
 
-#### RP
+#### Respect Points
 - https://www.reddit.com/r/CSRRacing2/comments/10mq83k/crew_rp_guide_for_beginners/
 - [700k rp guide](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)
 - Earn 250k+ RP from each Showdown event in the win/lose ratio of 1:2.
@@ -33,12 +43,7 @@ Active players (Rank 60+, 600k RP/season) needed
 #### Refueling
 - Car naturally takes 7m36s to refuel one pip, 1h16m to refuel full tank (10 pips)
 - Instantly refuel full tank by 20 gold coins
-- To refuel 2 pips by watching one **passive** ads.
-
-### Busyman's minimum guide
-1. Win 40 races of 'Weekly Elite Cup' (10:00 UTC Mon, 0:00 UTC Tue-Fri)
-2. Collect and donate all tokens
-3. Complete 'Prestige Cup'
+- To refuel 2 pips by watching 1 **passive** video ad.
 
 ## Admins
 are expected to lead by example, communicate, coordinate, help entire crew to earn more cars, parts over winnings.
