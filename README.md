@@ -27,7 +27,8 @@ This crew is supposed to be friendly and supportive. We ride alongside each othe
 |Every 8 hours|Live Races|
 |Every 4 hours|Daily Battles|
 |Every 1h16m|10 fuel pips|
-|Refuel by Ad or Gold Coins||
+|Refuel by watching passive Ad|50 races of Showdown per hour|
+|Refuel for 20 Gold Coins|80 races of Showdown per hour|
 
 ### g2 - Weekly Elite Cup
 To max a car, yellow elite parts are needed but are very hard to earn. In WEC rewards, there are 15 yellow elite parts.
@@ -53,7 +54,18 @@ To max a car, yellow elite parts are needed but are very hard to earn. In WEC re
 
 #### Token & Wildcard strategy
 - [Any unused Wildcard tokens will be lost at the end of each Crew Championship season, so make sure you use them up before the season ends!](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8074-what-happens-to-my-wildcard-tokens-at-the-end-of-the-crew-championship-season/)
-- Collect tokens in time from Daily Bonus (4th day of csr week), Milestone Prize (29th, 27th, 20th, 13th), Crew Cup, Token Cup
+- Collect tokens in time from Daily Bonus, Milestone Prize, Season events(Crew Cup, Token Cup, Service Trial, Prestige Cup)
+
+|Milestone|29th (5k)|27th (124k)|20th (1.52m)|13th (5.4m)|Subtotal|
+|--|--|--|--|--|--|
+|Tokens|10|30|50|50|140|
+
+|Weekday|Thu 1|Fri 2|Sat 3|Sun 4|Mon 5|Tue 6|Wed 7|Thu 8|Fri 9|Sat 10|Sun 11|Mon 12|Tue 13|Wed 14|Subtotal|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Season events|40||20||||50|20 (PC)|40|50 (PC)||20|||170+ 70(PC)|
+|Daily bonus (even/odd)||||20/ 50|||||||50/ 100||||70/ 150|
+|Available Tokens (50% donated, 50% pc, 1m RP /day)|1200|+450|+300|+300/ +750||+750|+750|+300|+600|+750|+750/ +1500|+300||||
+
 - [RP and Wildcard tokens can only be claimed during Crew Cup events](https://www.tumblr.com/csrracingofficial/178448763240/the-player-inbox-explained)
 - Fullfil one wildcard then move to next. Do NOT split donations which delays wildcard campaigns.
 - **Wildcard is activated at 16:00 UTC by any member**
@@ -68,19 +80,19 @@ To max a car, yellow elite parts are needed but are very hard to earn. In WEC re
 
 |Wildcard cost at rank 25|30%|70%|150%|
 |---|---|---|---|
-|1st|250|425|750|
+|1st|250|500|750|
 |2nd|450|875|1300|
 |3rd|625|1300|1950|
 
 |Token coefficient by (percent / tokens)|30%|70%|150%|
 |---|---|---|---|
-|1st|0.0012|0.00167|0.002|
+|1st|0.0012|0.0014|0.002|
 |2nd|0.00066|0.0008|0.00115|
 |3rd|0.00048|0.00054|0.00077|
 
 |Token coefficient by (hours * percent / tokens)|30%|70%|150%|
 |---|---|---|---|
-|1st|0.0036|0.00334|0.002|
+|1st|0.0036|0.0028|0.002|
 |2nd|0.00198|0.0016|0.00115|
 |3rd|0.00144|0.00108|0.00077|
 
