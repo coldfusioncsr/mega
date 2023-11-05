@@ -3,7 +3,7 @@
 |Member|Role|Location|Timezone|RP|Eligible for WEC?|
 |--|--|--|--|--|--|
 |ROO*0|L|NSW AUS|UTC+10 AET/+11 AEST||Y|
-|Bbl*K|M|VIC AUS|UTC+10 AET/+11 AEST|||
+|Ssp*K|M|VIC AUS|UTC+10 AET/+11 AEST|||
 |Voc*s|M|AUS|UTC+10|||
 |Edw*P|M|UK|UTC+1|||
 |Ana*n|M|Norway|UTC+1|||
@@ -16,3 +16,13 @@
 |SLI*K|A|Northern Idoha, USA|UTC-7||Y|
 |Lil*l|A|Stockton California, USA|UTC-8||Y|
 |Sen*8|M|North America|||Y|
+|yun*p|M||||
+|Orp*s|M||||
+|zeb*e|M||||
+|Nim*0|M||||
+|Iro*d|M||||
+|Sly*8|M||||
+|Xta*Z|M||||
+|Mat*l|M||||
+|Eri*M|M||||
+|DAR*R|M||||
