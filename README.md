@@ -57,8 +57,8 @@ To max a car, yellow elite parts are needed but are very hard to earn. In WEC re
 3. It takes 5-60 sec to receive 2 fuel pips by watching 1 **passive** video ad which pops up when fuel pips drop below 6. Comparably, proactively watching 1 ad recieves only 1 fuel pip.
 
 #### Token & Wildcard strategy
-- 30%(3h) x 3, one for each weekend, one optionally for last wildcard
-- 150%(1h) x 2, one for each weekday
+- 30%(3h) x 3, two for each weekend, one optionally for last wildcard
+- 150%(1h) x 2, for each weekday
 - 70%(2h), for the rest
 
 |Milestone|29th (5k)|27th (124k)|20th (1.52m)|13th (5.4m)|Subtotal|
