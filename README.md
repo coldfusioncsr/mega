@@ -4,10 +4,10 @@ This crew is supposed to be friendly and supportive. We ride alongside each othe
 ## Recruitment
 **Active players (Rank 60+, 600k RP/season) are needed. Make in-app request on the last day of each season.**
 
-Demo\*d, MADm\*1, Vint\*8, you are welcome to come back
+Demo\*d, MADm\*1, Vint\*8, you are welcome to come back.
 
 ## Why do you play this game?
-Family 1st, work 2nd, game 3rd.
+**Family 1st, work 2nd, game 3rd.**
 - https://www.reddit.com/r/CSRRacing2/comments/bykatw/why_do_you_play_this_game/
 - https://www.lifewire.com/why-play-csr-racing-2-4059890
 
@@ -43,6 +43,7 @@ To max a car, yellow elite parts are needed but are very hard to earn. In WEC re
 #### How to earn Respect Points with/without racing
 - https://www.reddit.com/r/CSRRacing2/comments/10mq83k/crew_rp_guide_for_beginners/
 - https://csr2mods.com/en-au/blogs/csr-racing-2-guides/respect-points-earn-racing-2
+- https://csr2racers.com/2019/12/29/respect-points-how-to-earn-lots-of-rp/
 - [700k rp guide](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)
 - Earn 250k+ from each Showdown event in the win/lose ratio of 1:2.
 - Earn 12k+ from Live races by winning 15 races
@@ -76,7 +77,8 @@ To max a car, yellow elite parts are needed but are very hard to earn. In WEC re
 - Collect tokens in time from Daily Bonus, Milestone Prize, Season events(Crew Cup, Token Cup, Service Trial, Prestige Cup)
 - [RP and Wildcard tokens can only be claimed during Crew Cup events](https://www.tumblr.com/csrracingofficial/178448763240/the-player-inbox-explained)
 - Fullfil one wildcard then move to next. Do NOT split donations which delays wildcard campaigns.
-- **Wildcard is activated at 16:00 UTC by any member**
+- **Wildcard is activated at 16:00 UTC by admin, unless authorized by admin**
+- Only one wildcard campaign per day to avoid exhaustion
 - https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8073-what-are-wildcards/
 - https://csr2boss.com/how-to-donate-crew-token-use-wildcards-wisely/
 - https://csr2btb.wordpress.com/2020/02/14/how-to-maximize-using-tokens-for-wise-team-leader/
@@ -108,7 +110,7 @@ To max a car, yellow elite parts are needed but are very hard to earn. In WEC re
 are expected to lead by example, communicate, coordinate, help entire crew to earn more cars, parts over winnings.
 - g1 ops, to keep active players in, inactive/naughty members out
 - g2 ops, to educate members to be eligible for WEC, and remind members to attend WEC in time.
-- g3 ops, to educate and remind members to collect and donate tokens in time.
+- g3 ops, to survey and measure for best wildcard time to maximize RP generation, to educate and remind members to collect and donate tokens in time.
 
 ## Other resources
 - https://csr2racers.com/2020/01/11/all-the-csr2-cars-with-tune-and-shift-pattern-for-the-best-time/
