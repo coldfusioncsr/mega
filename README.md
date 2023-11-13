@@ -57,9 +57,22 @@ To max a car, yellow elite parts are needed but are very hard to earn. In WEC re
 3. It takes 5-60 sec to receive 2 fuel pips by watching 1 **passive** video ad which pops up when fuel pips drop below 6. Comparably, proactively watching 1 ad recieves only 1 fuel pip.
 
 #### Token & Wildcard strategy
+Given each person could donate 400 tokens per season.
 - 30%(3h) x 3, two for each weekend, one optionally for last wildcard
 - 150%(1h) x 2, for each weekday
 - 70%(2h), for the rest
+
+|Wildcard cost at rank 25|1st|2nd|3rd+|400x30|1+2|+3|+4|+5|+6|+7|
+|-:|--|--:|--:|--:|--:|--|--|--|--|--|
+|30% (3h)|250|450|625|20|700|1325||
+|70% (2h)|500|875|1300|10|1375|2675|3975|5275|6575|7875|
+|150% (1h)|750|1300|1950|7|2050|4000|5950|7900||
+
+|Token coefficient by (percent / tokens)|1st|2nd|3rd+|by (hours * percent / tokens)|1st|2nd|3rd+|
+|--:|---|---|---|--:|---|---|---|
+|30%|0.0012|0.00066|0.00048|30% (3h)|0.0036|0.00198|0.00144|
+|70%|0.0014|0.0008|0.00054|70% (2h)|0.0028|0.0016|0.00108|
+|150%|0.002|0.00115|0.00077|150% (1h)|0.002|0.00115|0.00077|
 
 |Milestone|29th (5k)|27th (124k)|20th (1.52m)|13th (5.4m)|Subtotal|
 |--|--|--|--|--|--|
@@ -71,13 +84,13 @@ To max a car, yellow elite parts are needed but are very hard to earn. In WEC re
 |Daily bonus (even/odd)||||20/ 50|||||||50/ 100||||70/ 150|
 |Available Tokens (50% donated, 35% pc, 1m RP /day)|1200|+450|+300|+300/ +750||+750|+750|+210 (PC)|+600|+525 (PC)|+750/ +1500|+300||||
 |Available Tokens (75% donated, 35% pc, 1m RP /day)|1800|+675|+450|+450/ +1125||+1125|+1125|+210 (PC)|+900|+525 (PC)|+1125/ +2250|+450||||
-|Wildcard|150% (1st)|70% (1st)|30% (1st)|--|70% (2nd)|70% (3rd)|70%|150% (2nd)|70%|30% (2nd)|--|70%|70%|--|--|
+|Wildcard|150% (1st)|70% (1st)|30% (1st)|--|70% (2nd)|70% (3rd)|70% (4th)|150% (2nd)|70% (5th)|30% (2nd)|--|70% (6th)|70% (7th)|--|--|
 
 - [Any unused Wildcard tokens will be lost at the end of each Crew Championship season, so make sure you use them up before the season ends!](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8074-what-happens-to-my-wildcard-tokens-at-the-end-of-the-crew-championship-season/)
 - Collect tokens in time from Daily Bonus, Milestone Prize, Season events(Crew Cup, Token Cup, Service Trial, Prestige Cup)
 - [RP and Wildcard tokens can only be claimed during Crew Cup events](https://www.tumblr.com/csrracingofficial/178448763240/the-player-inbox-explained)
 - Fullfil one wildcard then move to next. Do NOT split donations which delays wildcard campaigns.
-- **Wildcard is activated at 16:00 UTC by admin, unless authorized by admin**
+- **Wildcard is activated at 3:00 UTC or 16:00 UTC by admin, unless authorized by admin**
 - Only one wildcard campaign per day to avoid exhaustion
 - https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8073-what-are-wildcards/
 - https://csr2boss.com/how-to-donate-crew-token-use-wildcards-wisely/
@@ -87,24 +100,6 @@ To max a car, yellow elite parts are needed but are very hard to earn. In WEC re
 - https://www.reddit.com/r/CSRRacing2/comments/j6gdtq/whats_the_best_wildcard_program_per_season/
 - https://www.reddit.com/r/CSRRacing2/comments/94ld0n/anyone_done_an_actual_wildcard_data_analysis/
 - https://www.reddit.com/r/CSRRacing2/comments/5ksnmc/wildcard_costs/
-
-|Wildcard cost at rank 25|30%|70%|150%|
-|---|---|---|---|
-|1st|250|500|750|
-|2nd|450|875|1300|
-|3rd|625|1300|1950|
-
-|Token coefficient by (percent / tokens)|30%|70%|150%|
-|---|---|---|---|
-|1st|0.0012|0.0014|0.002|
-|2nd|0.00066|0.0008|0.00115|
-|3rd|0.00048|0.00054|0.00077|
-
-|Token coefficient by (hours * percent / tokens)|30%|70%|150%|
-|---|---|---|---|
-|1st|0.0036|0.0028|0.002|
-|2nd|0.00198|0.0016|0.00115|
-|3rd|0.00144|0.00108|0.00077|
 
 ## Admins
 are expected to lead by example, communicate, coordinate, help entire crew to earn more cars, parts over winnings.
