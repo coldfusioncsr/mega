@@ -36,6 +36,9 @@ Demo\*d, MADm\*1, Vint\*8, you are welcome to come back.
 3. It takes 5-60 sec to receive 2 fuel pips by watching 1 **passive** video ad which pops up when fuel pips drop below 6. Comparably, proactively watching 1 ad recieves only 1 fuel pip.
 
 ### g2 - Weekly Elite Cup
+|Schedule|10:00 - 23:59 UTC Mon|0:00 - 23:59 UTC Tue-Thu|0:00 - 11:00 UTC Fri|
+|-|-|-|-|
+
 To max a car, yellow elite parts are needed but are very hard to earn. By winning 900 races of WEC, you could earn 15 Yellow (Legendary) Elite Parts and 500 Elite Tuners Currency (buys 4.5 YEP)
 - https://csr2racers.com/2020/12/09/elite-tuners-csr2-events-all-you-need-to-know/
 - https://www.reddit.com/r/CSRRacing2/comments/kfjbcc/weekly_elite_cup_rewards/
@@ -65,9 +68,9 @@ Given each member should be able to get 400 tokens per season.
 
 |Wildcard cost at rank 25|1st|2nd|3rd+|affordable|1+2|+3|+4|+5|+6|+7|+8|
 |-:|--|--:|--:|--:|--:|:-:|:-:|--|:-:|--|:-:|
-|30% (3h)|250|450|625|20|![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 700|![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 1325|||
-|70% (2h)|500|875|1300|10|1375|2675|3975|5275|![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)6575|7875|![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 9175|
-|150% (1h)|750|1300|1950|7|![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 2050|![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 4000|5950|7900|||
+|30% (3h)|250|450|625|20|&#x1F34F;700|&#x1F34E;1325|||
+|70% (2h)|500|875|1300|10|1375|2675|3975|5275|&#x1F34E;6575|7875|&#x1F34F;9175|
+|150% (1h)|750|1300|1950|7|&#x1F34F;2050|&#x1F34E;4000|5950|7900|||
 
 |Token coefficient by (percent / tokens)|1st|2nd|3rd+|by (hours * percent / tokens)|1st|2nd|3rd+|
 |--:|---|---|---|--:|---|---|---|
