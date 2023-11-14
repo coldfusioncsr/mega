@@ -21,20 +21,22 @@ Demo\*d, MADm\*1, Vint\*8, you are welcome to come back.
 2. Collect and donate 400+ tokens
 3. Complete 'Prestige Cup'
 
-### How frequent do you play
+### How frequently do you play
 - [Season Schedule](https://docs.google.com/spreadsheets/d/1jsgWgXeBoPMRBNFMbDjJLuDbk90S9DuI_o8sPuSyBmI/htmlview)
 
 |Frequency|what|
 |---------|----|
-|Once a day|Daily Bonus, Weekly Elite Cup|
+|Once a day|Daily Bonus, Weekly Elite Cup, Token/Crew Cup|
 |Every 8 hours|Live Races|
-|Every 4 hours|Daily Battles|
-|Every 1h16m|10 fuel pips|
-|Refuel by watching passive Ad|50 races of Showdown per hour|
-|Refuel for 20 Gold Coins|80 races of Showdown per hour|
+|Every 4 hours|Daily Battles, Bronze Crates|
+
+#### Options to refuel
+1. Car naturally takes 7m36s to fill 1 fuel pip, 1h16m to fill full tank (10 pips)
+2. Instantly fill 10 fuel pips for 20 gold coins
+3. It takes 5-60 sec to receive 2 fuel pips by watching 1 **passive** video ad which pops up when fuel pips drop below 6. Comparably, proactively watching 1 ad recieves only 1 fuel pip.
 
 ### g2 - Weekly Elite Cup
-To max a car, yellow elite parts are needed but are very hard to earn. In WEC rewards, there are 15 yellow elite parts.
+To max a car, yellow elite parts are needed but are very hard to earn. By winning 900 races of WEC, you could earn 15 Yellow (Legendary) Elite Parts and 500 Elite Tuners Currency (buys 4.5 YEP)
 - https://csr2racers.com/2020/12/09/elite-tuners-csr2-events-all-you-need-to-know/
 - https://www.reddit.com/r/CSRRacing2/comments/kfjbcc/weekly_elite_cup_rewards/
 
@@ -45,28 +47,27 @@ To max a car, yellow elite parts are needed but are very hard to earn. In WEC re
 - https://csr2mods.com/en-au/blogs/csr-racing-2-guides/respect-points-earn-racing-2
 - https://csr2racers.com/2019/12/29/respect-points-how-to-earn-lots-of-rp/
 - [700k rp guide](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)
-- Earn 250k+ from each Showdown event in the win/lose ratio of 1:2.
-- Earn 12k+ from Live races by winning 15 races
-- Earn 325k from extra mile rewards of Race pass every other season
+- Earn 250k+ from each `Showdown` event in the win/lose ratio of 1:2.
+- Earn 11k+ from `Live races` by winning 15 races with tier-1 car for guaranteed win or with tier-5 car in the win/lose ratio of 1:1.
+- Earn 325k from extra mile rewards of `Race pass` every other season
 - [Buying any car gives you 500rp](https://www.reddit.com/r/CSRRacing2/comments/52f1yr/earning_rp_without_racing/), https://www.mobilesector.net/car-stripping-in-csr-racing-2/, [Cars available for cash or gold](https://docs.google.com/spreadsheets/d/1IUQrLBN_NkSKhKuHbe9DRfBFhF9Yf2_x6Yl3izL6lLE/)
 - [100 RP per fusion part. Upgrading cars depends on Tier and stage. For example stage 1 T1 upgrade is 6 RP, stage 6 T5 upgrade is 240 RP.](https://www.reddit.com/r/CSR2/comments/g534f2/how_much_rp_do_i_get_from_fitting_fusion_parts/)
 
-#### Options to refuel
-1. Car naturally takes 7m36s to fill 1 fuel pip, 1h16m to fill full tank (10 pips)
-2. Instantly fill 10 fuel pips for 20 gold coins
-3. It takes 5-60 sec to receive 2 fuel pips by watching 1 **passive** video ad which pops up when fuel pips drop below 6. Comparably, proactively watching 1 ad recieves only 1 fuel pip.
-
 #### Token & Wildcard strategy
-Given each person could donate 400 tokens per season.
+Given each member should be able to get 400 tokens per season.
+
+1. Wildcard for Showdown, win/lose ratio is 1:2. You should be able to complete 50 races of Showdown per hour when Refuelling by watching passive Ad, comparably 80 races of Showdown per hour when refuelling for 20 Gold Coins. To complete 2 Showdown events, you would need to spend 20 hours.
+2. Wildcard for Live races with swap, win/lose ratio is 1:1.
+
 - 30%(3h) x 3, two for each weekend, one optionally for last wildcard
 - 150%(1h) x 2, for each weekday
 - 70%(2h), for the rest
 
-|Wildcard cost at rank 25|1st|2nd|3rd+|400x30|1+2|+3|+4|+5|+6|+7|
-|-:|--|--:|--:|--:|--:|--|--|--|--|--|
-|30% (3h)|250|450|625|20|700|1325||
-|70% (2h)|500|875|1300|10|1375|2675|3975|5275|6575|7875|
-|150% (1h)|750|1300|1950|7|2050|4000|5950|7900||
+|Wildcard cost at rank 25|1st|2nd|3rd+|affordable|1+2|+3|+4|+5|+6|+7|+8|
+|-:|--|--:|--:|--:|--:|:-:|:-:|--|:-:|--|:-:|
+|30% (3h)|250|450|625|20|![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 700|![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 1325|||
+|70% (2h)|500|875|1300|10|1375|2675|3975|5275|![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)6575|7875|![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 9175|
+|150% (1h)|750|1300|1950|7|![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 2050|![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 4000|5950|7900|||
 
 |Token coefficient by (percent / tokens)|1st|2nd|3rd+|by (hours * percent / tokens)|1st|2nd|3rd+|
 |--:|---|---|---|--:|---|---|---|
@@ -74,7 +75,7 @@ Given each person could donate 400 tokens per season.
 |70%|0.0014|0.0008|0.00054|70% (2h)|0.0028|0.0016|0.00108|
 |150%|0.002|0.00115|0.00077|150% (1h)|0.002|0.00115|0.00077|
 
-|Milestone|29th (5k)|27th (124k)|20th (1.52m)|13th (5.4m)|Subtotal|
+|Milestone rewards (crew rank<2k/>=2k)|5k (29th/35th)|124k (27th/33rd)|1.52m (20th/26th)|5.4m (13th/19th)|Subtotal|
 |--|--|--|--|--|--|
 |Tokens|10|30|50|50|140|
 
@@ -91,7 +92,7 @@ Given each person could donate 400 tokens per season.
 - [RP and Wildcard tokens can only be claimed during Crew Cup events](https://www.tumblr.com/csrracingofficial/178448763240/the-player-inbox-explained)
 - Fullfil one wildcard then move to next. Do NOT split donations which delays wildcard campaigns.
 - **Wildcard is activated at 3:00 UTC or 16:00 UTC by admin, unless authorized by admin**
-- Only one wildcard campaign per day to avoid exhaustion
+- Only one wildcard campaign per day to avoid tiredness
 - https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8073-what-are-wildcards/
 - https://csr2boss.com/how-to-donate-crew-token-use-wildcards-wisely/
 - https://csr2btb.wordpress.com/2020/02/14/how-to-maximize-using-tokens-for-wise-team-leader/
