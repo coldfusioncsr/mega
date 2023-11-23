@@ -98,8 +98,8 @@ Given each member should be able to get 400 tokens per season.
 |Usable Tokens (50% donated, 12 pc, 1m RP /day)|(&#x1F4D7;10 + &#x1F4D7;30 +40) 1200|(&#x1F4D7; 50) +750|+300|+300/ +750||(&#x1F4D7; 50) +750|+750|+240 (PC)|+600|+600 (PC)|+750/ +1500|+300||||
 |&#9758;Usable Tokens (75% donated, 16 pc, 1.5m RP /day)|1800|+1125|+450|+450/ +1125 (&#x1F4D7; 50) +1125|||+1125|+320 (PC)|+900|+800 (PC)|+1125/ +2250|+450||||
 |&#x1F34E;(12d)|150% (1st)||70% (1st)|30% (1st)|150% (2nd)|70% (2nd)|70% (3rd)|150% (3rd)||70% (4th)|30% (2nd)|70% (5th)|70% (6th)|30% (3rd)|--|
-|&#x1F34F;(11d)|150% (1st)|||30% (1st)|150% (2nd)|150% (3rd)|70% (1st)|150% (2nd)|||30% (2nd)|150% (5th)|150% (6th)|70% (2nd)|--|
-|&#x1F34D;(10d)|150% (1st)|||30% (1st)|150% (2nd)|150% (3rd)|70% (1st)|150% (2nd)|||30% (2nd)|150% (5th)|150% (6th)|70% (2nd)|--|
+|&#x1F34F;(11d)|150% (1st)||70% (1st)|30% (1st)|150% (2nd)|150% (3rd)|70% 2nd)|150% (4th)|||30% (2nd)|70% (3rd)|70% (4th)|70% (5th)|--|
+|&#x1F34D;(10d)|150% (1st)|||30% (1st)|150% (2nd)|150% (3rd)|70% (1st)|150% (4th)|||30% (2nd)|150% (5th)|150% (6th)|70% (2nd)|--|
 
 - [Any unused Wildcard tokens will be lost at the end of each Crew Championship season, so make sure you use them up before the season ends!](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8074-what-happens-to-my-wildcard-tokens-at-the-end-of-the-crew-championship-season/)
 - Collect tokens in time from Daily Bonus, Milestone Prize, Season events(Crew Cup, Token Cup, Service Trial, Prestige Cup)
