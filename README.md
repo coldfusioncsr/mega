@@ -22,7 +22,7 @@ Demo\*d, MADm\*1, Vint\*8, you are welcome to come back.
 3. Complete 'Prestige Cup'
 
 ### How frequently do you play
-- [Season Schedule](https://docs.google.com/spreadsheets/d/1jsgWgXeBoPMRBNFMbDjJLuDbk90S9DuI_o8sPuSyBmI/htmlview)
+- [Season Schedule 1](https://docs.google.com/spreadsheets/d/1jsgWgXeBoPMRBNFMbDjJLuDbk90S9DuI_o8sPuSyBmI/htmlview), [Season Schedule 2](https://docs.google.com/spreadsheets/d/1iKkwmLYEPRktXw17auU2egdTSyIu6i1JdWZzMrI3wPk/edit)
 
 |Frequency|what|
 |---------|----|
@@ -36,7 +36,7 @@ Demo\*d, MADm\*1, Vint\*8, you are welcome to come back.
 3. It takes 5-60 sec to receive 2 fuel pips by watching 1 **passive** video ad which pops up when fuel pips drop below 6. Comparably, proactively watching 1 ad recieves only 1 fuel pip. [A guiide to watching Ads](https://www.reddit.com/r/CSRRacing2/comments/c4x6hc/a_guide_to_watching_ads/)
 
 ### g2 - Weekly Elite Cup
-|Schedule|10:00 - 23:59 UTC Mon|0:00 - 23:59 UTC Tue-Thu|0:00 - 09:59 UTC Fri|
+|&#x1F536;Schedule|10:00 - 23:59 UTC Mon|0:00 - 23:59 UTC Tue-Thu|0:00 - 09:59 UTC Fri|
 |-|-|-|-|
 
 To max a car, Yellow Elite Parts are needed but are very hard to earn. By winning 900 races of WEC, each member could earn 15 Yellow (Legendary) Elite Parts and 500 Elite Tuners Currency (2,300 ETC buys 20 YEP)
@@ -47,7 +47,7 @@ To max a car, Yellow Elite Parts are needed but are very hard to earn. By winnin
 
 #### How to earn Respect Points with/without racing
 - https://www.reddit.com/r/CSRRacing2/comments/10mq83k/crew_rp_guide_for_beginners/
-- https://csr2mods.com/en-au/blogs/csr-racing-2-guides/respect-points-earn-racing-2
+- [Respect points - how to earn a lot of RP in CSR2](https://csr2mods.com/en-au/blogs/csr-racing-2-guides/respect-points-earn-racing-2)
 - https://csr2racers.com/2019/12/29/respect-points-how-to-earn-lots-of-rp/
 - [700k rp guide](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)
 - Earn 250k+ from each `Showdown` event in the win/lose ratio of 1:2.
@@ -57,23 +57,21 @@ To max a car, Yellow Elite Parts are needed but are very hard to earn. By winnin
 - [100 RP per fusion part. Upgrading cars depends on Tier and stage. For example stage 1 T1 upgrade is 6 RP, stage 6 T5 upgrade is 240 RP.](https://www.reddit.com/r/CSR2/comments/g534f2/how_much_rp_do_i_get_from_fitting_fusion_parts/)
 
 #### Token & Wildcard strategy
-Given each member should be able to get 400 tokens per season.
+Tokens that each member should be able to collect per season are below
+||Season events|Daily bonus (Event/Odd)|Milestone|Total collectible|
+|--|--|--|--|--|
+|Tokens|170+70(PC)|80/130|140|390/440+70(PC)|
 
 1. Wildcard for Showdown, win/lose ratio is 1:2. You should be able to complete 50 races of Showdown per hour when Refuelling by watching passive Ad, comparably 80 races of Showdown per hour when refuelling for 20 Gold Coins. To complete 2 Showdown events, you would need to spend 13-20 hours.
 2. Wildcard for Live races with swap, win/lose ratio is 1:1.
 
-&#x1F34F;Green apple (11 days)
 - 30%(3h) for weekend, optionally for last wildcard
-- 150%(1h) for weekday
-- 70%(2h)
+- 150%(1h) & 70%(2h) for weekday
 
-&#x1F34E;Red apple (12 days)
-
+&#x1F34E;Red apple (12 days),
+&#x1F34F;Green apple (11 days),
 &#x1F34D;Pineapple (10 days)
-1. Fill 1st 30% & 1st 70%
-2. Fill & activate 1st - 6th 150%
-3. Activate 1st 70%, Fill & active 2nd 70%
-4. Activate 1st 30%, Fill & active 2nd 30%
+
 
 |Wildcard cost at rank 25|1st|2nd|3rd+|Max|1+2|+3|+4|+5|+6|+7|+8|
 |-:|--|--:|--:|--:|--:|:-:|:-:|--|:-:|--|:-:|
@@ -81,25 +79,24 @@ Given each member should be able to get 400 tokens per season.
 |70% (2h)|500|875|1300|10|1375&#x1F34D;|2675|3975|&#x1F34F;5275|&#x1F34E;6575|7875|9175|
 |150% (1h)|750|1300|1950|7|2050|&#x1F34E;4000|&#x1F34F;5950|7900|&#x1F34D;9850||
 
-|Token coefficient by (percent / tokens)|1st|2nd|3rd+|by (hours * percent / tokens)|1st|2nd|3rd+|
+|Token coefficient by (percent / tokens)&#x1F34D;|1st|2nd|3rd+|by (hours * percent / tokens)&#x1F34E;&#x1F34F;|1st|2nd|3rd+|
 |--:|---|---|---|--:|---|---|---|
-|30%|0.0012|0.00066|0.00048|30% (3h)|0.0036|0.00198|0.00144|
-|70%|0.0014|0.0008|0.00054|70% (2h)|0.0028|0.0016|0.00108|
-|150%|0.002|0.00115|0.00077|150% (1h)|0.002|0.00115|0.00077|
+|30%|**0.0012**|0.00066|0.00048|30% (3h)|0.0036|0.00198|0.00144|
+|70%|**0.0014**|**0.0008**|0.00054|70% (2h)|0.0028|0.0016|0.00108|
+|150%|**0.002**|**0.00115**|**0.00077**|150% (1h)|0.002|0.00115|0.00077|
 
 |Milestone rewards (crew rank<2k/>=2k)|5k (29th/35th)|124k (27th/33rd)|1.52m (20th/26th)|5.4m (13th/19th)|Subtotal|
 |--|--|--|--|--|--|
 |&#x1F4D7;Tokens|10|30|50|50|140|
 
-|Day (UTC)|Thu 1|Fri 2|Sat 3|Sun 4|Mon 5|Tue 6|Wed 7|Thu 8|Fri 9|Sat 10|Sun 11|Mon 12|Tue 13|Wed 14|Sub- total|
-|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|&#x1F4D8;Season events|40 (3d)||20 (2d)||||50 (1d)|20 (PC #7)|40 (3d)|50 (PC #19)||20 (1d)|||170+ 70 (PC)|
-|&#x1F4D9;Daily bonus (even/odd)||||20/ 50|||||||50/ 100||||70/ 150|
-|Usable Tokens (50% donated, 12 pc, 1m RP /day)|(&#x1F4D7;10 + &#x1F4D7;30 +40) 1200|(&#x1F4D7; 50) +750|+300|+300/ +750||(&#x1F4D7; 50) +750|+750|+240 (PC)|+600|+600 (PC)|+750/ +1500|+300||||
-|&#9758;Usable Tokens (75% donated, 16 pc, 1.5m RP /day)|1800|+1125|+450|+450/ +1125 (&#x1F4D7; 50) +1125|||+1125|+320 (PC)|+900|+800 (PC)|+1125/ +2250|+450||||
-|&#x1F34E;(12d)|150% (1st)||70% (1st)|30% (1st)|150% (2nd)|70% (2nd)|70% (3rd)|150% (3rd)||70% (4th)|30% (2nd)|70% (5th)|70% (6th)|30% (3rd)|--|
-|&#x1F34F;(11d)|150% (1st)||70% (1st)|30% (1st)|150% (2nd)|150% (3rd)|70% 2nd)|150% (4th)|||30% (2nd)|70% (3rd)|70% (4th)|70% (5th)|--|
-|&#x1F34D;(10d)|150% (1st)|||30% (1st)|150% (2nd)|150% (3rd)|70% (1st)|150% (4th)|||30% (2nd)|150% (5th)|150% (6th)|70% (2nd)|--|
+|Day (UTC)|Thu 1|Fri 2|Sat 3|Sun 4|Mon 5|Tue 6|Wed 7|Thu 8|Fri 9|Sat 10|Sun 11|Mon 12|Tue 13|Wed 14|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|&#x1F536;Weekly elite cup (8r)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)||
+|&#x1F4D8;Season events (1r)|40 (3d)||20 (2d)||||50 (1d)|20 (PC #7)|40 (3d)|50 (PC #19)||20 (1d)|||
+|&#x1F4D9;Daily bonus (even/odd)|||30 (1d)|||||||50/ 100 (1d)|||||80/ 130|
+|&#x1F34E;(12d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|70% (2nd)|70% (3rd)|150% (3rd)|70% (4th)|30% (2nd)||70% (5th)|70% (6th)|30% (3rd)|--|
+|&#x1F34F;(11d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|150% (3rd)|70% 2nd)|150% (4th)||30% (2nd)||70% (3rd)|70% (4th)|70% (5th)|--|
+|&#x1F34D;(10d)|150% (1st)||30% (1st)||150% (2nd)|150% (3rd)|70% (1st)|150% (4th)||30% (2nd)||150% (5th)|150% (6th)|70% (2nd)|--|
 
 - [Any unused Wildcard tokens will be lost at the end of each Crew Championship season, so make sure you use them up before the season ends!](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8074-what-happens-to-my-wildcard-tokens-at-the-end-of-the-crew-championship-season/)
 - Collect tokens in time from Daily Bonus, Milestone Prize, Season events(Crew Cup, Token Cup, Service Trial, Prestige Cup)
