@@ -26,7 +26,7 @@ Demo\*d, MADm\*1, Vint\*8, you are welcome to come back.
 
 |Frequency|what|
 |---------|----|
-|Once a day|Daily Bonus, Weekly Elite Cup, Token/Crew Cup|
+|Once a day|&#x1F4D9;Daily Bonus, &#x1F536;Weekly Elite Cup, &#x1F4D8;Season events|
 |Every 8 hours|Live Races|
 |Every 4 hours|Daily Battles, Bronze Crates|
 
@@ -58,7 +58,7 @@ To max a car, Yellow Elite Parts are needed but are very hard to earn. By winnin
 
 #### Token & Wildcard strategy
 Tokens that each member should be able to collect per season are below
-||Season events|Daily bonus (Event/Odd)|Milestone|Total collectible|
+||&#x1F4D8;Season events|&#x1F4D9;Daily bonus (Event/Odd)|&#x1F4D7;Milestone|Total collectible|
 |--|--|--|--|--|
 |Tokens|170+70(PC)|80/130|140|390/440+70(PC)|
 
@@ -85,9 +85,9 @@ Tokens that each member should be able to collect per season are below
 |70%|**0.0014**|**0.0008**|0.00054|70% (2h)|0.0028|0.0016|0.00108|
 |150%|**0.002**|**0.00115**|**0.00077**|150% (1h)|0.002|0.00115|0.00077|
 
-|Milestone rewards (crew rank<2k/>=2k)|5k (29th/35th)|124k (27th/33rd)|1.52m (20th/26th)|5.4m (13th/19th)|Subtotal|
-|--|--|--|--|--|--|
-|&#x1F4D7;Tokens|10|30|50|50|140|
+|&#x1F4D7;Milestone rewards (crew rank>2.5k/<=2.5k)|5k (29th/35th)|124k (27th/33rd)|1.52m (20th/26th)|5.4m (13th/19th)|
+|--|--|--|--|--|
+|Tokens|10|30|50|50|
 
 |Day (UTC)|Thu 1|Fri 2|Sat 3|Sun 4|Mon 5|Tue 6|Wed 7|Thu 8|Fri 9|Sat 10|Sun 11|Mon 12|Tue 13|Wed 14|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
@@ -97,6 +97,10 @@ Tokens that each member should be able to collect per season are below
 |&#x1F34E;(12d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|70% (2nd)|70% (3rd)|150% (3rd)|70% (4th)|30% (2nd)||70% (5th)|70% (6th)|30% (3rd)|--|
 |&#x1F34F;(11d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|150% (3rd)|70% 2nd)|150% (4th)||30% (2nd)||70% (3rd)|70% (4th)|70% (5th)|--|
 |&#x1F34D;(10d)|150% (1st)||30% (1st)||150% (2nd)|150% (3rd)|70% (1st)|150% (4th)||30% (2nd)||150% (5th)|150% (6th)|70% (2nd)|--|
+|Time|3:00|3:00|&#x1F49C;?||16:00|3:00|3:00|3:00|3:00|&#x1F49C;?||16:00|3:00|3:00|--|
+|Activator|A|A|&#x1F49C;M||A|A|A|A|A|&#x1F49C;M||A|A|A|--|
+
+(A)dmin only, &#x1F49C;any (M)ember to activate at anytime given notice 30mins before, ie. `to activate 30% at 17:00 UTC`
 
 - [Any unused Wildcard tokens will be lost at the end of each Crew Championship season, so make sure you use them up before the season ends!](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8074-what-happens-to-my-wildcard-tokens-at-the-end-of-the-crew-championship-season/)
 - Collect tokens in time from Daily Bonus, Milestone Prize, Season events(Crew Cup, Token Cup, Service Trial, Prestige Cup)
