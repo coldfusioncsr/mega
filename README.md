@@ -13,11 +13,11 @@ Demo\*d, MADm\*1, Vint\*8, you are welcome to come back.
 
 ## Goals
 1. 25-30 active members
-2. 23+ eligible to win 900 races of 'Weekly Elite Cup' for 34 rewards every week
-3. 20mil RPs for 29 milestone prizes including milestone car every season
+2. 23+ eligible to win 900 races of `Weekly Elite Cup` for **parts** every week
+3. 20mil RPs for prize **car** every season
 
 ### Busyman's minimum playbook
-1. Win 40 races of ['Weekly Elite Cup'](#g2---weekly-elite-cup)
+1. Win 40 races of [`Weekly Elite Cup`](#g2---weekly-elite-cup)
 2. Collect and donate 400+ tokens
 3. Complete 'Prestige Cup'
 
@@ -58,7 +58,9 @@ To max a car, Yellow Elite Parts are needed but are very hard to earn. By winnin
 
 ||Rewards|RP|Total|
 |--|--|--|--|
+|[season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)||700k+/Season|
 |Live Races|150 Bronze keys, 30 Sliver keys / 15 Races / 8 hours|750-1300/win|33,750-58,500/Day, 472.5k-819k/Season|
+|Showdowns|||250k+ x (2 or 3) /Season|
 
 #### Token & Wildcard strategy
 Tokens that each member should be able to collect per season are below
@@ -72,22 +74,29 @@ Tokens that each member should be able to collect per season are below
 - 30%(3h) for weekend, optionally for last wildcard
 - 150%(1h) & 70%(2h) for weekday
 
-&#x1F34E;Red apple (12 days),
-&#x1F34F;Green apple (11 days),
-&#x1F34D;Pineapple (10 days)
+|Intensive <-||-> Extensive|
+|--|--|--|
+|&#x1F34E;Red apple (14 days)|&#x1F34D;Pineapple (12 days)|&#x1F34F;Green apple (10 days)|
 
+&#x1F34E;Intensive grinding suits for highly organised crew of which most members
+1. attend each wildcard campaign
+2. know how to quickly refuel
+
+&#x1F34F;Extensive grinding suits for crew
+1. hard to agree on wildcard time
+2. rely on natural refueling
 
 |Wildcard cost at crew respect rank 25|1st|2nd|3rd+|85%+ 50%PC|100%+ 100%PC|1+2|+3|+4|+5|+6|+7|+8|
 |-:|--|--:|--:|--:|--:|--:|:-:|:-:|--|:-:|--|:-:|
-|30% (3h)|250|450|625|18.4/20.5|22.9/25.3|&#x1F34F;700&#x1F34D;|&#x1F34E;1325|||
-|70% (2h)|500|875|1300|9.4/10.3/|11.5/12.7|1375&#x1F34D;|2675|3975|&#x1F34F;5275|&#x1F34E;6575|7875|9175|
-|150% (1h)|750|1300|1950|6.5/7.2|8/8.8|2050|&#x1F34E;4000|&#x1F34F;5950|7900|&#x1F34D;9850||
+|30% (3h)|250|450|625|18.4/20.5|22.9/25.3|700&#x1F34E;&#x1F34D;|1325|||||&#x1F34F;|
+|70% (2h)|500|875|1300|9.4/10.3/|11.5/12.7|1375&#x1F34E;&#x1F34F;|2675|3975|5275|6575|7875|9175&#x1F34D;|
+|150% (1h)|750|1300|1950|6.5/7.2|8/8.8|2050&#x1F34D;&#x1F34F;|4000|5950|7900|&#x1F34E;9850||
 
-|Token coefficient by (percent / tokens)&#x1F34D;|1st|2nd|3rd+|by (hours * percent / tokens)&#x1F34E;&#x1F34F;|1st|2nd|3rd+|
+|Token coefficient by (percent / tokens)|1st|2nd|3rd+|by (hours * percent / tokens)|1st|2nd|3rd+|
 |--:|---|---|---|--:|---|---|---|
-|30%|**0.0012**|0.00066|0.00048|30% (3h)|0.0036|0.00198|0.00144|
-|70%|**0.0014**|**0.0008**|0.00054|70% (2h)|0.0028|0.0016|0.00108|
-|150%|**0.002**|**0.00115**|**0.00077**|150% (1h)|0.002|0.00115|0.00077|
+|&#x1F34F;30%|**0.0012**|0.00066|0.00048|30% (3h)|0.0036|0.00198|0.00144|
+|&#x1F34D;70%|**0.0014**|**0.0008**|0.00054|70% (2h)|0.0028|0.0016|0.00108|
+|&#x1F34E;150%|**0.002**|**0.00115**|**0.00077**|150% (1h)|0.002|0.00115|0.00077|
 
 |&#x1F4D7;Milestone rewards (crew rank>2.5k/<=2.5k)|5k (29th/35th)|124k (27th/33rd)|1.52m (20th/26th)|5.4m (13th/19th)|
 |--|--|--|--|--|
@@ -98,20 +107,21 @@ Tokens that each member should be able to collect per season are below
 |&#x1F536;Weekly elite cup (min 8 races)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)||
 |&#x1F4D8;Season events (min 1 race)|40 (3d)||20 (2d)||||50 (1d)|20 (PC #7)|40 (3d)|50 (PC #19)||20 (1d)|||
 |&#x1F4D9;Daily bonus (even/odd)|||30 (1d)|||||||50/ 100 (1d)|||||80/ 130|
+|&#x1F34F;(14d)|30%|30% x 2|30% + 70% (1st)|30% + 150% (1st)|30% x 2|30% x 2|30% x 2|30% x 2|30% x 2|30% + 70% (2nd)|30% + 150% (2nd)|30% x 2|30% x 2|30% x 2|30%|
 |&#x1F34E;(12d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|70% (2nd)|70% (3rd)|150% (3rd)|70% (4th)|30% (2nd)||70% (5th)|70% (6th)|30% (3rd)|--|
-|&#x1F34F;(11d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|150% (3rd)|70% 2nd)|150% (4th)||30% (2nd)||70% (3rd)|70% (4th)|70% (5th)|--|
 |&#x1F34D;(10d)|150% (1st)||30% (1st)||150% (2nd)|150% (3rd)|70% (1st)|150% (4th)||30% (2nd)||150% (5th)|150% (6th)|70% (2nd)|--|
 |Time|3:00|3:00|&#x1F49C;?||16:00|3:00|3:00|3:00|3:00|&#x1F49C;?||16:00|3:00|3:00|--|
 |Activator|A|A|&#x1F49C;M||A|A|A|A|A|&#x1F49C;M||A|A|A|--|
 
-(A)dmin only, &#x1F49C;any (M)ember to activate at anytime given notice 30mins before, ie. `to activate 30% at 17:00 UTC`
+(A)dmin only, &#x1F49C;any (M)ember to activate at anytime given notice 30mins before, ie. `to activate 30% at 14:00 UTC`
+
+**Wildcard is activated at 2:00 UTC or 14:00 UTC by admin, unless authorized by admin**
 
 - [Any unused Wildcard tokens will be lost at the end of each Crew Championship season, so make sure you use them up before the season ends!](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8074-what-happens-to-my-wildcard-tokens-at-the-end-of-the-crew-championship-season/)
 - Collect tokens in time from Daily Bonus, Milestone Prize, Season events(Crew Cup, Token Cup, Service Trial, Prestige Cup)
 - [RP and Wildcard tokens can only be claimed during Crew Cup events](https://www.tumblr.com/csrracingofficial/178448763240/the-player-inbox-explained)
 - Fullfil one wildcard then move to next. Do NOT split donations which delays wildcard campaigns.
-- **Wildcard is activated at 3:00 UTC or 16:00 UTC by admin, unless authorized by admin**
-- Only one wildcard campaign per day to avoid tiredness
+- ~~Only one wildcard campaign per day to avoid tiredness~~
 - https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8073-what-are-wildcards/
 - https://csr2boss.com/how-to-donate-crew-token-use-wildcards-wisely/
 - https://csr2btb.wordpress.com/2020/02/14/how-to-maximize-using-tokens-for-wise-team-leader/
