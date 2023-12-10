@@ -70,11 +70,11 @@ Tokens that each member should be able to collect per season are below
 |Tokens|170+70(PC)|80/130|140|390/440+70(PC)|9945/11220+1050|11700/13200+2100|
 
 1. Wildcard for Showdown, win/lose ratio is 1:2. You should be able to complete 50 races of Showdown per hour when Refuelling by watching passive Ad, comparably 80 races of Showdown per hour when refuelling for 20 Gold Coins. To complete 2 Showdown events, you would need to spend 13-20 hours.
-2. Wildcard for Live races with swap, win/lose ratio is 1:1.
+2. Wildcard for Live races with swap &#x1F501; &#x1F502; &#x1F503; &#x1F504;, win/lose ratio is 1:1.
 
 |Intensive <-||-> Extensive|
 |--|--|--|
-|&#x1F34E;Red apple (14 days)|&#x1F34D;Pineapple (12 days)|&#x1F34F;Green apple (10 days)|
+|&#x1F34E;Red apple (10 days)|&#x1F34D;Pineapple (12 days)|&#x1F34F;Green apple (14 days)|
 
 &#x1F34E;Intensive grinding suits for highly organised crew of which most members
 1. attend each wildcard campaign
