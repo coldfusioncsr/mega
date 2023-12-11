@@ -1,4 +1,4 @@
-# MEGA
+# MEGA [Española](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en-US&_x_tr_pto=wapp), [中文](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=zh&_x_tr_hl=en-US&_x_tr_pto=wapp), [الأسبانية](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=ar&_x_tr_hl=en-US&_x_tr_pto=wapp), [Русский](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=en-US&_x_tr_pto=wapp), [日本語](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=en-US&_x_tr_pto=wapp), [Deutsch](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en-US&_x_tr_pto=wapp), [dansk](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=da&_x_tr_hl=en-US&_x_tr_pto=wapp)
 This crew is supposed to be friendly and supportive. We ride alongside each other to earn more rewards and fun.
 
 ## Recruitment
@@ -10,6 +10,11 @@ Demo\*d, MADm\*1, Vint\*8, you are welcome to come back.
 **Family 1st, work 2nd, game 3rd.**
 - https://www.reddit.com/r/CSRRacing2/comments/bykatw/why_do_you_play_this_game/
 - https://www.lifewire.com/why-play-csr-racing-2-4059890
+
+### Why do you play within a (well organized) crew?
+- Some season events require you to join a crew
+- To earn more/all Weekly Elite Cup rewards
+- To earn more season milestone rewards
 
 ## Goals
 1. 25-30 active members
@@ -50,11 +55,12 @@ To max a car, Yellow Elite Parts are needed but are very hard to earn. By winnin
 - [Respect points - how to earn a lot of RP in CSR2](https://csr2mods.com/en-au/blogs/csr-racing-2-guides/respect-points-earn-racing-2)
 - https://csr2racers.com/2019/12/29/respect-points-how-to-earn-lots-of-rp/
 
-||Rewards|RP|Total|
-|--|--|--|--:|
-|[Season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)|||700k+/Season|
-|Live Races|150 Bronze keys, 30 Sliver keys / 15 Races / 8 hours|750-1300/win|33,750-58,500/Day, 472.5k-819k/Season|
-|Showdowns|||250k+ x (2 or 3) /Season|
+||Rewards|RP|Total|Time spend to play|
+|--|--|--|--:|--|
+|WEC + Daily Bonus||||5min/Day|
+|[Season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)|||700k+/Season|15min+/Day, 3.5hr+/Season|
+|Live Races|150 Bronze keys, 30 Sliver keys / 15 Races / 8 hours|750-1300/win|33,750-58,500/Day, 472.5k-819k/Season|22min+/Day, 5.1hr+/Season|
+|Showdowns|||250k+ x (2 or 3) /Season|36min+/Day, 8.3hr+/Season|
 
 - [Earn 700k+ from season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)
 - Earn 250k+ from each `Showdown` event in the win/lose ratio of 1:2.
@@ -72,9 +78,10 @@ Tokens that each member should be able to collect per season are below
 1. Wildcard for Showdown, win/lose ratio is 1:2. You should be able to complete 50 races of Showdown per hour when Refuelling by watching passive Ad, comparably 80 races of Showdown per hour when refuelling for 20 Gold Coins. To complete 2 Showdown events, you would need to spend 13-20 hours.
 2. Wildcard for Live races with swap &#x1F501; &#x1F502; &#x1F503; &#x1F504;, win/lose ratio is 1:1.
 
-|Intensive <-||-> Extensive|
+|Intensive <-|Balanced|-> Extensive|
 |--|--|--|
 |&#x1F34E;Red apple (10 days)|&#x1F34D;Pineapple (12 days)|&#x1F34F;Green apple (14 days)|
+|150%x* + 70%x2 + 30%x2|150%x3 + 70%x6 + 30%x3|150%x2 + 70%x2 + 30%x*|
 
 &#x1F34E;Intensive grinding suits for highly organised crew of which most members
 1. attend each wildcard campaign
@@ -84,11 +91,11 @@ Tokens that each member should be able to collect per season are below
 1. hard to agree on wildcard time
 2. rely on natural refueling
 
-|Wildcard cost @crew respect rank 25|1st|2nd|3rd+|85%+ 50%PC|100%+ 100%PC|1+2|+3|+4|+5|+6|+7|+8|
+|Wildcard cost @crew respect rank 25|1st|2nd|3rd+|85%+ 50%PC|100%+ 100%PC|1+2|+3|+4|+5|+6|+7|+*|
 |-:|--|--:|--:|--:|--:|--:|:-:|:-:|--|:-:|--|:-:|
-|30% (3h)|250|450|625|18.4/20.5|22.9/25.3|700&#x1F34E;&#x1F34D;|1325|||||&#x1F34F;|
-|70% (2h)|500|875|1300|9.4/10.3/|11.5/12.7|1375&#x1F34E;&#x1F34F;|2675|3975|5275|6575|7875|9175&#x1F34D;|
-|150% (1h)|750|1300|1950|6.5/7.2|8/8.8|2050&#x1F34D;&#x1F34F;|4000|5950|7900|9850&#x1F34E;|11800|
+|30% (3h)|250|450|625|18.4/20.5|22.9/25.3|700&#x1F34E;|1325&#x1F34D;|||||&#x1F34F;|
+|70% (2h)|500|875|1300|9.4/10.3/|11.5/12.7|1375&#x1F34E;&#x1F34F;|2675|3975|5275|6575&#x1F34D;|7875||
+|150% (1h)|750|1300|1950|6.5/7.2|8/8.8|2050&#x1F34F;|4000&#x1F34D;|5950|7900|9850&#x1F34E;|11800|
 
 |Token coefficient by (percent / tokens)|1st|2nd|3rd+|by (hours * percent / tokens)|1st|2nd|3rd+|
 |--:|---|---|---|--:|---|---|---|
@@ -111,9 +118,8 @@ Tokens that each member should be able to collect per season are below
 |&#x1F34E;(10d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|150% (3rd)||150% (4th)|70% (2nd)|30% (2nd)||150% (5th)|150% (6th)||
 
 ~~|Time|2:00|2:00|&#x1F49C;?||14:00|2:00|2:00|2:00|2:00|&#x1F49C;?||14:00|2:00|2:00|--|
-|Activator|A|A|&#x1F49C;M||A|A|A|A|A|&#x1F49C;M||A|A|A|--|~~
-
-(A)dmin only, &#x1F49C;any (M)ember to activate at anytime given notice 30mins before, ie. `30% will be activated at 14:00 UTC`
+|Activator|A|A|&#x1F49C;M||A|A|A|A|A|&#x1F49C;M||A|A|A|--|
+(A)dmin only, &#x1F49C;any (M)ember to activate at anytime given notice 30mins before, ie. `30% will be activated at 14:00 UTC`~~
 
 **Wildcard is activated at 2:00 UTC or 14:00 UTC by admin, unless authorized by admin**
 
