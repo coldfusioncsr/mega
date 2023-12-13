@@ -29,9 +29,9 @@ Demo\*d, MADm\*1, Vint\*8, you are welcome to come back.
 ### How frequently do you play
 - [Season Schedule 1](https://docs.google.com/spreadsheets/d/1jsgWgXeBoPMRBNFMbDjJLuDbk90S9DuI_o8sPuSyBmI/htmlview), [Season Schedule 2](https://docs.google.com/spreadsheets/d/1iKkwmLYEPRktXw17auU2egdTSyIu6i1JdWZzMrI3wPk/edit)
 
-|Frequency|what|
-|---------|----|
-|Once a day|&#x1F4D9;Daily Bonus, &#x1F536;Weekly Elite Cup, &#x1F4D8;Season events|
+|Frequency|Tasks|
+|---------|-----|
+|Once a day|&#x1F536;Weekly Elite Cup(8), &#x1F4D8;Season events, &#x1F4D9;Daily Bonus, &#x1F4D7;Milestone rewards|
 |Every 8 hours|Live Races|
 |Every 4 hours|Daily Battles, Bronze Crates|
 
@@ -55,12 +55,12 @@ To max a car, Yellow Elite Parts are needed but are very hard to earn. By winnin
 - [Respect points - how to earn a lot of RP in CSR2](https://csr2mods.com/en-au/blogs/csr-racing-2-guides/respect-points-earn-racing-2)
 - https://csr2racers.com/2019/12/29/respect-points-how-to-earn-lots-of-rp/
 
-||Rewards|RP|Total|Time spend to play|
-|--|--|--|--:|--|
-|WEC + Daily Bonus||||5min/Day|
-|[Season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)|||700k+/Season|15min+/Day, 3.5hr+/Season|
-|Live Races|150 Bronze keys, 30 Sliver keys / 15 Races / 8 hours|750-1300/win|33,750-58,500/Day, 472.5k-819k/Season|22min+/Day, 5.1hr+/Season|
-|Showdowns|||250k+ x (2 or 3) /Season|36min+/Day, 8.3hr+/Season|
+||Rewards to earn|RPs to earn|Time to spend|
+|--|--|--:|--|
+|&#x1F536;WEC(8) + &#x1F4D8;(1) + &#x1F4D9; + &#x1F4D7;|15 Yellow Elite Parts + 390/440 Tokens + more||5min/Day|
+|[Season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)|Keys + Parts|700k+/Season|15min+/Day, 3.5hr+/Season|
+|Live Races|150 Bronze keys, 30 Sliver keys / 15 Races / 8 hours|750-1300/win, 33,750-58,500/Day, 472.5k-819k/Season|22min+/Day, 5.1hr+/Season|
+|Showdowns|Elite parts|250k+ x (2 or 3) /Season|36min+/Day, 8.3hr+/Season|
 
 - [Earn 700k+ from season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)
 - Earn 250k+ from each `Showdown` event in the win/lose ratio of 1:2.
@@ -71,7 +71,7 @@ To max a car, Yellow Elite Parts are needed but are very hard to earn. By winnin
 
 #### Token & Wildcard strategy
 Tokens that each member should be able to collect per season are below
-||&#x1F4D8;Season events|&#x1F4D9;Daily bonus (Event/Odd)|&#x1F4D7;Milestone|Total collectible|85%+50%PC|100%+100%PC|
+||&#x1F4D8;Season events|&#x1F4D9;Daily bonus (Event/Odd)|&#x1F4D7;Milestone rewards|Total collectible|85%+50%PC|100%+100%PC|
 |--|--|--|--|--|--|--|
 |Tokens|170+70(PC)|80/130|140|390/440+70(PC)|9945/11220+1050|11700/13200+2100|
 
@@ -113,7 +113,7 @@ Tokens that each member should be able to collect per season are below
 |&#x1F4D8;Season events (min 1 race)|40 (3d)||20 (2d)||||50 (1d)|20 (PC #7)|40 (3d)|50 (PC #19)||20 (1d)|||
 |&#x1F4D9;Daily bonus (even/odd)|||30 (1d)|||||||50/ 100 (1d)|||||80/ 130|
 |&#x1F4D7;Milestone rewards|10 + 30|50|||50|||||||||||
-|&#x1F34F;(14d)|30%|30% x 2|30% + 70% (1st)|30% + 150% (1st)|30% x 2|30% x 2|30% x 2|30% x 2|30% x 2|30% + 70% (2nd)|30% + 150% (2nd)|30% x 2|30% x 2|30%|
+|&#x1F34F;(14d)|30%|30% x 2|30% + 70% (1st)|30% + 150% (1st)|30% x 2|30% x 2|30%|30% x 2|30% x 2|30% + 70% (2nd)|30% + 150% (2nd)|30% x 2|30% x 2|30%|
 |&#x1F34D;(12d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|70% (2nd)|70% (3rd)|150% (3rd)|70% (4th)|30% (2nd)||70% (5th)|70% (6th)|30% (3rd)|
 |&#x1F34E;(10d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|150% (3rd)||150% (4th)|70% (2nd)|30% (2nd)||150% (5th)|150% (6th)||
 
