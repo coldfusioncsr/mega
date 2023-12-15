@@ -58,10 +58,11 @@ To max a car, Yellow Elite Parts are needed but are very hard to earn. By winnin
 ||Rewards to earn|RPs to earn|Time to spend|
 |--|--|--:|--|
 |&#x1F536;WEC(8) + &#x1F4D8;(1) + &#x1F4D9; + &#x1F4D7;|15 Yellow Elite Parts + 390/440 Tokens + more||5min/Day|
-|[Season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)|Keys + Parts|700k+/Season|15min+/Day, 3.5hr+/Season|
-|Live Races|150 Bronze keys, 30 Sliver keys / 15 Races / 8 hours|750-1300/win, 33,750-58,500/Day, 472.5k-819k/Season|22min+/Day, 5.1hr+/Season|
-|Showdowns|Elite parts|250k+ x (2 or 3) /Season|36min+/Day, 8.3hr+/Season|
+|[Season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)(t149)|Keys + Parts|730k/Season|5min/Day, 1.25hr/Season|
+|Live Races(45)|150 Bronze keys, 30 Sliver keys / 15 Races / 8 hours|600-1400/win, 33,750-58,500/Day, 472.5k-819k/Season|22min+/Day, 5.1hr+/Season|
+|Showdowns(1k)|Elite parts|250k+ x [2, 3] /Season|36min+/Day, 8.3hr+/Season|
 
+> It takes &#x2248;30s to complete 1 race or to refuel 2 pips
 - [Earn 700k+ from season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)
 - Earn 250k+ from each `Showdown` event in the win/lose ratio of 1:2.
 - Earn 472.5k-819k/Season from `Live races` by winning 15races x 3rounds x 14days with t1 car for guaranteed wins, or with t4/t5 car in the win/lose ratio of 1:1 by [swapping with others](https://csr2racers.com/2020/03/22/live-races-lobby-times-swapping-and-w-l-in-csr2/)
