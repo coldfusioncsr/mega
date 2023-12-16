@@ -12,9 +12,9 @@ Demo\*d, MADm\*1, Vint\*8, you are welcome to come back.
 - https://www.lifewire.com/why-play-csr-racing-2-4059890
 
 ### Why do you play within a (well organized) crew?
-- Some season events require you to join a crew
-- To earn more/all Weekly Elite Cup rewards
-- To earn more season milestone rewards
+1. Some season events require you to join a crew
+2. To earn more rewards from crew essential events
+3. To get fun by good teamwork
 
 ## Goals
 1. 25-30 active members
@@ -57,8 +57,9 @@ To max a car, Yellow Elite Parts are needed but are very hard to earn. By winnin
 
 ||Rewards to earn|RPs to earn|Time to spend|
 |--|--|--:|--|
-|&#x1F536;WEC(8) + &#x1F4D8;(1) + &#x1F4D9; + &#x1F4D7;|15 Yellow Elite Parts + 390/440 Tokens + more||5min/Day|
-|[Season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)(t149)|Keys + Parts|730k/Season|5min/Day, 1.25hr/Season|
+|&#x1F536;WEC(8) + &#x1F4D8;(1) + &#x1F4D9; + &#x1F4D7;|15 Yellow Elite Parts + 390/440 Tokens + more|16k/Season|5min/Day, 50min/Season|
+|[Season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)(crew RP: 149)|Keys + Parts|730.6k/Season|5min/Day, 1.25hr/Season|
+|Season events (non-crew RP: 484|Keys+Parts+Gold coins+Legends components|96.8k/Season|17min/Day, 4hr/Season|
 |Live Races(45)|150 Bronze keys, 30 Sliver keys / 15 Races / 8 hours|600-1400/win, 33,750-58,500/Day, 472.5k-819k/Season|22min+/Day, 5.1hr+/Season|
 |Showdowns(1k)|Elite parts|250k+ x [2, 3] /Season|36min+/Day, 8.3hr+/Season|
 
@@ -110,19 +111,15 @@ Tokens that each member should be able to collect per season are below
 
 |Day (UTC)|Thu 1|Fri 2|Sat 3|Sun 4|Mon 5|Tue 6|Wed 7|Thu 8|Fri 9|Sat 10|Sun 11|Mon 12|Tue 13|Wed 14|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|&#x1F536;Weekly elite cup (min 8 races)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)||
-|&#x1F4D8;Season events (min 1 race)|40 (3d)||20 (2d)||||50 (1d)|20 (PC #7)|40 (3d)|50 (PC #19)||20 (1d)|||
+|&#x1F536;Weekly elite cup (8)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)||
+|&#x1F4D8;Season events (1)|40 (3d)||20 (2d)||||50 (1d)|20 (PC #7)|40 (3d)|50 (PC #19)||20 (1d)|||
 |&#x1F4D9;Daily bonus (even/odd)|||30 (1d)|||||||50/ 100 (1d)|||||80/ 130|
 |&#x1F4D7;Milestone rewards|10 + 30|50|||50|||||||||||
 |&#x1F34F;(14d)|30%|30% x 2|30% + 70% (1st)|30% + 150% (1st)|30% x 2|30% x 2|30%|30% x 2|30% x 2|30% + 70% (2nd)|30% + 150% (2nd)|30% x 2|30% x 2|30%|
 |&#x1F34D;(12d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|70% (2nd)|70% (3rd)|150% (3rd)|70% (4th)|30% (2nd)||70% (5th)|70% (6th)|30% (3rd)|
 |&#x1F34E;(10d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|150% (3rd)||150% (4th)|70% (2nd)|30% (2nd)||150% (5th)|150% (6th)||
 
-~~|Time|2:00|2:00|&#x1F49C;?||14:00|2:00|2:00|2:00|2:00|&#x1F49C;?||14:00|2:00|2:00|--|
-|Activator|A|A|&#x1F49C;M||A|A|A|A|A|&#x1F49C;M||A|A|A|--|
-(A)dmin only, &#x1F49C;any (M)ember to activate at anytime given notice 30mins before, ie. `30% will be activated at 14:00 UTC`~~
-
-**Wildcard is activated at 2:00 UTC or 14:00 UTC by admin, unless authorized by admin**
+> **Wildcard is activated at 2:00 UTC or 14:00 UTC by admin, unless authorized by admin**
 
 - [Any unused Wildcard tokens will be lost at the end of each Crew Championship season, so make sure you use them up before the season ends!](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8074-what-happens-to-my-wildcard-tokens-at-the-end-of-the-crew-championship-season/)
 - Collect tokens in time from Daily Bonus, Milestone Prize, Season events(Crew Cup, Token Cup, Service Trial, Prestige Cup)
