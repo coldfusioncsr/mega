@@ -2,7 +2,7 @@
 
 |Member|Joined|Role|1m+RP|Location|Timezone|
 |--|--|--|--|--|--|
-|ROO*0|2023-06|L|Y|NSW AUS|UTC+10 AET/+11 AEST|
+|ROO*0|2023-06|L|Y|NSW, AUS|UTC+10 AET/+11 AEST|
 |tom*x|2023-11|||Demark|UTC+1|
 |Mad*8|2023-12-07||Y|Germany|UTC+1|
 |Edw*P|2023-10|||UK|UTC|
@@ -21,7 +21,7 @@
 |KrM*d|2023-11||
 |Pee*|2023-11||
 |Ser*1|2023-11||||UTC-5?|
-|Jap*n|2023-12||||UTC-9?|
+|Jap*n|2023-12||||UTC+9?|
 |WAL*S|2023-12|||
 |Jus*h|2023-12|||
 |Adr*o|2023-12-11|||
@@ -33,7 +33,9 @@
 |Bra*0|2023-12-28|
 |TEP*T|2023-12-30|
 |Left member|Joined|Role|1m+RP|Location|Timezone|
-|Ssp*K||||VIC AUS|UTC+10 AET/+11 AEST|
+|Dem*d|2023-08|A|Y|VIC,AUS|UTC+10 AET/+11 AEST|
+|Vin*8|2023-09||Y|USA|
+|Ssp*K||||VIC, AUS|UTC+10 AET/+11 AEST|
 |Voc*s||||AUS|UTC+10|
 |Ana*n||||Norway|UTC+1|
 |MAD*1|2023-08|A|Y|Maryland USA|UTC-5|
