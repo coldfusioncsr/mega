@@ -1,8 +1,8 @@
 # MEGA [Española](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en-US&_x_tr_pto=wapp), [中文](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=zh&_x_tr_hl=en-US&_x_tr_pto=wapp), [الأسبانية](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=ar&_x_tr_hl=en-US&_x_tr_pto=wapp), [Русский](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=en-US&_x_tr_pto=wapp), [日本語](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=en-US&_x_tr_pto=wapp), [Deutsch](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en-US&_x_tr_pto=wapp), [dansk](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=da&_x_tr_hl=en-US&_x_tr_pto=wapp)
-This crew is supposed to be friendly and supportive. We ride alongside each other to earn more rewards and fun.
+This crew is supposed to be friendly and supportive. We ride alongside each other to earn more rewards and have fun.
 
 ## Recruitment
-**Active players (Rank 60+, 600k RP/season) are needed. Make in-app request on the last day of each season.**
+**Active players (Rank 70+, 600k RP/season) are needed. Make an in-app request on the last day of each season.**
 
 Demo\*d, MADm\*1, Vint\*8, you are welcome to come back.
 
@@ -14,12 +14,12 @@ Demo\*d, MADm\*1, Vint\*8, you are welcome to come back.
 ### Why do you play within a (well organized) crew?
 1. Some season events require you to join a crew
 2. To earn more rewards from crew essential events
-3. To get fun by good teamwork
+3. To have fun through good teamwork
 
 ## Goals
 1. 25-30 active members
 2. 23+ eligible to win 900 races of `Weekly Elite Cup` for **parts** every week
-3. 20mil RPs for prize **car** every season
+3. 20m RPs for prize **car** every season
 
 ### Busyman's minimum playbook
 1. Win 40 races of [`Weekly Elite Cup`](#g2---weekly-elite-cup)
@@ -38,13 +38,13 @@ Demo\*d, MADm\*1, Vint\*8, you are welcome to come back.
 #### Options to refuel
 1. Naturally refueling 1 pip takes 7m36s, 1h16m for full tank (10 pips)
 2. Spending 20 gold coins to instantly refuel full tank
-3. It takes 5-60 sec to receive 2 fuel pips by watching 1 **passive** video ad which pops up when fuel pips drop below 6. Comparably, proactively watching 1 ad recieves only 1 fuel pip. [A guiide to watching Ads](https://www.reddit.com/r/CSRRacing2/comments/c4x6hc/a_guide_to_watching_ads/)
+3. Watching 1 **passive** video ad (5-60 secs) which pops up when fuel pips drop below 6. Comparably, proactively watching 1 ad recieves only 1 fuel pip. [A guiide to watching Ads](https://www.reddit.com/r/CSRRacing2/comments/c4x6hc/a_guide_to_watching_ads/)
 
 ### g2 - Weekly Elite Cup
 |&#x1F536;Schedule|10:00 - 23:59 UTC Mon|0:00 - 23:59 UTC Tue-Thu|0:00 - 09:59 UTC Fri|
 |-|-|-|-|
 
-To max a car, Yellow Elite Parts are needed but are very hard to earn. By winning 900 races of WEC, each member could earn 15 Yellow (Legendary) Elite Parts and 500 Elite Tuners Currency (2,300 ETC buys 20 YEP)
+To max a car, Yellow Elite Parts are needed but are very hard to earn. By winning 900 races of WEC, each member could earn 15 Yellow (Legendary) Elite Parts and 500 Elite Tuners Currency (2,300 ETC is equivalent to 20 YEP)
 - https://csr2racers.com/2020/12/09/elite-tuners-csr2-events-all-you-need-to-know/
 - https://www.reddit.com/r/CSRRacing2/comments/kfjbcc/weekly_elite_cup_rewards/
 ![Weekly Elite Cup](https://preview.redd.it/882lckfxhx561.png?width=1080&crop=smart&auto=webp&s=fd1eb19f1b4bf8cf234264f6cf73bf10f27e05b8)
@@ -77,7 +77,7 @@ Tokens that each member should be able to collect per season are below
 |--|--|--|--|--|--|--|
 |Tokens|170+70(PC)|80/130|140|390/440+70(PC)|9945/11220+1050|11700/13200+2100|
 
-1. Wildcard for Showdown, win/lose ratio is 1:2. You should be able to complete 50 races of Showdown per hour when Refuelling by watching passive Ad, comparably 80 races of Showdown per hour when refuelling for 20 Gold Coins. To complete 2 Showdown events, you would need to spend 13-20 hours.
+1. Wildcard for Showdown, win to lose ratio is 1:2. You should be able to complete 50 races of Showdown per hour when Refuelling by watching passive Ad or 80 races of Showdown per hour when refuelling for 20 Gold Coins. To complete 2 Showdown events, you would need to spend 13-20 hours.
 2. Wildcard for Live races with swap &#x1F501; &#x1F502; &#x1F503; &#x1F504;, win/lose ratio is 1:1.
 
 |Intensive <-|Balanced|-> Extensive|
@@ -112,17 +112,17 @@ Tokens that each member should be able to collect per season are below
 |Day (UTC)|Thu 1|Fri 2|Sat 3|Sun 4|Mon 5|Tue 6|Wed 7|Thu 8|Fri 9|Sat 10|Sun 11|Mon 12|Tue 13|Wed 14|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |&#x1F536;Weekly elite cup (8)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)||
-|&#x1F4D8;Season events (1)|40 (3d)||20 (2d)||||50 (1d)|20 (PC #7)|40 (3d)|50 (PC #19)||20 (1d)|||
+|&#x1F4D8;Season events (1)|40 (3d)||20 (2d)||||50 (1d)|20 (PC #7)|40 (3d)|||20 (1d)|50 (PC #19)||
 |&#x1F4D9;Daily bonus (even/odd)|||30 (1d)|||||||50/ 100 (1d)|||||80/ 130|
 |&#x1F4D7;Milestone rewards|10 + 30|50|||50|||||||||||
 |&#x1F34F;(14d)|30%|30% x 2|30% + 70% (1st)|30% + 150% (1st)|30% x 2|30% x 2|30%|30% x 2|30% x 2|30% + 70% (2nd)|30% + 150% (2nd)|30% x 2|30% x 2|30%|
 |&#x1F34D;(12d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|70% (2nd)|70% (3rd)|150% (3rd)|70% (4th)|30% (2nd)||70% (5th)|70% (6th)|30% (3rd)|
 |&#x1F34E;(10d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|150% (3rd)||150% (4th)|70% (2nd)|30% (2nd)||150% (5th)|150% (6th)||
 
-> **Wildcard is activated at 2:00 UTC or 14:00 UTC by admin, unless authorized by admin**
+> **Wildcard is activated at 20:00 UTC by admin, unless authorized by admin**
 
-- [Any unused Wildcard tokens will be lost at the end of each Crew Championship season, so make sure you use them up before the season ends!](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8074-what-happens-to-my-wildcard-tokens-at-the-end-of-the-crew-championship-season/)
-- Collect tokens in time from Daily Bonus, Milestone Prize, Season events(Crew Cup, Token Cup, Service Trial, Prestige Cup)
+- [Any unused Wildcard tokens will automatically disappear at the end of each Crew Championship season, so make sure you use them up before the season ends!](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8074-what-happens-to-my-wildcard-tokens-at-the-end-of-the-crew-championship-season/)
+- Collect tokens in time from Daily Bonus, Milestone Prize, Season events (Crew Cup, Token Cup, Service Trial, Prestige Cup)
 - [RP and Wildcard tokens can only be claimed during Crew Cup events](https://www.tumblr.com/csrracingofficial/178448763240/the-player-inbox-explained)
 - Fullfil one wildcard then move to next. Do NOT split donations which delays wildcard campaigns.
 - ~~Only one wildcard campaign per day to avoid tiredness~~
