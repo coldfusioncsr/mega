@@ -10,30 +10,30 @@
 |Orp*s|2023-10|||Eastern USA|UTC-5|
 |Ted*r|2023-09|A|Y|Mexico|UTC-6|
 |SLI*K|2023-08|||Northern Idoha, USA|UTC-7|
+|Bra*0|2023-12-28||||UTC-7|
 |AZS*H|2023-12-30|||Arizona, USA|UTC-7|
 |LIL*L|2023-08|A||Stockton California, USA|UTC-8|
 |yun*p|2023-10|A|Y|California, USA|UTC-8|
 |zeb*e|2023-10||Y|
-|zer*l|2023-10||||UTC-5?|
+|zer*l|2023-10||||UTC+5?|
 |Xta*Z|2023-10||
-|Cha*e|2023-11||||UTC-8?|
+|Cha*e|2023-11||||UTC+8?|
 |phc*L|2023-11||
 |KrM*d|2023-11||
 |Pee*|2023-11||
-|Ser*1|2023-11||||UTC-5?|
-|Jap*n|2023-12||||UTC+9?|
+|Ser*1|2023-11||||UTC+5?|
 |WAL*S|2023-12|||
 |Jus*h|2023-12|||
 |Adr*o|2023-12-11|||
-|Jen*e|2023-12-11||Y|
+|Jen*e|2023-12-11||Y||UTC-5?|
 |MoW*L|2023-12-11|||
-|?Devi|2023-12-19|||
+|?Devi|2023-12-19||||UTC-5?|
 |mel*!|2023-12-25|
-|Jos*G|2023-12-25|
-|Bra*0|2023-12-28|
-|TEP*T|2023-12-30|
+|qt_*k|2023-12-30|
+|Jun*P|2024-01-01|
+|Ter*z|2024-01-01|
 |Left member|Joined|Role|1m+RP|Location|Timezone|
-|Dem*d|2023-08|A|Y|VIC,AUS|UTC+10 AET/+11 AEST|
+|Dem*d|2023-08|A|Y|VIC, AUS|UTC+10 AET/+11 AEST|
 |Vin*8|2023-09||Y|USA|
 |Ssp*K||||VIC, AUS|UTC+10 AET/+11 AEST|
 |Voc*s||||AUS|UTC+10|
@@ -60,3 +60,6 @@
 |Dob*R|2023-10|||Eastern USA|UTC-5|
 |Mol*L|2023-12-25|
 |Ant*L|2023-12-25|
+|Jos*G|2023-12-25|
+|Jap*n|2023-12||||UTC+9?|
+|TEP*T|2023-12-30|
