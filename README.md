@@ -4,7 +4,7 @@ This crew is supposed to be friendly and supportive. We ride alongside each othe
 ## Recruitment
 **Active players (Rank 70+, 600k RP/season) are needed. Make an in-app request on the last day of each season.**
 
-Demo\*d, MADm\*1, Vint\*8, you are welcome to come back.
+Demo\*d, MADm\*1, Vint\*8, MeDi\*i you are welcome to join back.
 
 ## Why do you play this game?
 **Family 1st, work 2nd, game 3rd.**
@@ -18,8 +18,12 @@ Demo\*d, MADm\*1, Vint\*8, you are welcome to come back.
 
 ## Goals
 1. 25-30 active members
-2. 23+ eligible to win 900 races of `Weekly Elite Cup` for **parts** every week
-3. 20m RPs for prize **car** every season
+2. 900 wins of `Weekly Elite Cup` for **parts** every week
+3. 20m+ RPs for prize **car** every season
+
+## TODOs
+1. inner-crew swap
+2. the most wins of WEC we had is 764.
 
 ### Busyman's minimum playbook
 1. Win 40 races of [`Weekly Elite Cup`](#g2---weekly-elite-cup)
@@ -77,8 +81,13 @@ Tokens that each member should be able to collect per season are below
 |--|--|--|--|--|--|--|
 |Tokens|170+70(PC)|80/130|140|390/440+70(PC)|9945/11220+1050|11700/13200+2100|
 
-1. Wildcard for Showdown, win to lose ratio is 1:2. You should be able to complete 50 races of Showdown per hour when Refuelling by watching passive Ad or 80 races of Showdown per hour when refuelling for 20 Gold Coins. To complete 2 Showdown events, you would need to spend 13-20 hours.
-2. Wildcard for Live races with swap &#x1F501; &#x1F502; &#x1F503; &#x1F504;, win/lose ratio is 1:1.
+||Showdown|Live races|Live races with inner-crew swap|
+|--|--|--|--|
+|matchmaking|automatic, ~30s|manual, ~mins|manual, ~15s|
+|win/lose ratio|1:2|varies|1:1|
+
+> 1. Wildcard for Showdown, win to lose ratio is 1:2. You should be able to complete 50 races of Showdown per hour when Refuelling by watching passive Ad or 80 races of Showdown per hour when refuelling for 20 Gold Coins. To complete 2 Showdown events, you would need to spend 13-20 hours.
+> 2. Wildcard for Live races with swap &#x1F501; &#x1F502; &#x1F503; &#x1F504;, win/lose ratio is 1:1.
 
 |Intensive <-|Balanced|-> Extensive|
 |--|--|--|
@@ -108,6 +117,12 @@ Tokens that each member should be able to collect per season are below
 |&#x1F4D7;Milestone rewards (crew rank>2.5k/<=2.5k)|5k (29th/35th)|124k (27th/33rd)|1.52m (20th/26th)|5.4m (13th/19th)|
 |--|--|--|--|--|
 |Tokens|10|30|50|50|
+> Day to collect milestone rewards varies with crew performance.
+
+|&#x1F4D9;Daily bonus|4th|11th|18th|25th|
+|--|--|--|--|--|
+|Tokens|30|50|30|100|
+> Day to collect daily bonus varies from player to player. And first day overlaps last day for collecting daily bonus.
 
 |Day (UTC)|Thu 1|Fri 2|Sat 3|Sun 4|Mon 5|Tue 6|Wed 7|Thu 8|Fri 9|Sat 10|Sun 11|Mon 12|Tue 13|Wed 14|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
@@ -119,13 +134,19 @@ Tokens that each member should be able to collect per season are below
 |&#x1F34D;(12d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|70% (2nd)|70% (3rd)|150% (3rd)|70% (4th)|30% (2nd)||70% (5th)|70% (6th)|30% (3rd)|
 |&#x1F34E;(10d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|150% (3rd)||150% (4th)|70% (2nd)|30% (2nd)||150% (5th)|150% (6th)||
 
-> **Wildcard is activated at 20:00 UTC by admin, unless authorized by admin**
+> **Wildcard is activated by admin, unless authorized by admin.** For mature crew, self-governed would be ideal.
+>
+> Crew stat indicates 30% campaign generated more RPs. So here is the priority, 30% -> 70% -> 150%. If 30% is available, activate 30%, otherwise 70%. 150% is the last choice.
+> 
+> Wildcard time having generated over 0.5m RPs are 20:00 UTC, 2:00 UTC. Crew stats indicates, crew is not as active as usual between 10:00 Fri - 9:59 Sat UTC and generated less than 0.2m RPs in 70% campaign. Better to skip this period of time.
+
+> - Collect tokens by expiry time from Daily Bonus, Milestone Prize, Season events (Crew Cup, Token Cup, Service Trial, Prestige Cup)
+> - Donate tokens at earliest possible time so that we have wildcard available to activate.
+> - Fullfil one wildcard then move to next. Do NOT split donations which delays wildcard campaigns.
+> - ~~Only one wildcard campaign per day to avoid tiredness~~
 
 - [Any unused Wildcard tokens will automatically disappear at the end of each Crew Championship season, so make sure you use them up before the season ends!](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8074-what-happens-to-my-wildcard-tokens-at-the-end-of-the-crew-championship-season/)
-- Collect tokens in time from Daily Bonus, Milestone Prize, Season events (Crew Cup, Token Cup, Service Trial, Prestige Cup)
 - [RP and Wildcard tokens can only be claimed during Crew Cup events](https://www.tumblr.com/csrracingofficial/178448763240/the-player-inbox-explained)
-- Fullfil one wildcard then move to next. Do NOT split donations which delays wildcard campaigns.
-- ~~Only one wildcard campaign per day to avoid tiredness~~
 - https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8073-what-are-wildcards/
 - https://csr2boss.com/how-to-donate-crew-token-use-wildcards-wisely/
 - https://csr2btb.wordpress.com/2020/02/14/how-to-maximize-using-tokens-for-wise-team-leader/
