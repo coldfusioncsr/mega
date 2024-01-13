@@ -5,8 +5,6 @@
 |ROO*0|2023-06|NSW, AUS|UTC+10 AET/+11 AEST|L|Y|
 |tom*x|2023-11|Demark|UTC+1|||Y|
 |Mad*8|2023-12-07|Germany|UTC+1||Y|
-|Edw*P|2023-10|UK|UTC|
-|Isa*G|2023-10|New York, USA|UTC-5||Y|
 |Orp*s|2023-10|Eastern USA|UTC-5|||Y|
 |Jen*e|2023-12-11|Michigan, USA|UTC-5||Y|
 |Ted*r|2023-09|Mexico|UTC-6|A|Y|
@@ -20,7 +18,6 @@
 |Xta*Z|2023-10||UTC+1?|
 |Cha*e|2023-11||UTC+8?|||Y|
 |phc*L|2023-11||
-|KrM*d|2023-11||
 |Pee*|2023-11||
 |Ser*1|2023-11||UTC+5?|||Y|
 |WAL*S|2023-12|||
@@ -29,9 +26,12 @@
 |?Devi|2023-12-19||UTC-5?|||Y|
 |mel*!|2023-12-25|||||Y|
 |Jun*P|2024-01-01|||||Y|
-|Ter*z|2024-01-01|
 |Gio*!|2024-01-05|
 |Art*7|2024-01-05|
+|Mer*S|2024-01-12|
+|Dom*o|2024-01-12|
+|s*F|2024-01-13|
+|Act*🔃|2024-01-13|
 |Left member|Joined|Location|Timezone|Role|1m+RP|
 |Dem*d|2023-08|VIC, AUS|UTC+10 AET/+11 AEST|A|Y|
 |Vin*8|2023-09|USA|||Y|
@@ -65,3 +65,7 @@
 |TEP*T|2023-12-30|
 |Jus*h|2023-12|||
 |qt_*k|2023-12-30|
+|Isa*G|2023-10|New York, USA|UTC-5||Y|
+|Ter*z|2024-01-01|
+|Edw*P|2023-10|UK|UTC|
+|KrM*d|2023-11||
