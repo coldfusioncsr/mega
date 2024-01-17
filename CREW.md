@@ -7,6 +7,7 @@
 |Mad*8|2023-12-07|Germany|UTC+1||Y|
 |Orp*s|2023-10|Eastern USA|UTC-5|||Y|
 |Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5||Y|
+|phi*7|2024-01-15|New York, USA|UTC-5|||Y|
 |Ted*r|2023-09|Mexico|UTC-6|A|Y|
 |SLI*K|2023-08|Northern Idoha, USA|UTC-7|||Y|
 |Bra*0|2023-12-28||UTC-7|||Y|
@@ -21,17 +22,16 @@
 |Pee*|2023-11||
 |Ser*1, Pur\*4|2023-11||UTC+5?|||Y|
 |WAL*S|2023-12|||
-|Adr*o|2023-12-11|||||Y|
+|Adr*o|2023-12-11||||Y||
 |MoW*L|2023-12-11|||||Y|
 |?Devi|2023-12-19||UTC-5?|||Y|
-|mel*!|2023-12-25|||||Y|
+|mel*!|2023-12-25||||Y||
 |Jun*P|2024-01-01|||||Y|
 |Gio*!|2024-01-05|
-|Art*7|2024-01-05|
+|Art*7|2024-01-05|||||Y|
 |Dom*o|2024-01-12|
 |s*F|2024-01-13|
 |PRI*7|2024-01-13|||||Y|
-|phi*7|2024-01-15|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10 AET/+11 AEST|A|Y|
 |Vin*8|2023-09|USA|||Y|
