@@ -59,13 +59,14 @@ To max a car, Yellow Elite Parts are needed but are very hard to earn. By winnin
 - [Respect points - how to earn a lot of RP in CSR2](https://csr2mods.com/en-au/blogs/csr-racing-2-guides/respect-points-earn-racing-2)
 - https://csr2racers.com/2019/12/29/respect-points-how-to-earn-lots-of-rp/
 
-||Rewards to earn|RPs to earn|Time to spend|
-|--|--|--:|--|
-|&#x1F536;WEC(8) + &#x1F4D8;(1) + &#x1F4D9; + &#x1F4D7;|15 Yellow Elite Parts + 390/440 Tokens + more|16k/Season|5min/Day, 50min/Season|
+||Rewards to earn|RPs to earn|Time to spend|Time to refuel (AD)|
+|--|--|--:|--|--|
+|&#x1F536;WEC(8 x 5 x 2) + &#x1F4D8;(1 x 7) + &#x1F4D9; + &#x1F4D7;|15 Yellow Elite Parts + 390/440 Tokens + more|16k/Season|5min/Day, 50min/Season|
 |[Season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)(crew RP: 149)|Keys + Parts|730.6k/Season|5min/Day, 1.25hr/Season|
-|Season events (non-crew RP: 484|Keys+Parts+Gold coins+Legends components|96.8k/Season|17min/Day, 4hr/Season|
-|Live Races(45)|150 Bronze keys, 30 Sliver keys / 15 Races / 8 hours|600-1400/win, 33,750-58,500/Day, 472.5k-819k/Season|22min+/Day, 5.1hr+/Season|
-|Showdowns(1k)|Elite parts|250k+ x [2, 3] /Season|36min+/Day, 8.3hr+/Season|
+|Season events (non-crew RP: 484)|Keys+Parts+Gold coins+Legends components|96.8k/Season|17min/Day, 4hr/Season|
+|Live Races(45 x 14)|150 Bronze keys + 10 Sliver keys / 15 Races / 8 hours|600-1400/win, 33,750-58,500/Day, 472.5k-819k/Season|22min+/Day, 5.1hr+/Season|
+|Showdowns(1k)|Elite parts|250k+ x [2, 3] /Season|36min+/Day, 8.3hr+/Season|18min+/Day, 4.17hr+/Season|
+|Race pass(3 x 14)|car, parts, tokens|325k/other season|4hr/Season|
 
 > It takes &#x2248;30s to complete 1 race or to refuel 2 pips
 - [Earn 700k+ from season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)
