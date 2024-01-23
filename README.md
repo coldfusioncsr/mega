@@ -2,9 +2,9 @@
 This crew is supposed to be friendly and supportive. We ride alongside each other to earn more rewards and have fun.
 
 ## Recruitment
-**Active players (Rank 70+, 600k RP/season) are needed. Make an in-app request on the last day of each season.**
+**Active players (Rank 80+, 600k RP/season, eligible for WEC) are needed. Make an in-app request on the last day of each season.**
 
-Demo\*d, MADm\*1, Vint\*8, MeDi\*i you are welcome to join back.
+Demo\*d, MADm\*1, Vint\*8, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are welcome to join back.
 
 ## Why do you play this game?
 **Family 1st, work 2nd, game 3rd.**
@@ -19,7 +19,7 @@ Demo\*d, MADm\*1, Vint\*8, MeDi\*i you are welcome to join back.
 ## Goals
 1. 25-30 active members
 2. 900 wins of `Weekly Elite Cup` for **parts** every week
-3. 20m+ RPs for prize **car** every season
+3. 20m+ RPs for prize **car** every CSR season
 
 ## TODOs
 1. inner-crew swap
@@ -129,15 +129,15 @@ Tokens that each member should be able to collect per season are below
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |&#x1F536;Weekly elite cup (8)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)||
 |&#x1F4D8;Season events (1)|40 (3d)||20 (2d)||||50 (1d)|20 (PC #7)|40 (3d)|||20 (1d)|50 (PC #19)||
-|&#x1F4D9;Daily bonus (even/odd)|||30 (1d)|||||||50/ 100 (1d)|||||80/ 130|
-|&#x1F4D7;Milestone rewards|10 + 30|50|||50|||||||||||
-|&#x1F34F;(14d)|30%|30% x 2|30% + 70% (1st)|30% + 150% (1st)|30% x 2|30% x 2|30%|30% x 2|30% x 2|30% + 70% (2nd)|30% + 150% (2nd)|30% x 2|30% x 2|30%|
+|&#x1F4D9;Daily bonus (even/odd)|
+|&#x1F4D7;Milestone rewards|10 + 30|50|||50|
+|&#x1F34F;(14d)|30%|30% ~~x 2~~|30% + 70% (1st)|30% + 150% (1st)|30% ~~x 2~~|30% ~~x 2~~|30%|30% ~~x 2~~|30% ~~x 2~~|30% + 70% (2nd)|30% + 150% (2nd)|30% ~~x 2~~|30% ~~x 2~~|30%|
 |&#x1F34D;(12d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|70% (2nd)|70% (3rd)|150% (3rd)|70% (4th)|30% (2nd)||70% (5th)|70% (6th)|30% (3rd)|
 |&#x1F34E;(10d)|150% (1st)|70% (1st)|30% (1st)||150% (2nd)|150% (3rd)||150% (4th)|70% (2nd)|30% (2nd)||150% (5th)|150% (6th)||
 
 > **Wildcard is activated by admin, unless authorized by admin.** For mature crew, self-governed would be ideal.
 >
-> Crew stat indicates 30% campaign generated more RPs. So here is the priority, 30% -> 70% -> 150%. If 30% is available, activate 30%, otherwise 70%. 150% is the last choice.
+> Crew stat indicates 30% campaign generated more RPs. So here is the priority, **30% -> 70% -> 150%**. If 30% is available, activate 30%, otherwise 70%. 150% is the last choice.
 > 
 > Wildcard time having generated over 0.5m RPs are 20:00 UTC, 2:00 UTC. Crew stats indicates, crew is not as active as usual between 10:00 Fri - 9:59 Sat UTC and generated less than 0.2m RPs in 70% campaign. Better to skip this period of time.
 
@@ -165,7 +165,8 @@ are expected to lead by example, communicate, coordinate, help entire crew to ea
 
 ## Other resources
 - https://csr2racers.com/2020/01/11/all-the-csr2-cars-with-tune-and-shift-pattern-for-the-best-time/
-- https://csr2racers.com/2020/01/01/bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them/
+- [bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them](https://csr2racers.com/2020/01/01/bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them/), [management-guide-csr-racing-2](https://www.mobilesector.net/key-management-guide-csr-racing-2/)
 - https://csr2boss.com/csr2-racing-live-races-guide-how-to-win-every-time/
 - [Elite Tokens](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPHrSP6Ttu1Ctc7_jTQRtXIQFd9-9emCuc8oe_FtnLSjvJBj7e3OM8sNjCo8dVb901kyRqFvr-Inng/pubhtml)
 - https://csr2btb.wordpress.com/2020/04/09/crew-rules-%ef%bc%88read-first%ef%bc%89/
+- https://www.reddit.com/r/CSRRacing2/comments/fr5ra7/prestige_cup_tips/
