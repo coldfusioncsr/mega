@@ -30,8 +30,8 @@
 |PRI*7|2024-01-13|||||k|W|
 |Chr*5|2024-01-19||||m||W|
 |KMH*Z|2024-01-21|||||k|W|
-|cle*e|2024-02-01|
 |wd1*d|2024-02-02|
+|Tho*s|2024-02-03|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10 AET/+11 AEST|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -75,3 +75,4 @@
 |Gio*!|2024-01-05|
 |NUR*A|2024-01-29|
 |Jun*P|2024-01-01|||||k|
+|cle*e|2024-02-01|
