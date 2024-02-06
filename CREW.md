@@ -1,6 +1,6 @@
 # Crew
 
-|&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|1m+RP|0.1m+PD|WEC|
+|&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|1m+RP|0.1m+PD|🔶WEC|
 |--|--|--|--|--|--|--|--|
 |ROO*0|2023-06|NSW, AUS|UTC+10 AET/+11 AEST|L|m||W|
 |tom*x|2023-11|Demark|UTC+1|||k|W|
@@ -20,18 +20,18 @@
 |Xta*Z|2023-10||UTC+1?|||k|
 |Cha*e|2023-11||UTC+8?|||k|
 |phc*L|2023-11||
-|Pee*|2023-11||
+|Pee*|2023-11|||||k|
 |Ser*1, Pur\*4|2023-11||UTC+5?|||k|W|
 |Mas\*4, WAL\*S|2023-12||||||W|
 |Adr*o|2023-12-11||||m||
 |MoW*L|2023-12-11|||||k|
-|Art*7|2024-01-05|||||k|
+|Art*7|2024-01-05||UTC-7?|||k|
 |Dom*o|2024-01-12|||||k|W|
 |PRI*7|2024-01-13|||||k|W|
 |Chr*5|2024-01-19||||m||W|
 |KMH*Z|2024-01-21|||||k|W|
 |wd1*d|2024-02-02|
-|Tho*s|2024-02-03|
+|Tho*s|2024-02-03||UTC+1?|||k|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10 AET/+11 AEST|A|m|
 |Vin*8|2023-09|USA|||m|
