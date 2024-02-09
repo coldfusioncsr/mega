@@ -55,10 +55,12 @@ Tokens that each member should be able to collect per season
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |&#x1F34F;(14d)|30%|30%&#x1F6AB;|70% (1st)|30%|30%|30%|30%|30%|30%&#x1F6AB;|70% (2nd)|30%|30%|150%|30%|
 |&#x1F34D;(12d)|150% (1st)|&#x1F6AB;|70% (1st)|30% (1st)|150% (2nd)|70% (2nd)|70% (3rd)|150% (3rd)|&#x1F6AB;|70% (4th)|30% (2nd)|70% (5th)|70% (6th)|30% (3rd)|
-|&#x1F34A;(9d+)|30% (1st)|&#x1F6AB;|70% (1st)||150% (1st)|70% (2nd)|30% (2nd)|70% (3rd)|&#x1F6AB;|30% (3rd)||70% (4th)|150% (2nd)||
+|&#x1F34A;(9d+)|30%|&#x1F6AB;|70% (1st)||150% (1st)|70% (2nd)|30%|70% (3rd)|&#x1F6AB;|30%||70% (4th)|150% (2nd)||
 |&#x1F34E;(10d)|150% (1st)|&#x1F6AB;|70% (1st)|30% (1st)|150% (2nd)|150% (3rd)||150% (4th)|&#x1F6AB;|70% (2nd)|30% (2nd)|150% (5th)|150% (6th)||
 
 > **Wildcard is activated by admin, unless authorized by admin.** For mature crew, self-governed would be ideal.
+>
+> Whoever activated wildcard is expected to generate 50k+RPs to be considered serious use of a wildcard.
 >
 > **Why do we favour planned wildcard campaigns?**
 > Wildcard is supposed to boost RP generation for as many as possible. Crew members are located worldwide. Agreeing on common wildcard time is hard.
