@@ -40,8 +40,8 @@
 |Ana*n||Norway|UTC+1|
 |MAD*1|2023-08|Maryland USA|UTC-5|A|m|
 |Log*n||Alabama USA|UTC-6|
-|DAR*R||||||m|
-|Cha*5||||||m|
+|DAR*R||||||k|
+|Cha*5||||||k|
 |Iro*d|||
 |Mat*l|||
 |Joz*s|||
@@ -53,7 +53,7 @@
 |Ste*t|||
 |IOS*2|2023-12-11|||
 |Sly*8|2023-11|Virginia, USA|UTC-5|A|m|
-|Cap*1|2023-12-19|||||m|
+|Cap*1|2023-12-19|||||k|
 |Tho*L|2023-12||||m|
 |MeD*i|2023-08|Chile|UTC-4|a|m|
 |Sen*8|2023-10|North America||
