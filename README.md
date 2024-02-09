@@ -33,7 +33,7 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 |Every 8 hours|Live Races|
 |Every 4 hours|Daily Battles, Bronze Crates|
 
-- [**Season Schedule (Recommended)**](https://docs.google.com/spreadsheets/d/1jsgWgXeBoPMRBNFMbDjJLuDbk90S9DuI_o8sPuSyBmI/htmlview), [Season Schedule by BLACKTOP BEASTS TEAM](https://docs.google.com/spreadsheets/d/1iKkwmLYEPRktXw17auU2egdTSyIu6i1JdWZzMrI3wPk/edit)
+- [**Season Schedule (Recommended)**](https://docs.google.com/spreadsheets/d/1jsgWgXeBoPMRBNFMbDjJLuDbk90S9DuI_o8sPuSyBmI/htmlview), [Season Schedule by BLACKTOP BEASTS TEAM](https://docs.google.com/spreadsheets/d/1iKkwmLYEPRktXw17auU2egdTSyIu6i1JdWZzMrI3wPk/edit), [UTC@Wikipedia](https://en.wikipedia.org/wiki/Utc), [worldclock in UTC](https://www.timeanddate.com/time/aboututc.html)
 
 |Day (UTC)|Thu 1|Fri 2|Sat 3|Sun 4|Mon 5|Tue 6|Wed 7|Thu 8|Fri 9|Sat 10|Sun 11|Mon 12|Tue 13|Wed 14|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
@@ -41,7 +41,7 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 |&#x1F4D8;Season events (1)|40 (3d)||20 (2d)||||50 (1d)|20 (PC #7)|40 (3d)|||20 (1d)|50 (PC #19)||
 |&#x1F4D9;|
 |&#x1F4D7;|10 + 30|50|||50|
-|&#x1F34A;(9d+)|30% (1st)|70% (1st)|||150% (1st)|70% (2nd)|30% (2nd)|70% (3rd)|30% (3rd)|||70% (4th)|150% (2nd)||
+|&#x1F34A;(9d+)|30%|&#x1F6AB;|70% (1st)||150% (1st)|70% (2nd)|30%|70% (3rd)|&#x1F6AB;|30%||70% (4th)|150% (2nd)||
 
 |&#x1F4D7;Milestone rewards|5k|124k|1.52m|5.4m|
 |--|--|--|--|--|
@@ -64,13 +64,14 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 > 3. Watching 1 **passive** video ad (5-60 secs) which pops up when fuel pips drop below 6. Comparably, proactively watching 1 ad recieves only 1 fuel pip. [A guiide to watching Ads](https://www.reddit.com/r/CSRRacing2/comments/c4x6hc/a_guide_to_watching_ads/)
 
 ### g2 - Weekly Elite Cup
-|&#x1F536;Schedule|10:00 - 23:59 UTC Mon|0:00 - 23:59 UTC Tue-Thu|0:00 - 09:59 UTC Fri|
+|&#x1F536;Schedule (UTC)|10:00 - 23:59 Mon|0:00 - 23:59 Tue-Thu|0:00 - 09:59 Fri|
 |-|-|-|-|
 
 To max a car, Yellow Elite Parts are needed but are very hard to earn. By winning 900 races of WEC, each member could earn 15 Yellow (Legendary) Elite Parts and 500 Elite Tuners Currency (2,300 ETC is equivalent to 20 YEP)
 - https://csr2racers.com/2020/12/09/elite-tuners-csr2-events-all-you-need-to-know/
 - https://www.reddit.com/r/CSRRacing2/comments/kfjbcc/weekly_elite_cup_rewards/
 ![Weekly Elite Cup](https://preview.redd.it/882lckfxhx561.png?width=1080&crop=smart&auto=webp&s=fd1eb19f1b4bf8cf234264f6cf73bf10f27e05b8)
+
 ### g3 - 20mil RPs
 
 #### How to earn Respect Points with/without racing
@@ -83,7 +84,7 @@ To max a car, Yellow Elite Parts are needed but are very hard to earn. By winnin
 |&#x1F536;WEC(8 x 5 x 2) + &#x1F4D8;(1 x 7) + &#x1F4D9; + &#x1F4D7;|15 Yellow Elite Parts + 390/440 Tokens + more|16k/Season|5min/Day, 50min/Season|
 |[Season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)(crew RP: 149)|Keys + Parts|730.6k/Season|5min/Day, 1.25hr/Season|
 |Season events (non-crew RP: 484)|Keys+Parts+Gold coins+Legends components|96.8k/Season|17min/Day, 4hr/Season|
-|Live Races(45 x 14)|150 Bronze keys + 10 Sliver keys / 15 Races / 8 hours|600-1400/win, 33,750-58,500/Day, 472.5k-819k/Season|22min+/Day, 5.1hr+/Season|
+|Live Races(45 x 14)|150 Bronze keys + 10 Sliver keys / 15 Races / 8 hours|600-1400/win, 33,750-58,500/Day, 472.5k-819k/Season|45min+/Day, 10.5hr+/Season|22min+/Day, 5.1hr+/Season|
 |Showdowns(1k)|Elite parts|250k+ x [2, 3] /Season|36min+/Day, 8.3hr+/Season|18min+/Day, 4.17hr+/Season|
 |Race pass(3 x 14)|car, parts, tokens|325k/other season|4hr/Season|
 
@@ -112,3 +113,4 @@ are expected to lead by example, communicate, coordinate, help entire crew to ea
 - [Elite Tokens](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPHrSP6Ttu1Ctc7_jTQRtXIQFd9-9emCuc8oe_FtnLSjvJBj7e3OM8sNjCo8dVb901kyRqFvr-Inng/pubhtml)
 - https://csr2btb.wordpress.com/2020/04/09/crew-rules-%ef%bc%88read-first%ef%bc%89/
 - https://www.reddit.com/r/CSRRacing2/comments/fr5ra7/prestige_cup_tips/
+- https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/17467-elite-custom-token-limits/
