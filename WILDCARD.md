@@ -12,10 +12,11 @@ Tokens that each member should be able to collect per season
 > 1. Wildcard for Showdown, win to lose ratio is 1:2. You should be able to complete 50 races of Showdown per hour when Refuelling by watching passive Ad or 80 races of Showdown per hour when refuelling for 20 Gold Coins. To complete 2 Showdown events, you would need to spend 13-20 hours.
 > 2. Wildcard for Live races with swap &#x1F501; &#x1F502; &#x1F503; &#x1F504;, win/lose ratio is 1:1.
 
-||Intensive <-|Balanced||-> Extensive|
-|--|--|--|--|--|
-||&#x1F34E;Red apple (10d)|&#x1F34D;Pineapple (12d)|&#x1F34A;Orangle (9d+)|&#x1F34F;Green apple (14d)|
-|Combination|150%x* + 70%x2 + 30%x2|150%x3 + 70%x6 + 30%x3|150%x2 + 70%x4 + 30%x*|150%x1 + 70%x2 + 30%x*|
+|10k|Intensive <-||Balanced|Capped 1300||-> Extensive|
+|--|--|--|--|--|--|--|
+||&#x1F34E;Red apple (9d)|🍉Watermelon (10d)|🍍Pineapple (11d)|&#x1F34A;Orangle (11d)|🥝Kiwifruit (13d)|&#x1F34F;Green apple (14d)|
+|Combination|150%x5 + 70%x2 + 30%x2|150%x4 + 70%x3 + 30%x3|150%x3 + 70%x4 + 30%x4|150%x2 + 70%x6 + 30%x3|150% + 70%x5 + 30%x7|150% + 70%x2 + 30%x13|
+|Hours covered|15|19|23|23|32|44|
 
 > &#x1F34E;Intensive grinding suits for highly organised crew of which most members
 > 1. attend each wildcard campaign (>15p)
@@ -31,9 +32,9 @@ Tokens that each member should be able to collect per season
 
 |Wildcard cost @crew respect rank 25|1st|2nd|3rd+|85%+ 50%PC|100%+ 100%PC|1+2|+3|+4|+5|+6|+7|+*|
 |-:|--|--:|--:|--:|--:|--:|:-:|:-:|--|:-:|--|:-:|
-|30% (3h)|250|450|625|18.4/20.5|22.9/25.3|700&#x1F34E;|1325&#x1F34D;|||3200&#x1F34A;||&#x1F34F;|
-|70% (2h)|500|875|1300|9.4/10.3/|11.5/12.7|1375&#x1F34E;&#x1F34F;|2675|3975&#x1F34A;|5275|6575&#x1F34D;|7875||
-|150% (1h)|750|1300|1950|6.5/7.2|8/8.8|2050&#x1F34F;&#x1F34A;|4000&#x1F34D;|5950|7900|9850&#x1F34E;|11800|
+|30% (3h)|250|450|625|18.4/20.5|22.9/25.3|700&#x1F34E;|1325🍉&#x1F34A;|1950&#x1F34D;|2575|3200|3825🥝|&#x1F34F;|
+|70% (2h)|500|875|1300|9.4/10.3/|11.5/12.7|1375&#x1F34E;&#x1F34F;|2675🍉|3975&#x1F34D;|5275🥝|6575&#x1F34A;|7875||
+|150% (1h)|750&#x1F34F;🥝|1300|1950|6.5/7.2|8/8.8|2050&#x1F34A;|4000&#x1F34D;|5950🍉|7900&#x1F34E;|9850|11800|
 
 ## Token coefficient by (hours * percent / tokens)
 ||1st|2nd|3rd+||1st|2nd|3rd+||1st|2nd|3rd+|
