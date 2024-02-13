@@ -2,40 +2,40 @@
 
 |&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|1m+RP|0.1m+PD|🔶WEC|
 |--|--|--|--|--|--|--|--|
-|ROO*0|2023-06|NSW, AUS|UTC+10 AET/+11 AEST|L|m||W|
-|tom*x|2023-11|Demark|UTC+1|||k|W|
-|Mad*8, Tem\*0|2023-12-07|Germany|UTC+1|A|m|
-|Orp*s|2023-10|Eastern USA|UTC-5|||k|
+|ROO*0|2023-06|NSW, AUS|UTC+10 [AET](https://www.timeanddate.com/time/zones/aet)|L|m||W|
+|tom*x|2023-11|Demark|UTC+1 [CET](https://www.timeanddate.com/time/zones/cet)|||k|W|
+|Mad*8, Tem\*0|2023-12-07|Germany|UTC+1|A|m||W|
+|Orp*s|2023-10|Eastern USA|UTC-5 [EST](https://www.timeanddate.com/time/zones/est)|||k|W|
 |Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5||m||W|
-|phi*7|2024-01-15|New York, USA|UTC-5||m|
-|Ted*r|2023-09|Mexico|UTC-6|A|m|
+|phi*7|2024-01-15|New York, USA|UTC-5||m||W|
+|Ted*r|2023-09|Mexico|UTC-6|A|m||W|
 |モ*ㄨ|2023-12-19||UTC-6|||k|W|
-|SLI*K|2023-08|Northern Idoha, USA|UTC-7|a||k|
-|Bra*0|2023-12-28||UTC-7|||k|
-|AZS*H, mea\*e|2023-12-30|Arizona, USA|UTC-7|||k|
-|LIL*L|2023-08|Stockton California, USA|UTC-8|A|m||W|
-|mel*!|2023-12-25|Los Angeles California, USA|UTC-8||m||
+|SLI*K|2023-08|Northern Idoha, USA|UTC-7|a||k|W|
+|Bra*0|2023-12-28||UTC-7|||k|W|
+|AZS*H, mea\*e|2023-12-30|Arizona, USA|UTC-7|||k|W|
+|LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A|m||W|
+|mel*!|2023-12-25|Los Angeles California, USA|UTC-8||m||W|
 |zeb*e|2023-10||UTC+1?||m||W|
 |zer*l|2023-10||UTC+5?|||k|W|
-|Xta*Z|2023-10||UTC+1?|||k|
-|Cha*e|2023-11||UTC+8?|||k|
-|phc*L|2023-11||
-|Pee*|2023-11|||||k|
+|Xta*Z|2023-10||UTC+1?|||k|W|
+|Cha*e|2023-11||UTC+8?|||k|W|
+|phc*L|2023-11||||||?|
+|Pee*|2023-11|||||k|W|
 |Ser*1, Pur\*4|2023-11||UTC+5?|||k|W|
-|Adr*o|2023-12-11||||m||
-|MoW*L|2023-12-11|||||k|
-|Art*7|2024-01-05||UTC-7?|||k|
-|Dom*o|2024-01-12|||||k|W|
+|Adr*o|2023-12-11||||m||W|
+|MoW*L|2023-12-11|||||k|W|
+|Art*7|2024-01-05||UTC-7?|||k|W|
+|Dom*o|2024-01-12|||||k|
 |PRI*7|2024-01-13|||||k|W|
 |Chr*5|2024-01-19||||m||W|
-|KMH*Z|2024-01-21|||||k|W|
-|Tho*s|2024-02-03||UTC+1?||m|
-|Lop*z|2024-02-11|
-|Rob*n|2024-02-11|
+|KMH*Z|2024-01-21||||m||W|
+|Tho*s|2024-02-03||UTC+1?||m||W|
+|Lop*z|2024-02-11||||||W|
+|Rob*n|2024-02-11||||||?|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
-|Dem*d|2023-08|VIC, AUS|UTC+10 AET/+11 AEST|A|m|
+|Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
-|Ssp*K||VIC, AUS|UTC+10 AET/+11 AEST|
+|Ssp*K||VIC, AUS|UTC+10|
 |Voc*s||AUS|UTC+10|
 |Ana*n||Norway|UTC+1|
 |MAD*1|2023-08|Maryland USA|UTC-5|A|m|
