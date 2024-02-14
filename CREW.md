@@ -16,7 +16,7 @@
 |LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A|m||W|
 |mel*!|2023-12-25|Los Angeles California, USA|UTC-8||m||W|
 |zeb*e|2023-10||UTC+1?||m||W|
-|zer*l|2023-10||UTC+5?|||k|W|
+|zer*l|2023-10||UTC+5?||m||W|
 |Xta*Z|2023-10||UTC+1?|||k|W|
 |Cha*e|2023-11||UTC+8?|||k|W|
 |phc*L|2023-11||||||?|
@@ -31,7 +31,7 @@
 |KMH*Z|2024-01-21||||m||W|
 |Tho*s|2024-02-03||UTC+1?||m||W|
 |Lop*z|2024-02-11||||||W|
-|Rob*n|2024-02-11||||||?|
+|Kau*T|2024-02-13|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -78,3 +78,4 @@
 |cle*e|2024-02-01|
 |Mas\*4, WAL\*S|2023-12||||||W|
 |wd1*d|2024-02-02|
+|Rob*n|2024-02-11|
