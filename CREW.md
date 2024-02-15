@@ -15,7 +15,7 @@
 |AZS*H, mea\*e|2023-12-30|Arizona, USA|UTC-7|||k|W|
 |LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A|m||W|
 |mel*!|2023-12-25|Los Angeles California, USA|UTC-8||m||W|
-|zeb*e|2023-10||UTC+1?||m||W|
+|zeb*e|2023-10|France?|UTC+1?||m||W|
 |zer*l|2023-10||UTC+5?||m||W|
 |Xta*Z|2023-10||UTC+1?|||k|W|
 |Cha*e|2023-11||UTC+8?|||k|W|
@@ -26,12 +26,12 @@
 |MoW*L|2023-12-11|||||k|W|
 |Art*7|2024-01-05||UTC-7?|||k|W|
 |Dom*o|2024-01-12|||||k|
-|PRI*7|2024-01-13|||||k|W|
+|PRI*7|2024-01-13||||m||W|
 |Chr*5|2024-01-19||||m||W|
 |KMH*Z|2024-01-21||||m||W|
-|Tho*s|2024-02-03||UTC+1?||m||W|
-|Lop*z|2024-02-11||||||W|
-|Kau*T|2024-02-13|
+|Tho*s|2024-02-03|Austria?|UTC+1?||m||W|
+|Lop\*z, The\*r|2024-02-11|||||k|W|
+|Flo*B|2024-02-14|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -79,3 +79,4 @@
 |Mas\*4, WAL\*S|2023-12||||||W|
 |wd1*d|2024-02-02|
 |Rob*n|2024-02-11|
+|Kau*T|2024-02-13|
