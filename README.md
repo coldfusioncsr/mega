@@ -37,19 +37,20 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 
 |Day (UTC)|Thu 1|Fri 2|Sat 3|Sun 4|Mon 5|Tue 6|Wed 7|Thu 8|Fri 9|Sat 10|Sun 11|Mon 12|Tue 13|Wed 14|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|&#x1F536;Weekly elite cup (8)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)||
-|&#x1F4D8;Season events (1)|40 (3d)||20 (2d)||||50 (1d)|20 (PC #7)|40 (3d)|||20 (1d)|50 (PC #19)||
-|&#x1F4D9;|
-|&#x1F4D7;|10 + 30|50|||50|
-|&#x1F34A;(9d+)|30%|&#x1F6AB;|70% (1st)||150% (1st)|70% (2nd)|30%|70% (3rd)|&#x1F6AB;|30%||70% (4th)|150% (2nd)||
+|🔶Weekly elite cup (8)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)||
+|📘Token events (1)|40 (3d)||20 (2d)||||50 (1d)|20 (PC #7)|40 (3d)|||20 (1d)|50 (PC #19)||
+|📘RP events|||30k (2d)|34.5k (2d)|86.4k (2d)||30k (1d) + 34.5k (2d)|300k (PC)||34.5 (2d)||30k (1d)|120.9k (2d)||
+|📙|
+|📗|10 + 30|50|||50|
+|🍊(12d)|30%|&#x1F6AB;|70% (1st)|30%|70% (2nd)|150% (1st)|30%|70% (3rd)|&#x1F6AB;|30%|30%|70% (4th)|150% (2nd)||
 
-|&#x1F4D7;Milestone rewards|5k|124k|1.52m|5.4m|
+|📗Milestone rewards|5k|124k|1.52m|5.4m|
 |--|--|--|--|--|
 |(crew rank>2.5k/<=2.5k)|(29th/35th)|(27th/33rd)|(20th/26th)|(13th/19th)|
 |Tokens|10|30|50|50|
 > Day to collect milestone rewards varies with crew performance.
 
-|&#x1F4D9;Daily bonus|4th|11th|18th|25th|
+|📙Daily bonus|4th|11th|18th|25th|
 |--|--|--|--|--|
 |Tokens|30|50|30|100|
 > Day to collect daily bonus varies from player to player. And first day overlaps last day for collecting daily bonus.
