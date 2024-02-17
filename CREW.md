@@ -8,6 +8,7 @@
 |Orp*s|2023-10|Eastern USA|UTC-5 [EST](https://www.timeanddate.com/time/zones/est)|||k|W|
 |Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5||m||W|
 |phi*7|2024-01-15|New York, USA|UTC-5||m||W|
+|Lop\*z, The\*r|2024-02-11|Peru|UTC-5|||k|W|
 |Ted*r|2023-09|Mexico|UTC-6|A|m||W|
 |モ*ㄨ|2023-12-19||UTC-6|||k|W|
 |SLI*K|2023-08|Northern Idoha, USA|UTC-7|a||k|W|
@@ -30,7 +31,6 @@
 |Chr*5|2024-01-19||||m||W|
 |KMH*Z|2024-01-21||||m||W|
 |Tho*s|2024-02-03|Austria?|UTC+1?||m||W|
-|Lop\*z, The\*r|2024-02-11|||||k|W|
 |Maj*l|2024-02-15|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
