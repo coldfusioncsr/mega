@@ -19,7 +19,6 @@
 |zer*l|2023-10||UTC+5?||m||W|
 |Xta*Z|2023-10||UTC+1?|||k|W|
 |Cha*e|2023-11||UTC+8?|||k|W|
-|phc*L|2023-11||||||?|
 |Pee*|2023-11|||||k|W|
 |Ser*1, Pur\*4|2023-11||UTC+5?|||k|W|
 |Adr*o|2023-12-11||UTC-8?||m||W|
@@ -30,8 +29,9 @@
 |KMH*Z|2024-01-21||||m||W|
 |Tho*s|2024-02-03|Austria?|UTC+1?||m||W|
 |Maj*l|2024-02-15|
-|Jef*s|2024-02-18|
 |jax*9|2024-02-18|
+|spl*t|2024-02-20|
+|Wis*8|2024-02-20|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -83,3 +83,5 @@
 |Flo*B|2024-02-14|
 |MoW*L|2023-12-11|||||k|W|
 |SLI*K|2023-08|Northern Idoha, USA|UTC-7|a||k|W|
+|Jef*s|2024-02-18|
+|phc*L|2023-11||||||?|
