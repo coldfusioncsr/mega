@@ -30,8 +30,8 @@
 |Tho*s|2024-02-03|Austria?|UTC+1?||m||W|
 |spl*t|2024-02-20|
 |Pen*a|2024-02-24|
-|hib*0|2024-02-24|
 |fuc*0|2024-02-24|
+|Cla*N|2024-02-25|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -88,3 +88,4 @@
 |Maj*l|2024-02-15|
 |jax*9|2024-02-18|
 |Wis*8|2024-02-20|
+|hib*0|2024-02-24|
