@@ -31,7 +31,7 @@
 |spl*t|2024-02-20|
 |Pen*a|2024-02-24|
 |fuc*0|2024-02-24|
-|Cla*N|2024-02-25|
+|Cla*N|2024-02-25|||||k|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
