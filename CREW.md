@@ -17,20 +17,20 @@
 |mel*!|2023-12-25|Los Angeles California, USA|UTC-8||m||W|
 |zeb*e|2023-10|France?|UTC+1?||m||W|
 |zer*l|2023-10||UTC+5?||m||W|
-|Xta*Z|2023-10||UTC+1?|||k|W|
+|Xta*Z|2023-10||UTC+1?||m||W|
 |Cha*e|2023-11||UTC+8?|||k|W|
 |Pee*|2023-11|||||k|W|
-|Ser*1, Pur\*4|2023-11||UTC+5?|||k|W|
+|Ser*1, Pur\*4|2023-11||UTC+5?||m||W|
 |Adr*o|2023-12-11||UTC-8?||m||W|
-|Art*7|2024-01-05||UTC-7?|||k|W|
+|Art*7|2024-01-05||UTC-7?||m||W|
 |Dom*o|2024-01-12||UTC-6?|||k|
 |PRI*7|2024-01-13||||m||W|
 |Chr*5|2024-01-19||UTC+1?||m||W|
 |KMH*Z|2024-01-21||||m||W|
 |Tho*s|2024-02-03|Austria?|UTC+1?||m||W|
 |spl*t|2024-02-20|
-|Pen*a|2024-02-24|
-|fuc*0|2024-02-24|
+|Pen*a|2024-02-24|||||k|
+|fuc*0|2024-02-24|||||k|
 |Cla*N|2024-02-25|||||k|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
@@ -38,8 +38,8 @@
 |Ssp*K||VIC, AUS|UTC+10|
 |Voc*s||AUS|UTC+10|
 |Ana*n||Norway|UTC+1|
-|MAD*1|2023-08|Maryland USA|UTC-5|A|m|
-|Log*n||Alabama USA|UTC-6|
+|MAD*1|2023-08|Maryland, USA|UTC-5|A|m|
+|Log*n||Alabama, USA|UTC-6|
 |DAR*R||||||k|
 |Cha*5||||||k|
 |Iro*d|||
