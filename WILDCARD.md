@@ -1,5 +1,7 @@
 # Token & Wildcard strategy
 
+Wildcard is the key to `Less for More`.
+
 ## Token donation
 Tokens that each member should be able to collect per season
 ||&#x1F4D8;Season events|&#x1F4D9;Daily bonus (Event/Odd)|&#x1F4D7;Milestone rewards|Total collectible|85%+50%PC|100%+100%PC|
@@ -26,15 +28,22 @@ Tokens that each member should be able to collect per season
 |Combination|150%x5 + 70%x2 + 30%x2|150%x4 + 70%x3 + 30%x3|150%x3 + 70%x4 + 30%x4|150%x2 + 70%x5 + 30%x5|150% + 70%x5 + 30%x7|150% + 70%x2 + 30%x13|
 |Hours covered|15|19|23|27|32|44|
 
-> 🍎Intensive grinding suits for highly organised crew of which most members
+> 🍎🍉Intensive grinding suits for highly organised crew of which most members
 > 1. attend each wildcard campaign (>15p)
 > 2. know how to quickly refuel
+> 3. are busyman having little time playing
 
-> 🍏Extensive grinding suits for crew
+> 🍏🥝Extensive grinding suits for crew
 > 1. hard to agree or act on wildcard time (<10p)
 > 2. rely on natural refueling
+> 3. has problem of communication
 >
-> Crew stat indicates 30% campaign generated more RPs. So here is the priority, **30% -> 70% -> 150%**. If 30% is available, activate 30%, otherwise 70%. 150% is the last choice.
+> Keeping 150% blocked is crucial (ideally 150% is filled at last), otherwise 1k+ tokens will drop to the 2nd or even the 3rd 150%.
+
+> [!NOTE]
+> Crew stat indicates 30% & 70% campaign generated more RPs.
+>
+> ~~So here is the priority, **30% -> 70% -> 150%**. If 30% is available, activate 30%, otherwise 70%. 150% is the last choice.~~
 
 |Wildcard cost @crew respect rank 25|1st|2nd|3rd+|85%+ 50%PC|100%+ 100%PC|1+2|+3|+4|+5|+6|+7|+*|
 |-:|--|--:|--:|--:|--:|--:|:-:|:-:|--|:-:|--|:-:|
@@ -63,29 +72,45 @@ Tokens that each member should be able to collect per season
 |🔶Weekly elite cup (8)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)||
 |📘Token events (1)|40 (3d)||20 (2d)||||50 (1d)|20 (PC #7)|40 (3d)|||20 (1d)|50 (PC #19)||
 |📘RP events|||30k (2d)|34.5k (2d)|86.4k (2d)||30k (1d) + 34.5k (2d)|300k (PC)||34.5 (2d)||30k (1d)|120.9k (2d)||
-|🍏(14d)|30%|30%&#x1F6AB;|70% (1st)|30%|30%|30%|30%|30%|30%&#x1F6AB;|70% (2nd)|30%|30%|150%|30%|
-|🥝(13d)|30%|30%&#x1F6AB;|70% (1st)|30%|30%|30%|30%|30%|30%&#x1F6AB;|70% (2nd)|30%|30%|150%||
-|🍊(12d)|30%|&#x1F6AB;|70% (1st)|30%|70% (2nd)|150% (1st)|30%|70% (3rd)|&#x1F6AB;|30%|30%|70% (4th)|150% (2nd)||
-|🍍(11d)|150% (1st)|&#x1F6AB;|70% (1st)|30% (1st)|150% (2nd)|70% (2nd)|70% (3rd)|150% (3rd)|&#x1F6AB;|70% (4th)|30% (2nd)|30%|30%||
-|🍉(10d)|150% (1st)|&#x1F6AB;|70% (1st)|30%|150% (2nd)|30%||150% (3rd)|&#x1F6AB;|70% (2nd)|30%|70% (3rd)|150% (4th)||
-|🍎(9d)|150% (1st)|&#x1F6AB;|70% (1st)|30% (1st)|150% (2nd)|150% (3rd)||150% (4th)|&#x1F6AB;|70% (2nd)|30% (2nd)|150% (5th)|150% (6th)||
+|🍏(14d)|30%|30%🚫|70% (1st)|🚫|30%|30%|30%|30%|30%🚫|70% (2nd)|🚫|30%|150% (1st)|30%|
+|🥝(13d)|30%|🚫|70% (1st)|🚫|30%|30%|30%|30%|🚫|70% (2nd)|🚫|30%|150% (1st)||
+|🍊(12d)|30%|🚫|70% (1st)|🚫|70% (2nd)|150% (1st)|30%|70% (3rd)|🚫|30%|🚫|70% (4th)|150% (2nd)||
+|🍍(11d)|30%|🚫|70% (1st)|🚫|70% (2nd)|150% (1st)|70% (3rd)|150% (2nd)|🚫|70% (4th)|🚫|30%|150% (3rd)||
+|🍉(10d)|150% (1st)|🚫|70% (1st)|🚫|150% (2nd)|30%||150% (3rd)|🚫|70% (2nd)|🚫|70% (3rd)|150% (4th)||
+|🍎(9d)|150% (1st)|🚫|70% (1st)|🚫|150% (2nd)|150% (3rd)||150% (4th)|🚫|70% (2nd)|🚫|150% (5th)|150% (6th)||
 
-> **Wildcard is activated by admin, unless authorized by admin.** For mature crew, self-governed would be ideal.
->
-> Whoever activated wildcard is expected to generate 50k+RPs to be considered serious use of a wildcard.
+> [!IMPORTANT]
+> **Wildcard is activated by admin, unless authorized by admin.**
+> - For mature crew, self-governed would be ideal.
+> - For current crew,
+>   - 30% could be activated by anyone at time between 18:00-20:00 UTC or 3:00-5:00 UTC,
+>   - 70% & 150% are activated by admin at 20:00 UTC.
+
+> [!NOTE]
+>  Whoever activated wildcard is expected to generate 50k+RPs to be considered serious use of a wildcard.
 >
 > **Why do we favour planned wildcard campaigns?**
+> 
 > Wildcard is supposed to boost RP generation for as many as possible. Crew members are located worldwide. Agreeing on common wildcard time is hard.
-> If we activate unplanned wildcard often, most would either come unprepared or miss. 
+> 
+> If we activate unplanned wildcard often, most would either come unprepared or miss.
+> 
 > But we also expect some authorised unplanned wildcards, to find more suitable time, etc. Current 20:00 UTC was found by unplanned wildcards.
 >
-> According to measurement, between 18:00 - 21:00 UTC, there were 20 active members. Tho*B at 6:00 UTC activated wildcard 70% which generated 0.48m by 7p, was not bad.
+> #### Day & Time
 > 
-> Wildcard time having generated over 0.5m RPs are 20:00 UTC, 2:00 UTC. Crew stats indicates, &#x1F6AB;crew is not as active as usual between 10:00 Fri - 9:59 Sat UTC and generated less than 0.2m RPs in 70% campaign. Better to skip this period of time.
+> ✅️Wildcard is used as a DAY reminder of 🔶Weekly elite cup, 📘Token events, 📘RP events.
+> 
+> ✅️According to measurement, between 18:00 - 21:00 UTC, there were 20 active members. Wildcard time having generated over 0.5m RPs are 20:00 UTC, 2:00 UTC. Tho*B at 6:00 UTC activated wildcard 70% which generated 0.48m by 7p, was not bad.
+> 
+> 🚫Crew stats indicates, crew is not as active as usual between 10:00 Fri - 9:59 Sat UTC and generated less than 0.2m RPs in 70% campaign. Better to skip this period of time.
 >
-> Try to activate a wildcard on each day of Weekly Elite Cup.
+> 🚫No major events on Sunday
 >
-> Try to build a wildcard combination to cover 20+hours which is roughly the time needed for completing one Showdown event.
+> 🚫Showdown should have been completed by Wednesday
+>
+> ✅️Wildcard combination to cover 20+hours which is roughly equivalent to the time needed to complete two Showdown events.
+> 
 > ~~Only one wildcard campaign per day to avoid tiredness~~
 
 - [Any unused Wildcard tokens will automatically disappear at the end of each Crew Championship season, so make sure you use them up before the season ends!](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8074-what-happens-to-my-wildcard-tokens-at-the-end-of-the-crew-championship-season/)
