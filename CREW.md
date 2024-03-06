@@ -31,7 +31,7 @@
 |fuc*0|2024-02-24|||||k|
 |Cla*N|2024-02-25|||||k|
 |Jus*4|2024-03-02|||||k|
-|Leo*a|2024-03-02|
+|Leo*2|2024-03-05|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -91,3 +91,4 @@
 |hib*0|2024-02-24|
 |Tho*s|2024-02-03|Austria?|UTC+1?||m||W|
 |zeb*e|2023-10|France?|UTC+1?||m||W|
+|Leo*a|2024-03-02|
