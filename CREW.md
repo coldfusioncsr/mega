@@ -12,7 +12,6 @@
 |Ted*r|2023-09|Mexico|UTC-6|A|m||W|
 |モ*ㄨ|2023-12-19||UTC-6|||k|W|
 |Bra*0|2023-12-28||UTC-7|||k|W|
-|AZS*H, mea\*e|2023-12-30|Arizona, USA|UTC-7|||k|W|
 |LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A|m||W|
 |mel*!|2023-12-25|Los Angeles California, USA|UTC-8||m||W|
 |zer*l|2023-10||UTC+5?||m||W|
@@ -32,6 +31,7 @@
 |Cla*N|2024-02-25|||||k|
 |Jus*4|2024-03-02|||||k|
 |Leo*2|2024-03-05|
+|PaS*z|2024-03-06|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -92,3 +92,4 @@
 |Tho*s|2024-02-03|Austria?|UTC+1?||m||W|
 |zeb*e|2023-10|France?|UTC+1?||m||W|
 |Leo*a|2024-03-02|
+|AZS*H, mea\*e|2023-12-30|Arizona, USA|UTC-7|||k|W|
