@@ -27,11 +27,11 @@
 |KMH*Z|2024-01-21||||m||W|
 |spl*t|2024-02-20|
 |Pen*a, Aco\*2|2024-02-24|||||k|
-|fuc*0|2024-02-24|||||k|
 |Cla*N|2024-02-25|||||k|
 |Jus*4|2024-03-02|||||k|
 |Leo*2|2024-03-05|
-|PaS*z|2024-03-06|
+|Anh*A|2024-03-08|
+|R*R|2024-03-09|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -93,3 +93,5 @@
 |zeb*e|2023-10|France?|UTC+1?||m||W|
 |Leo*a|2024-03-02|
 |AZS*H, mea\*e|2023-12-30|Arizona, USA|UTC-7|||k|W|
+|PaS*z|2024-03-06|
+|fuc*0|2024-02-24|||||k|
