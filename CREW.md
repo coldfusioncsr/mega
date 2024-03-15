@@ -30,7 +30,7 @@
 |Cla*N|2024-02-25|||||k|
 |Jus*4|2024-03-02|UK?|UTC?||m||
 |Leo*2|2024-03-05||UTC+1?||||W|
-|Anh*A|2024-03-08||UTC+3?|
+|Anh*A|2024-03-08||UTC+3?|||k|
 |R*R|2024-03-09||UTC+8?|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
