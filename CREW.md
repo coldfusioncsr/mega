@@ -6,14 +6,12 @@
 |tom*x|2023-11|Demark|UTC+1 [CET](https://www.timeanddate.com/time/zones/cet)|||k|W|
 |Mad*8, Tem\*0|2023-12-07|Germany|UTC+1|A|m||W|
 |Orp*s|2023-10|Eastern USA|UTC-5 [EST](https://www.timeanddate.com/time/zones/est)|||k|W|
-|Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5||m||W|
-|phi*7|2024-01-15|New York, USA|UTC-5||m||W|
+|Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5|A|m||W|
 |Lop\*z, The\*r|2024-02-11|Peru|UTC-5|||k|W|
-|Ted*r|2023-09|Mexico|UTC-6|A|m||W|
 |モ*ㄨ|2023-12-19||UTC-6|||k|W|
 |Bra*0|2023-12-28||UTC-7|||k|W|
 |LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A|m||W|
-|mel*!|2023-12-25|Los Angeles California, USA|UTC-8||m||W|
+|mel*!|2023-12-25|Los Angeles California, USA|UTC-8|A|m||W|
 |zer*l|2023-10||UTC+5?||m||W|
 |Xta*Z|2023-10||UTC+1?||m||W|
 |Cha*e|2023-11||UTC+8?|||k|W|
@@ -27,11 +25,13 @@
 |KMH*Z|2024-01-21||||m||W|
 |spl*t|2024-02-20|
 |Pen*a, Aco\*2|2024-02-24|||||k|
-|Cla*N|2024-02-25|||||k|
 |Jus*4|2024-03-02|UK?|UTC?||m||
 |Leo*2|2024-03-05||UTC+1?||||W|
-|Anh*A|2024-03-08||UTC+3?|||k|
 |R*R|2024-03-09||UTC+8?|
+|MAZ*N|2024-03-17|
+|Mor*y|2024-03-18|||||k|
+|hel*s|2024-03-18|||||k|
+|Asi*s|2024-03-18|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -95,3 +95,7 @@
 |AZS*H, mea\*e|2023-12-30|Arizona, USA|UTC-7|||k|W|
 |PaS*z|2024-03-06|
 |fuc*0|2024-02-24|||||k|
+|Anh*A|2024-03-08||UTC+3?|||k|
+|Cla*N|2024-02-25|||||k|
+|Ted*r|2023-09|Mexico|UTC-6|A|m||W|
+|phi*7|2024-01-15|New York, USA|UTC-5||m||W|
