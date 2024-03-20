@@ -30,8 +30,8 @@
 |R*R|2024-03-09||UTC+8?|
 |MAZ*N|2024-03-17|
 |Mor*y|2024-03-18|||||k|
-|hel*s|2024-03-18|||||k|
 |Asi*s|2024-03-18|
+|Yel*7|2024-03-19|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -99,3 +99,4 @@
 |Cla*N|2024-02-25|||||k|
 |Ted*r|2023-09|Mexico|UTC-6|A|m||W|
 |phi*7|2024-01-15|New York, USA|UTC-5||m||W|
+|hel*s|2024-03-18|||||k|
