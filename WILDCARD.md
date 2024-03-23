@@ -32,11 +32,12 @@ Tokens that each member should be able to collect per season
 > 1. attend each wildcard campaign (>15p)
 > 2. know how to quickly refuel
 > 3. are busyman having little time playing
+> 4. are willing to refuel by paying gold coins
 
 > 🍏🥝Extensive grinding suits for crew
 > 1. hard to agree or act on wildcard time (<10p)
 > 2. rely on natural refueling
-> 3. has problem of communication
+> 3. having problem of communication due to restrictions by languages, tools, time zones
 >
 > Keeping 150% blocked is crucial (ideally 150% is filled at last), otherwise 1k+ tokens will drop to the 2nd or even the 3rd 150%.
 
@@ -49,7 +50,20 @@ Tokens that each member should be able to collect per season
 |-:|--|--:|--:|--:|--:|--:|:-:|:-:|--|:-:|--|:-:|
 |30% (3h)|250|450|625|18.4/20.5|22.9/25.3|700🍎|1325🍉|1950&🍍|2575🍊|3200|3825🥝|🍏|
 |70% (2h)|500|875|1300|9.4/10.3/|11.5/12.7|1375🍎🍏|2675🍉|3975🍍|5275🥝🍊|6575|7875||
-|150% (1h)|750🍏🥝|1300|1950|6.5/7.2|8/8.8|2050🍊|4000🍍|5950🍉|7900🍎|9850|11800|
+|150% (1h)|750🍏🥝|1350|1950|6.5/7.2|8/8.8|2050🍊|4000🍍|5950🍉|7900🍎|9850|11800|
+
+### Actual token coefficients from crew statistics
+> including planned & unplanned wildcard campaigns
+
+|2024 (w1-w12)|30%|70%|150%|
+|--|--|--|--|
+|number of records|21|15|7|
+|lowest|0.16m|0.19m|0.17m|
+|highest|0.81m|0.89m|0.46m|
+|average|0.41m|0.4m|0.26m|
+|ROI for 1st|1.64k/token|0.8k/token|0.37k/token|
+|ROI for 2nd|0.91k/token|0.46k/token|0.19k/token|
+|ROI for 3rd|0.66k/token|0.3k/token|0.13k/token|
 
 ### Token coefficient by (hours * percent / tokens)
 ||1st|2nd|3rd+||1st|2nd|3rd+||1st|2nd|3rd+|
