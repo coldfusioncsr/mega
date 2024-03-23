@@ -3,7 +3,7 @@
 |&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|1m+RP|0.1m+PD|🔶WEC|
 |--|--|--|--|--|--|--|--|
 |ROO*0|2023-06|NSW, AUS|UTC+10 [AET](https://www.timeanddate.com/time/zones/aet)|L|m||W|
-|R*R|2024-03-09|NSW, AUS|UTC+10|||k|
+|R*R|2024-03-09|NSW, AUS|UTC+10||m||
 |tom*x|2023-11|Demark|UTC+1 [CET](https://www.timeanddate.com/time/zones/cet)|||k|W|
 |Mad*8, Tem\*0|2023-12-07|Germany|UTC+1|A|m||W|
 |Orp*s|2023-10|Eastern USA|UTC-5 [EST](https://www.timeanddate.com/time/zones/est)|||k|W|
@@ -31,7 +31,7 @@
 |Mor*y|2024-03-18|||||k|
 |Asi*s|2024-03-18|
 |Yel*7|2024-03-19|||||k|
-|Jer*a|2024-03-21|
+|42k*1|2024-03-23|||||k|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -101,3 +101,4 @@
 |phi*7|2024-01-15|New York, USA|UTC-5||m||W|
 |hel*s|2024-03-18|||||k|
 |Leo*2|2024-03-05||UTC+1?||||W|
+|Jer*a|2024-03-21|
