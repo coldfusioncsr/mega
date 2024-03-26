@@ -6,7 +6,7 @@
 |R*R|2024-03-09|NSW, AUS|UTC+10||m||
 |tom*x|2023-11|Demark|UTC+1 [CET](https://www.timeanddate.com/time/zones/cet)|||k|W|
 |Mad*8, Tem\*0|2023-12-07|Germany|UTC+1|A|m||W|
-|Orp*s|2023-10|Eastern USA|UTC-5 [EST](https://www.timeanddate.com/time/zones/est)|||k|W|
+|Orp*s|2023-10|Eastern USA|UTC-5 [EST](https://www.timeanddate.com/time/zones/est)||m||W|
 |Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5|A|m||W|
 |Lop\*z, The\*r|2024-02-11|Peru|UTC-5|||k|W|
 |モ*ㄨ|2023-12-19||UTC-6|||k|W|
@@ -25,11 +25,11 @@
 |Chr*5|2024-01-19||UTC+1?||m||W|
 |KMH*Z|2024-01-21||||m||W|
 |spl*t|2024-02-20|
-|Pen*a, Aco\*2|2024-02-24|||||k|
+|Pen*a, Aco\*2|2024-02-24||UTC+1?||m||
 |Jus*4|2024-03-02|UK?|UTC?||m||
 |MAZ*N|2024-03-17|
 |Mor*y|2024-03-18|||||k|
-|Asi*s|2024-03-18|
+|Asi*s|2024-03-18|||||k|
 |Yel*7|2024-03-19|||||k|
 |42k*1|2024-03-23|||||k|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
