@@ -30,7 +30,7 @@
 |Jon*n|2024-03-28|
 |ANI*7|2024-04-01|||||k|
 |byr*e|2024-04-03|||||k|
-|Dau*t|2024-04-07|
+|Dau*t|2024-04-07|||||k|
 |Rod*4|2024-04-07|||||k|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
