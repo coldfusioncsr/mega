@@ -2,6 +2,18 @@
 
 Wildcard is the key to `Less for More`.
 
+> Wildcard combination: 150% + 70%x5 + 30%x7, Wildcard time by default 20:00 UTC.
+
+> 1. ✅️Donate tokens as early as possible,
+> 2. 🚫Stop donating tokens after 20m RPs is reached,
+> 3. ⚠️Roll over tokens left to next season before claiming your prize car
+
+> - 🚫Hold 150% until the 2nd Monday
+> - When both 30% and 70% are unfulfilled, fill up 30% first
+> - When both 30% and 70% are ready, activate 70%
+> - ✅️30% can be activated anytime by any old member (in comparison to new joiner)
+> - ⚠️70% & 150% are for admin only, unless authorized by admin
+
 ## Token donation
 Tokens that each member should be able to collect per season
 ||&#x1F4D8;Season events|&#x1F4D9;Daily bonus (Event/Odd)|&#x1F4D7;Milestone rewards|Total collectible|85%+50%PC|100%+100%PC|
@@ -97,7 +109,7 @@ Tokens that each member should be able to collect per season
 > **Wildcard is activated by admin, unless authorized by admin.**
 > - For mature crew, self-governed would be ideal.
 > - For current crew,
->   - 30% could be activated by anyone at time between 18:00-20:00 UTC or 3:00-5:00 UTC,
+>   - 30% could be activated by anyone at time between 18:00-20:00 UTC or 3:00-5:00 UTC, 10:00-12:00 UTC
 >   - 70% & 150% are activated by admin at 20:00 UTC.
 
 > [!NOTE]
