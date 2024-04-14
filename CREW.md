@@ -22,7 +22,7 @@
 |Dom*o|2024-01-12||UTC-6?|||k|
 |PRI*7|2024-01-13||||m||W|
 |Chr*5|2024-01-19||UTC+1?||m||W|
-|KMH*Z|2024-01-21||||m||W|
+|KMH*Z|2024-01-21||UTC+2?||m||W|
 |Pen*a, Aco\*2|2024-02-24||UTC+1?||m||
 |MAZ*N|2024-03-17|
 |Asi*s|2024-03-18|||||k|
@@ -31,7 +31,7 @@
 |ANI*7|2024-04-01|Argentina?|UTC-3?||m|
 |byr*e|2024-04-03|||||k|
 |Dau*t|2024-04-07|||||k|
-|Sil*a|2024-04-11|
+|Sil*a|2024-04-11|||||k|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
