@@ -42,7 +42,7 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 |📘RP events|||30k (2d)|34.5k (2d)|86.4k (2d)||30k (1d) + 34.5k (2d)|300k (PC)||34.5 (2d)||30k (1d)|120.9k (2d)||
 |📙|
 |📗|10 + 30|50|||50|
-|🍊(12d)|30%|&#x1F6AB;|70% (1st)|30%|70% (2nd)|150% (1st)|30%|70% (3rd)|&#x1F6AB;|30%|30%|70% (4th)|150% (2nd)||
+|🥝(13d)|
 
 |📗Milestone rewards|5k|124k|1.52m|5.4m|
 |--|--|--|--|--|
@@ -65,8 +65,10 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 > 3. Watching 1 **passive** video ad (5-60 secs) which pops up when fuel pips drop below 6. Comparably, proactively watching 1 ad recieves only 1 fuel pip. [A guiide to watching Ads](https://www.reddit.com/r/CSRRacing2/comments/c4x6hc/a_guide_to_watching_ads/)
 
 ### g2 - Weekly Elite Cup
-|&#x1F536;Schedule (UTC)|10:00 - 23:59 Mon|0:00 - 23:59 Tue-Thu|0:00 - 09:59 Fri|
-|-|-|-|-|
+|&#x1F536;Schedule (UTC)|Mon|Tue,Wed,Thu|Fri|
+|--:|--:|--:|--:|
+|Round|1|2, 3, 4|5|
+|Time block|10:00 - 23:59|0:00 - 23:59|0:00 - 09:59|
 
 To max a car, Yellow Elite Parts are needed but are very hard to earn. By winning 900 races of WEC, each member could earn 15 Yellow (Legendary) Elite Parts and 500 Elite Tuners Currency (2,300 ETC is equivalent to 20 YEP)
 - https://csr2racers.com/2020/12/09/elite-tuners-csr2-events-all-you-need-to-know/
@@ -108,10 +110,10 @@ are expected to lead by example, communicate, coordinate, help entire crew to ea
 2. the most WEC wins we had is 784. To win 900 WEC races.
 
 ## Other resources
-- https://csr2racers.com/2020/01/11/all-the-csr2-cars-with-tune-and-shift-pattern-for-the-best-time/
+- https://csr2racers.com/2020/01/11/all-the-csr2-cars-with-tune-and-shift-pattern-for-the-best-time/, https://www.allclash.com/csr2-all-cars-best-tuning-chart/
 - [bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them](https://csr2racers.com/2020/01/01/bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them/), [management-guide-csr-racing-2](https://www.mobilesector.net/key-management-guide-csr-racing-2/)
 - https://csr2boss.com/csr2-racing-live-races-guide-how-to-win-every-time/
-- [Elite Tokens](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPHrSP6Ttu1Ctc7_jTQRtXIQFd9-9emCuc8oe_FtnLSjvJBj7e3OM8sNjCo8dVb901kyRqFvr-Inng/pubhtml)
+- [Elite Tokens](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPHrSP6Ttu1Ctc7_jTQRtXIQFd9-9emCuc8oe_FtnLSjvJBj7e3OM8sNjCo8dVb901kyRqFvr-Inng/pubhtml), [Elite Customs Spreadsheet by【ᴛʜᴇ ᴄʀᴏᴡ】](https://docs.google.com/spreadsheets/u/0/d/1qyBB2G_HQjzrBS6jF0sxosxJwAdXaB8DAGmmtP76f-4/htmlview)
 - https://csr2btb.wordpress.com/2020/04/09/crew-rules-%ef%bc%88read-first%ef%bc%89/
 - https://www.reddit.com/r/CSRRacing2/comments/fr5ra7/prestige_cup_tips/
 - https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/17467-elite-custom-token-limits/
