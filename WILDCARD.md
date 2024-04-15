@@ -7,12 +7,13 @@ Wildcard is the key to `Less for More`.
 > 1. ✅️Donate tokens as early as possible,
 > 2. 🚫Stop donating tokens after 20m RPs is reached,
 > 3. ⚠️Roll over tokens left to next season before claiming your prize car
+> - When both 30% and 70% are unfulfilled, fill up 30% first
 
 > - 🚫Hold 150% until the 2nd Monday
-> - When both 30% and 70% are unfulfilled, fill up 30% first
 > - When both 30% and 70% are ready, activate 70%
 > - ✅️30% can be activated anytime by any old member (in comparison to new joiner)
 > - ⚠️70% & 150% are for admin only, unless authorized by admin
+> - ⚠️Whoever activated wildcard is expected to generate 50k+RPs to be considered serious use of a wildcard.
 
 ## Token donation
 Tokens that each member should be able to collect per season
