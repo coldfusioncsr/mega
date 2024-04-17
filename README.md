@@ -74,6 +74,8 @@ To max a car, Yellow Elite Parts are needed but are very hard to earn. By winnin
 - https://csr2racers.com/2020/12/09/elite-tuners-csr2-events-all-you-need-to-know/
 - https://www.reddit.com/r/CSRRacing2/comments/kfjbcc/weekly_elite_cup_rewards/
 ![Weekly Elite Cup](https://preview.redd.it/882lckfxhx561.png?width=1080&crop=smart&auto=webp&s=fd1eb19f1b4bf8cf234264f6cf73bf10f27e05b8)
+![WEC](https://preview.redd.it/weekly-elite-cup-v0-4z0g3bkatuyb1.jpg?width=1080&crop=smart&auto=webp&s=a8d75afa5cfff24f3072056386b04857f72526dc)
+![WEC](https://preview.redd.it/how-do-i-get-a-premium-body-kit-v0-jgejxemt9sm91.jpg?width=640&crop=smart&auto=webp&s=d1458d0fb4397d06ad311c8d7be6eab11d2751d4)
 
 ### g3 - 20mil RPs
 
