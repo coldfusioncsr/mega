@@ -73,6 +73,9 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 To max a car, Yellow Elite Parts are needed but are very hard to earn. By winning 900 races of WEC, each member could earn 15 Yellow (Legendary) Elite Parts and 500 Elite Tuners Currency (2,300 ETC is equivalent to 20 YEP)
 - https://csr2racers.com/2020/12/09/elite-tuners-csr2-events-all-you-need-to-know/
 - https://www.reddit.com/r/CSRRacing2/comments/kfjbcc/weekly_elite_cup_rewards/
+- https://www.reddit.com/r/CSRRacing2/comments/xih1jf/i_cant_figure_out_what_a_premium_body_kit_is_nor/
+- [CSR2 Elite customs Body kit Tier or Rarity explained, elite tuners](https://www.youtube.com/watch?v=nuVsQQYxKK8)
+
 ![Weekly Elite Cup](https://preview.redd.it/882lckfxhx561.png?width=1080&crop=smart&auto=webp&s=fd1eb19f1b4bf8cf234264f6cf73bf10f27e05b8)
 ![WEC](https://preview.redd.it/weekly-elite-cup-v0-4z0g3bkatuyb1.jpg?width=1080&crop=smart&auto=webp&s=a8d75afa5cfff24f3072056386b04857f72526dc)
 ![WEC](https://preview.redd.it/how-do-i-get-a-premium-body-kit-v0-jgejxemt9sm91.jpg?width=640&crop=smart&auto=webp&s=d1458d0fb4397d06ad311c8d7be6eab11d2751d4)
@@ -104,12 +107,12 @@ To max a car, Yellow Elite Parts are needed but are very hard to earn. By winnin
 ## Admins
 are expected to lead by example, communicate, coordinate, help entire crew to earn more cars, parts over winnings.
 - g1 ops, to keep active players in, inactive/naughty members out
-- g2 ops, to help members to be eligible for WEC, and remind members to attend WEC in time.
+- g2 ops, to help members build an elite tuner car eligible for WEC, and remind members to attend 5 rounds of WEC in time.
 - g3 ops, to survey and measure for best wildcard time to maximize RPs, to help and remind members to collect and donate tokens in time.
 
 ### Backlog
 1. inner-crew swap
-2. the most WEC wins we had is 784. To win 900 WEC races.
+2. the most races of WEC we won is 832. To win 900 races of WEC.
 
 ## Other resources
 - https://csr2racers.com/2020/01/11/all-the-csr2-cars-with-tune-and-shift-pattern-for-the-best-time/, https://www.allclash.com/csr2-all-cars-best-tuning-chart/
