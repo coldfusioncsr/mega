@@ -30,8 +30,8 @@
 |byr*e|2024-04-03|||||k|
 |Dau*t|2024-04-07|||||k|
 |Sil*a|2024-04-11|Argentina?|UTC-3?|||k|
-|Eme*R|2024-04-16|
-|Rom*l|2024-04-16|
+|win*r|2024-04-19|
+|kai*i|2024-04-19|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -111,3 +111,5 @@
 |Rod*4|2024-04-07|||||k|
 |Jon*n|2024-03-28|
 |Adr*o|2023-12-11||UTC-8?||m||W|
+|Eme*R|2024-04-16|
+|Rom*l|2024-04-16|
