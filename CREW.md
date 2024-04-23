@@ -29,9 +29,9 @@
 |ANI*7|2024-04-01|Argentina?|UTC-3?||m|
 |byr*e|2024-04-03|||||k|
 |Dau*t|2024-04-07|||||k|
-|Sil*a|2024-04-11|Argentina?|UTC-3?|||k|
-|win*r|2024-04-19|
+|Sil*a|2024-04-11|Argentina?|UTC-3?||m||
 |kai*i|2024-04-19|
+|pp*|2024-04-22|||||k|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -113,3 +113,4 @@
 |Adr*o|2023-12-11||UTC-8?||m||W|
 |Eme*R|2024-04-16|
 |Rom*l|2024-04-16|
+|win*r|2024-04-19|
