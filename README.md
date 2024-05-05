@@ -17,14 +17,11 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 3. To have fun through good teamwork
 
 ## Goals
-1. 25-30 active members
-2. 900 wins of `Weekly Elite Cup` for **parts** every week
-3. 20m+ RPs for prize **car** every CSR season
-
-### Busyman's minimum playbook
-1. Win 40 races of [`Weekly Elite Cup`](#g2---weekly-elite-cup)
-2. Collect and donate 400+ tokens
-3. Complete 'Prestige Cup'
+|Crew goals|Individual Measures|Individual Mininum: 60%|
+|--|--|--|
+|1. 25-30 active members|10:00 Mon - 9:59 Fri|
+|2. 900 wins of `Weekly Elite Cup` for **parts** every week|&#x2610; Win 40 races of [`Weekly Elite Cup`](#g2---weekly-elite-cup)|25%|
+|3. 20m+ RPs for prize **car** every CSR season|&#x2610; Donate 400 tokens <br> &#x2610; Contribute 667k RP|25% <br> 50%|
 
 ### How frequently do you play
 |Frequency|Tasks|
@@ -92,16 +89,19 @@ To max a car, Yellow Elite Parts are needed but are very hard to earn. By winnin
 |&#x1F536;WEC(8 x 5 x 2) + &#x1F4D8;(1 x 7) + &#x1F4D9; + &#x1F4D7;|15 Yellow Elite Parts + 390/440 Tokens + more|16k/Season|5min/Day, 50min/Season|
 |[Season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)(crew RP: 149)|Keys + Parts|730.6k/Season|5min/Day, 1.25hr/Season|
 |Season events (non-crew RP: 484)|Keys+Parts+Gold coins+Legends components|96.8k/Season|17min/Day, 4hr/Season|
-|Live Races(45 x 14)|150 Bronze keys + 10 Sliver keys / 15 Races / 8 hours|600-1400/win, 33,750-58,500/Day, 472.5k-819k/Season|45min+/Day, 10.5hr+/Season|22min+/Day, 5.1hr+/Season|
-|Showdowns(1k)|Elite parts|250k+ x [2, 3] /Season|36min+/Day, 8.3hr+/Season|18min+/Day, 4.17hr+/Season|
+|Live Races(15x3x14)|(150 Bronze Key + 10 Silver Key) x3x14|600-1400/win, 33,750-58,500/Day, 472.5k-819k/Season|45min+/Day, 10.5hr+/Season|22min+/Day, 5.1hr+/Season|
+|Showdowns(0.5kx[2,3])|Elite parts|250k+ x [2,3] /Season|36min+ x[2,3]/Day, 8.3hr+ x[2,3]/Season|18min+ x[2,3]/Day, 4.17hr+ x[2,3]/Season|
 |Race pass(3 x 14)|car, parts, tokens|325k/other season|4hr/Season|
+|Legends events|Fusion parts||
+|Elite events|Elite parts||
+|Theme events|||
 
 > It takes &#x2248;30s to complete 1 race or to refuel 2 pips
-- [Earn 700k+ from season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)
+- [Earn 700k+ from season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/), [results_after_a_year](https://www.reddit.com/r/CSRRacing2/comments/szqwkl/results_after_a_year_on_a_f2p_alt_account/)
 - Earn 250k+ from each `Showdown` event in the win/lose ratio of 1:2.
 - Earn 472.5k-819k/Season from `Live races` by winning 15races x 3rounds x 14days with t1 car for guaranteed wins, or with t4/t5 car in the win/lose ratio of 1:1 by [swapping with others](https://csr2racers.com/2020/03/22/live-races-lobby-times-swapping-and-w-l-in-csr2/)
 - Earn 325k from extra mile rewards of `Race pass` every other season, likely odd season
-- [Buying any car gives you 500rp](https://www.reddit.com/r/CSRRacing2/comments/52f1yr/earning_rp_without_racing/), https://www.mobilesector.net/car-stripping-in-csr-racing-2/, [Cars available for cash or gold](https://docs.google.com/spreadsheets/d/1IUQrLBN_NkSKhKuHbe9DRfBFhF9Yf2_x6Yl3izL6lLE/)
+- [Buying any car gives you 500rp](https://www.reddit.com/r/CSRRacing2/comments/52f1yr/earning_rp_without_racing/), [car-stripping-in-csr-racing-2](https://www.mobilesector.net/car-stripping-in-csr-racing-2/), [Cars available for cash or gold](https://docs.google.com/spreadsheets/d/1IUQrLBN_NkSKhKuHbe9DRfBFhF9Yf2_x6Yl3izL6lLE/)
 - [100 RP per fusion part. Upgrading cars depends on Tier and stage. For example stage 1 T1 upgrade is 6 RP, stage 6 T5 upgrade is 240 RP.](https://www.reddit.com/r/CSR2/comments/g534f2/how_much_rp_do_i_get_from_fitting_fusion_parts/)
 
 ## Admins
@@ -111,14 +111,12 @@ are expected to lead by example, communicate, coordinate, help entire crew to ea
 - g3 ops, to survey and measure for best wildcard time to maximize RPs, to help and remind members to collect and donate tokens in time.
 
 ### Backlog
-1. inner-crew swap
+1. inner-crew swap for winning 15 races quickly every 8 hours
 2. the most races of WEC we won is 832. To win 900 races of WEC.
 
 ## Other resources
-- https://csr2racers.com/2020/01/11/all-the-csr2-cars-with-tune-and-shift-pattern-for-the-best-time/, https://www.allclash.com/csr2-all-cars-best-tuning-chart/
-- [bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them](https://csr2racers.com/2020/01/01/bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them/), [management-guide-csr-racing-2](https://www.mobilesector.net/key-management-guide-csr-racing-2/)
-- https://csr2boss.com/csr2-racing-live-races-guide-how-to-win-every-time/
-- [Elite Tokens](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPHrSP6Ttu1Ctc7_jTQRtXIQFd9-9emCuc8oe_FtnLSjvJBj7e3OM8sNjCo8dVb901kyRqFvr-Inng/pubhtml), [Elite Customs Spreadsheet by【ᴛʜᴇ ᴄʀᴏᴡ】](https://docs.google.com/spreadsheets/u/0/d/1qyBB2G_HQjzrBS6jF0sxosxJwAdXaB8DAGmmtP76f-4/htmlview)
-- https://csr2btb.wordpress.com/2020/04/09/crew-rules-%ef%bc%88read-first%ef%bc%89/
-- https://www.reddit.com/r/CSRRacing2/comments/fr5ra7/prestige_cup_tips/
-- https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/17467-elite-custom-token-limits/
+- **Cars** https://csr2racers.com/2020/01/11/all-the-csr2-cars-with-tune-and-shift-pattern-for-the-best-time/, https://www.allclash.com/csr2-all-cars-best-tuning-chart/
+- **Keys** [bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them](https://csr2racers.com/2020/01/01/bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them/), [management-guide-csr-racing-2](https://www.mobilesector.net/key-management-guide-csr-racing-2/), https://csr2boss.com/csr2-racing-live-races-guide-how-to-win-every-time/
+- **Elite** [Elite Tokens](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPHrSP6Ttu1Ctc7_jTQRtXIQFd9-9emCuc8oe_FtnLSjvJBj7e3OM8sNjCo8dVb901kyRqFvr-Inng/pubhtml), [Elite Customs Spreadsheet by【ᴛʜᴇ ᴄʀᴏᴡ】](https://docs.google.com/spreadsheets/u/0/d/1qyBB2G_HQjzrBS6jF0sxosxJwAdXaB8DAGmmtP76f-4/htmlview), [elite-custom-token-limits](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/17467-elite-custom-token-limits/)
+- **Crew rules** https://csr2btb.wordpress.com/2020/04/09/crew-rules-%ef%bc%88read-first%ef%bc%89/
+- **PC** https://www.reddit.com/r/CSRRacing2/comments/fr5ra7/prestige_cup_tips/
