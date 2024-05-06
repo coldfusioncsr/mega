@@ -1,20 +1,50 @@
 # Token & Wildcard strategy
 
-Wildcard is the key to `Less for More`.
+[what-are-wildcards](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8073-what-are-wildcards/)
 
-> Wildcard combination: 150% + 70%x5 + 30%x7, Wildcard time by default 20:00 UTC.
+Wildcard is a key to `Less for More` (more rp Return On less time Investment).
 
+## A brief glance
+> Wildcard combination: 🥝150% + 70%x5 + 30%x7, Wildcard time by default is 20:00 UTC or reacting to 5p+ online with ROI in mind.
+
+> [Token donation](#token-donation)
 > 1. ✅️Donate tokens as early as possible,
 > 2. 🚫Stop donating tokens after 20m RPs is reached,
-> 3. ⚠️Roll over tokens left to next season before claiming your prize car
+> 3. ⚠️Roll tokens left to next season before claiming your prize car
+
 > - When both 30% and 70% are unfulfilled, fill up 30% first
 
+> [Wildcard activation](#wildcard-strategy)
 > - 🚫Hold 150% until the 2nd Monday
 > - When both 30% and 70% are ready, activate 70%
-> - ✅️30% can be activated anytime by any old member (in comparison to new joiner)
-> - ⚠️70% & 150% are for admin only, unless authorized by admin
-> - ⚠️Whoever activated wildcard is expected to generate 50k+RPs to be considered serious use of a wildcard.
 
+> - ✅️30% can be activated anytime by any **old member** (in comparison to new joiner in current or last season)
+> - ⚠️70% & 150% are for **admin** only, unless authorized by admin
+
+> - ⚠️Whoever activated wildcard is expected to generate 50k+RPs to be considered serious use of a wildcard.
+---
+## Actual token coefficients from crew statistics
+> Crew stat indicates 30% & 70% generated more RPs, including planned & unplanned wildcard campaigns
+
+|2024 (w1-w12)|30%|70%|150%|
+|--|--|--|--|
+|number of records|21|15|7|
+|lowest|0.16m|0.19m|0.17m|
+|highest|0.81m|0.89m|0.46m|
+|average|0.41m|0.4m|0.26m|
+|ROI for 1st|1.64k/token|0.8k/token|0.37k/token|
+|ROI for 2nd|0.91k/token|0.46k/token|0.19k/token|
+|ROI for 3rd|0.66k/token|0.3k/token|0.13k/token|
+---
+## Events suitable for intensive grinding
+||Showdown|Live races|Live races with inner-crew swap|
+|--|--|--|--|
+|matchmaking|automatic, ~30s|manual, ~mins|manual, ~15s|
+|win/lose ratio|1:2|varies|1:1|
+
+> 1. Wildcard for Showdown, win to lose ratio is 1:2. You should be able to complete 50 races of Showdown per hour when Refuelling by watching passive Ad or 80 races of Showdown per hour when refuelling for 20 Gold Coins. To complete 2 Showdown events, you would need to spend 13-20 hours.
+> 2. Wildcard for Live races with swap &#x1F501; &#x1F502; &#x1F503; &#x1F504;, win/lose ratio is 1:1.
+---
 ## Token donation
 Tokens that each member should be able to collect per season
 ||&#x1F4D8;Season events|&#x1F4D9;Daily bonus (Event/Odd)|&#x1F4D7;Milestone rewards|Total collectible|85%+50%PC|100%+100%PC|
@@ -24,16 +54,7 @@ Tokens that each member should be able to collect per season
 > - Collect tokens by expiry time from Daily Bonus, Milestone Prize, Season events (Crew Cup, Token Cup, Service Trial, Prestige Cup)
 > - Donate tokens at earliest possible time so that we have wildcard available to activate.
 > - Fullfil one wildcard then move to next. Do NOT split donations which delays wildcard campaigns.
-
-## Events suitable for intensive grinding
-||Showdown|Live races|Live races with inner-crew swap|
-|--|--|--|--|
-|matchmaking|automatic, ~30s|manual, ~mins|manual, ~15s|
-|win/lose ratio|1:2|varies|1:1|
-
-> 1. Wildcard for Showdown, win to lose ratio is 1:2. You should be able to complete 50 races of Showdown per hour when Refuelling by watching passive Ad or 80 races of Showdown per hour when refuelling for 20 Gold Coins. To complete 2 Showdown events, you would need to spend 13-20 hours.
-> 2. Wildcard for Live races with swap &#x1F501; &#x1F502; &#x1F503; &#x1F504;, win/lose ratio is 1:1.
-
+---
 ## Wildcard strategy
 |10k|Intensive <-||Balanced|Capped 1300||-> Extensive|
 |--|--|--|--|--|--|--|
@@ -45,38 +66,21 @@ Tokens that each member should be able to collect per season
 > 1. attend each wildcard campaign (>15p)
 > 2. know how to quickly refuel
 > 3. are busyman having little time playing
-> 4. are willing to refuel by paying gold coins
+> 4. are willing to instantly refuel by paying gold coins
 
 > 🍏🥝Extensive grinding suits for crew
 > 1. hard to agree or act on wildcard time (<10p)
 > 2. rely on natural refueling
 > 3. having problem of communication due to restrictions by languages, tools, time zones
+> 4. are not willing to spend too much time on coordination
 >
 > Keeping 150% blocked is crucial (ideally 150% is filled at last), otherwise 1k+ tokens will drop to the 2nd or even the 3rd 150%.
-
-> [!NOTE]
-> Crew stat indicates 30% & 70% campaign generated more RPs.
->
-> ~~So here is the priority, **30% -> 70% -> 150%**. If 30% is available, activate 30%, otherwise 70%. 150% is the last choice.~~
 
 |Wildcard cost @crew respect rank 25|1st|2nd|3rd+|85%+ 50%PC|100%+ 100%PC|1+2|+3|+4|+5|+6|+7|+*|
 |-:|--|--:|--:|--:|--:|--:|:-:|:-:|--|:-:|--|:-:|
 |30% (3h)|250|450|625|18.4/20.5|22.9/25.3|700🍎|1325🍉|1950&🍍|2575🍊|3200|3825🥝|🍏|
 |70% (2h)|500|875|1300|9.4/10.3/|11.5/12.7|1375🍎🍏|2675🍉|3975🍍|5275🥝🍊|6575|7875||
 |150% (1h)|750🍏🥝|1350|1950|6.5/7.2|8/8.8|2050🍊|4000🍍|5950🍉|7900🍎|9850|11800|
-
-### Actual token coefficients from crew statistics
-> including planned & unplanned wildcard campaigns
-
-|2024 (w1-w12)|30%|70%|150%|
-|--|--|--|--|
-|number of records|21|15|7|
-|lowest|0.16m|0.19m|0.17m|
-|highest|0.81m|0.89m|0.46m|
-|average|0.41m|0.4m|0.26m|
-|ROI for 1st|1.64k/token|0.8k/token|0.37k/token|
-|ROI for 2nd|0.91k/token|0.46k/token|0.19k/token|
-|ROI for 3rd|0.66k/token|0.3k/token|0.13k/token|
 
 ### Token coefficient by (hours * percent / tokens)
 ||1st|2nd|3rd+||1st|2nd|3rd+||1st|2nd|3rd+|
@@ -111,7 +115,7 @@ Tokens that each member should be able to collect per season
 > - For mature crew, self-governed would be ideal.
 > - For current crew,
 >   - 30% could be activated by anyone at time between 18:00-20:00 UTC or 3:00-5:00 UTC, 10:00-12:00 UTC
->   - 70% & 150% are activated by admin at 20:00 UTC.
+>   - 70% & 150% are activated by admin at 20:00 UTC or other time when 5p+ are online.
 
 > [!NOTE]
 >  Whoever activated wildcard is expected to generate 50k+RPs to be considered serious use of a wildcard.
