@@ -17,7 +17,7 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 3. To have fun through good teamwork
 ---
 ## What are the goals?
-|Crew goals|Individual measures|Individual mininum: 60%|
+|Crew goals|👤Individual measures|👤Minimum: 60%|
 |--|--|--|
 |1. 25-30 [active](#g1---how-frequently-do-you-play) members|10:00 Mon - 9:59 Fri|
 |2. 900 wins of [`Weekly Elite Cup`](#g2---weekly-elite-cup) for **parts** every week|&#x2610; Win 40 races of WEC|25%|
@@ -58,12 +58,12 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 |Time to refuel 10 pips|1h16m|3m|10s|
 
 > 1. Naturally refueling 1 pip takes 7m36s, 1h16m for full tank (10 pips)
-> 2. Spending 20 gold coins to instantly refuel full tank
-> 3. Watching 1 **passive** video ad (5-60 secs) which pops up when fuel pips drop below 6. Comparably, proactively watching 1 ad recieves only 1 fuel pip. [A guiide to watching Ads](https://www.reddit.com/r/CSRRacing2/comments/c4x6hc/a_guide_to_watching_ads/)
+> 2. Spending 20 gold coins to instantly refuel 10 pips
+> 3. Watching 1 **passive** video ad (5-60 secs) which pops up when fuel pips drop below 6. Comparably, proactively watching 1 ad recieves only 1 fuel pip. [A guide to watching Ads](https://www.reddit.com/r/CSRRacing2/comments/c4x6hc/a_guide_to_watching_ads/)
 
 ### Play smartly
-To sustain, player needs to reduce time to less than 1 hour per day on playing this game.
-- Set reminders for high ROI events
+To sustain, member needs to reduce playing time to less than 1 hour per day.
+- Set reminders for high ROI events & wildcard campaigns
 - Earn RPs without racing as much as possible
 - Collect free cars & parts
 - Swap quickly in Live races
@@ -116,6 +116,8 @@ are expected to lead by example, communicate, coordinate, help entire crew to ea
 - g1 ops, to keep active players in, inactive/naughty members out. While stablizing old members are important for consistent behaviors.
 - g2 ops, to help members build an elite tuner car eligible for WEC, and remind members to attend 5 rounds of WEC in time.
 - g3 ops, to survey and measure for best wildcard time to maximize RPs, to help and remind members to collect and donate tokens in time, to encourage members to activate and attend wildcard campaigns.
+
+deserve more respects, as they come to play as everyone but spend extra time on managing crew.
 
 ### Backlog
 1. inner-crew swap for winning 15 races quickly every 8 hours
