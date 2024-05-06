@@ -15,15 +15,15 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 1. Some season events require you to join a crew
 2. To earn more rewards from crew essential events
 3. To have fun through good teamwork
-
-## Goals
-|Crew goals|Individual Measures|Individual Mininum: 60%|
+---
+## What are the goals?
+|Crew goals|Individual measures|Individual mininum: 60%|
 |--|--|--|
-|1. 25-30 active members|10:00 Mon - 9:59 Fri|
-|2. 900 wins of `Weekly Elite Cup` for **parts** every week|&#x2610; Win 40 races of [`Weekly Elite Cup`](#g2---weekly-elite-cup)|25%|
-|3. 20m+ RPs for prize **car** every CSR season|&#x2610; Donate 400 tokens <br> &#x2610; Contribute 667k RP|25% <br> 50%|
-
-### How frequently do you play
+|1. 25-30 [active](#g1---how-frequently-do-you-play) members|10:00 Mon - 9:59 Fri|
+|2. 900 wins of [`Weekly Elite Cup`](#g2---weekly-elite-cup) for **parts** every week|&#x2610; Win 40 races of WEC|25%|
+|3. [20m+ RPs](#g3---20mil-rps) for prize **car** every CSR season|&#x2610; Donate 400 tokens <br> &#x2610; Contribute 667k RP|25% <br> 50%|
+---
+## g1 - How frequently do you play
 |Frequency|Tasks|
 |---------|-----|
 |Once a day|&#x1F536;Weekly Elite Cup(8), &#x1F4D8;Season events, &#x1F4D9;Daily Bonus, &#x1F4D7;Milestone rewards|
@@ -52,7 +52,7 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 |Tokens|30|50|30|100|
 > Day to collect daily bonus varies from player to player. And first day overlaps last day for collecting daily bonus.
 
-#### Options to refuel
+### Options to refuel
 ||Natual|Video AD (2 pips per view)|Gold coin (10 pips per 20 GC)|
 |--|--:|--:|--:|
 |Time to refuel 10 pips|1h16m|3m|10s|
@@ -61,6 +61,13 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 > 2. Spending 20 gold coins to instantly refuel full tank
 > 3. Watching 1 **passive** video ad (5-60 secs) which pops up when fuel pips drop below 6. Comparably, proactively watching 1 ad recieves only 1 fuel pip. [A guiide to watching Ads](https://www.reddit.com/r/CSRRacing2/comments/c4x6hc/a_guide_to_watching_ads/)
 
+### Play smartly
+To sustain, player needs to reduce time to less than 1 hour per day on playing this game.
+- Set reminders for high ROI events
+- Earn RPs without racing as much as possible
+- Collect free cars & parts
+- Swap quickly in Live races
+---
 ### g2 - Weekly Elite Cup
 |&#x1F536;Schedule (UTC)|Mon|Tue,Wed,Thu|Fri|
 |--:|--:|--:|--:|
@@ -76,7 +83,7 @@ To max a car, Yellow Elite Parts are needed but are very hard to earn. By winnin
 ![Weekly Elite Cup](https://preview.redd.it/882lckfxhx561.png?width=1080&crop=smart&auto=webp&s=fd1eb19f1b4bf8cf234264f6cf73bf10f27e05b8)
 ![WEC](https://preview.redd.it/weekly-elite-cup-v0-4z0g3bkatuyb1.jpg?width=1080&crop=smart&auto=webp&s=a8d75afa5cfff24f3072056386b04857f72526dc)
 ![WEC](https://preview.redd.it/how-do-i-get-a-premium-body-kit-v0-jgejxemt9sm91.jpg?width=640&crop=smart&auto=webp&s=d1458d0fb4397d06ad311c8d7be6eab11d2751d4)
-
+---
 ### g3 - 20mil RPs
 
 #### How to earn Respect Points with/without racing
@@ -103,17 +110,17 @@ To max a car, Yellow Elite Parts are needed but are very hard to earn. By winnin
 - Earn 325k from extra mile rewards of `Race pass` every other season, likely odd season
 - [Buying any car gives you 500rp](https://www.reddit.com/r/CSRRacing2/comments/52f1yr/earning_rp_without_racing/), [car-stripping-in-csr-racing-2](https://www.mobilesector.net/car-stripping-in-csr-racing-2/), [Cars available for cash or gold](https://docs.google.com/spreadsheets/d/1IUQrLBN_NkSKhKuHbe9DRfBFhF9Yf2_x6Yl3izL6lLE/)
 - [100 RP per fusion part. Upgrading cars depends on Tier and stage. For example stage 1 T1 upgrade is 6 RP, stage 6 T5 upgrade is 240 RP.](https://www.reddit.com/r/CSR2/comments/g534f2/how_much_rp_do_i_get_from_fitting_fusion_parts/)
-
+---
 ## Admins
 are expected to lead by example, communicate, coordinate, help entire crew to earn more cars, parts over winnings.
-- g1 ops, to keep active players in, inactive/naughty members out
+- g1 ops, to keep active players in, inactive/naughty members out. While stablizing old members are important for consistent behaviors.
 - g2 ops, to help members build an elite tuner car eligible for WEC, and remind members to attend 5 rounds of WEC in time.
-- g3 ops, to survey and measure for best wildcard time to maximize RPs, to help and remind members to collect and donate tokens in time.
+- g3 ops, to survey and measure for best wildcard time to maximize RPs, to help and remind members to collect and donate tokens in time, to encourage members to activate and attend wildcard campaigns.
 
 ### Backlog
 1. inner-crew swap for winning 15 races quickly every 8 hours
 2. the most races of WEC we won is 832. To win 900 races of WEC.
-
+---
 ## Other resources
 - **Cars** https://csr2racers.com/2020/01/11/all-the-csr2-cars-with-tune-and-shift-pattern-for-the-best-time/, https://www.allclash.com/csr2-all-cars-best-tuning-chart/
 - **Keys** [bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them](https://csr2racers.com/2020/01/01/bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them/), [management-guide-csr-racing-2](https://www.mobilesector.net/key-management-guide-csr-racing-2/), https://csr2boss.com/csr2-racing-live-races-guide-how-to-win-every-time/
