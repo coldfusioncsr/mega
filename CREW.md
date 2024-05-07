@@ -19,15 +19,16 @@
 |PRI*7|2024-01-13||||m||W|
 |Chr*5|2024-01-19||UTC+1?||m||W|
 |KMH*Z|2024-01-21||UTC+2?||m||W|
-|Pen*a, Aco\*2|2024-02-24||UTC+1?||m||
+|Pen*a, Aco\*2|2024-02-24||UTC+1?||m||W|
 |MAZ*N|2024-03-17|
 |Asi*s|2024-03-18|||||k<sub>pc</sub>|
 |42k*1|2024-03-23|||||k<sub>pc</sub>|
-|ANI*7|2024-04-01|Argentina?|UTC-3?||m|
-|Sil*a|2024-04-11|Argentina?|UTC-3?||m||
+|ANI*7|2024-04-01|Argentina?|UTC-3?||m||W|
+|Sil*a|2024-04-11|Argentina?|UTC-3?||m||W|
 |kai*i|2024-04-19|
 |pp*|2024-04-22|||||k<sub>pc</sub>|
 |MeH*1|2024-04-29|||||k|
+|act*o|2024-05-04|||||k<sub>pc</sub>|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
