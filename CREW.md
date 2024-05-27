@@ -3,11 +3,11 @@
 |&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|1m+RP|0.1m+PD|🔶WEC|
 |--|--|--|--|--|--|--|--|
 |ROO*0|2023-06|NSW, AUS|UTC+10 [AET](https://www.timeanddate.com/time/zones/aet)|L|m||W|
-|R*R|2024-03-09|Philippines?|UTC+8?||m||W|
+|R*R|2024-03-09|Philippines?|UTC+8?|A|m||W|
 |Mad*8, Tem\*0|2023-12-07|Germany|UTC+1 [CET](https://www.timeanddate.com/time/zones/cet)|A|m||W|
 |Orp*s|2023-10|Eastern USA|UTC-5 [EST](https://www.timeanddate.com/time/zones/est)||m||W|
 |Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5|a|m||W|
-|モ*ㄨ|2023-12-19|USA|UTC-6|A|m||W|
+|モ*ㄨ|2023-12-19|USA|UTC-6|a|m||W|
 |LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A|m||W|
 |mel*!|2023-12-25|Los Angeles California, USA|UTC-8|A|m||W|
 |zer*l|2023-10||UTC+5?||m||W|
@@ -15,7 +15,6 @@
 |Cha*e|2023-11|China?|UTC+8?|||k<sub>pc</sub>|W|
 |Ser*1, Pur\*4|2023-11|Russia?|UTC+3?||m||W|
 |Art*7|2024-01-05||UTC-7?||m||W|
-|Dom*o|2024-01-12||UTC-6?|||k<sub>pc</sub>|
 |PRI*7|2024-01-13||||m||W|
 |Chr*5|2024-01-19||UTC+1?||m||W|
 |KMH*Z|2024-01-21|UK?|UTC?||m||W|
@@ -27,9 +26,9 @@
 |Sil*a|2024-04-11|Argentina?|UTC-3?||m||W|
 |KAI*S|2024-04-19|||||k|
 |pp*|2024-04-22|||||k<sub>pc</sub>|
-|MeH*1|2024-04-29|||||k|
 |Tim*s|2024-05-09|||||k<sub>pc</sub>|
 |fou*f|2024-05-11|||||k<sub>pc</sub>|
+|Dis*n|2024-05-24|||||k|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -118,3 +117,5 @@
 |tom*x|2023-11|Demark|UTC+1|||k|W|
 |Bra*0|2023-12-28|USA|UTC-7|||k|W|
 |act*o|2024-05-04|||||k<sub>pc</sub>|
+|Dom*o|2024-01-12||UTC-6?|||k<sub>pc</sub>|
+|MeH*1|2024-04-29|||||k|
