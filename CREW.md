@@ -28,7 +28,7 @@
 |Tim*s|2024-05-09|||||k<sub>pc</sub>|
 |fou*f|2024-05-11|||||k<sub>pc</sub>|
 |Dis*n|2024-05-24||||m||
-|Pha*m|2024-06-01|||||k|
+|Pha*m|2024-06-01|||||k<sub>pc</sub>|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
