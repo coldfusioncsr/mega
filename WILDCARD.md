@@ -16,12 +16,15 @@ Wildcard is a key to `Less for More` (more rp Return On less time Investment).
 
 > [Wildcard activation](#wildcard-strategy)
 > - 🚫Hold 150% until the 2nd Monday
-> - When both 30% and 70% are ready, activate 70%
 
-> - ✅️30% can be activated anytime by any **old member** (in comparison to new joiner in current or last season)
-> - ⚠️70% & 150% are for **admin** only, unless authorized by admin
+|Wildcard|Who is allowed to activate|Min online players|Min RP to generate by activator|
+|--:|--|--|--|
+|✅️+30%|any old member|3|30k|
+|⚠️+70%|1m+RP contributor|5|50k|
+|🚫+150%|admin only, unless authorized by admin|5|50k|
 
-> - ⚠️Whoever activated wildcard is expected to generate 50k+RPs to be considered serious use of a wildcard.
+> - **Old member** (in comparison to new joiner in current or last season)
+> - Whoever activated wildcard is expected to generate minium of ??+RPs to be considered serious use of a wildcard.
 ---
 ## Actual token coefficients from crew statistics
 > Crew stat indicates 30% & 70% generated more RPs, including planned & unplanned wildcard campaigns
@@ -98,6 +101,8 @@ Tokens that each member should be able to collect per season
 |70%(10h)|**0.014**|0.008|0.0054|70%(20h)🍊🍍|**0.028**|0.016|0.0108|
 |150%(7h)🍎🍉|**0.014**|0.00805|0.00539|||||||||
 
+<details><summary>Old schedule</summary>
+  
 |Day (UTC)|Thu 1|Fri 2|Sat 3|Sun 4|Mon 5|Tue 6|Wed 7|Thu 8|Fri 9|Sat 10|Sun 11|Mon 12|Tue 13|Wed 14|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |🔶Weekly elite cup (8)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)||
@@ -110,14 +115,15 @@ Tokens that each member should be able to collect per season
 |🍉(10d)|150% (1st)|🚫|70% (1st)|🚫|150% (2nd)|30%||150% (3rd)|🚫|70% (2nd)|🚫|70% (3rd)|150% (4th)||
 |🍎(9d)|150% (1st)|🚫|70% (1st)|🚫|150% (2nd)|150% (3rd)||150% (4th)|🚫|70% (2nd)|🚫|150% (5th)|150% (6th)||
 
-> [!IMPORTANT]
-> **Wildcard is activated by admin, unless authorized by admin.**
-> - For mature crew, self-governed would be ideal.
-> - For current crew,
->   - 30% could be activated by anyone at time between 18:00-20:00 UTC or 3:00-5:00 UTC, 10:00-12:00 UTC
->   - 70% & 150% are activated by admin at 20:00 UTC or other time when 5p+ are online.
+</details>
 
-> [!NOTE]
+> [!IMPORTANT]
+> Typical practice for most crews is **Wildcard is activated by admin, unless authorized by admin.**
+>
+> For mature crew, self-governed would be ideal.
+
+<details><summary>Old [!NOTE]</summary>
+
 >  Whoever activated wildcard is expected to generate 50k+RPs to be considered serious use of a wildcard.
 >
 > **Why do we favour planned wildcard campaigns?**
@@ -143,6 +149,8 @@ Tokens that each member should be able to collect per season
 > ✅️Wildcard combination to cover 20+hours which is roughly equivalent to the time needed to complete two Showdown events.
 > 
 > ~~Only one wildcard campaign per day to avoid tiredness~~
+
+</details>
 
 - [Any unused Wildcard tokens will automatically disappear at the end of each Crew Championship season, so make sure you use them up before the season ends!](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/8074-what-happens-to-my-wildcard-tokens-at-the-end-of-the-crew-championship-season/)
 - [RP and Wildcard tokens can only be claimed during Crew Cup events](https://www.tumblr.com/csrracingofficial/178448763240/the-player-inbox-explained)
