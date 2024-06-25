@@ -25,13 +25,12 @@
 |Sil*a|2024-04-11|Argentina?|UTC-3?||m||W|
 |KAI*S|2024-04-19|||||k<sub>pc</sub>|
 |pp*|2024-04-22|||||k<sub>pc</sub>|
-|Tim*s|2024-05-09|||||k<sub>pc</sub>|
 |fou*f|2024-05-11|||||k<sub>pc</sub>|
-|Dis*n|2024-05-24||||m||
-|Pha*m|2024-06-01|||||k<sub>pc</sub>|
+|Pha*m|2024-06-01|||||k<sub>pc</sub>|W|
 |Dot*8|2024-06-05|||||k|
 |Dug*8|2024-06-14||||||W|
 |Ada*T|2024-06-14|||||k<sub>pc</sub>|W|
+|Chi*n|2024-06-23|||||k|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -123,3 +122,5 @@
 |act*o|2024-05-04|||||k<sub>pc</sub>|
 |Dom*o|2024-01-12||UTC-6?|||k<sub>pc</sub>|
 |MeH*1|2024-04-29|||||k|
+|Dis*n|2024-05-24||||m||
+|Tim*s|2024-05-09|||||k<sub>pc</sub>|
