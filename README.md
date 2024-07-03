@@ -1,6 +1,13 @@
 # MEGA [Española](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en-US&_x_tr_pto=wapp), [中文](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=zh&_x_tr_hl=en-US&_x_tr_pto=wapp), [الأسبانية](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=ar&_x_tr_hl=en-US&_x_tr_pto=wapp), [Русский](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=en-US&_x_tr_pto=wapp), [Français](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=en-US&_x_tr_pto=wapp), [日本語](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=en-US&_x_tr_pto=wapp), [Deutsch](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en-US&_x_tr_pto=wapp), [dansk](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=da&_x_tr_hl=en-US&_x_tr_pto=wapp)
 This crew is supposed to be friendly and supportive. We ride alongside each other to earn more rewards and have fun.
 
+## Play smartly
+To make the crew sustainable, members need to decrease playing time to no more than 1 hour per day.
+- Set reminders for `cup events` (high ROI)
+- Earn `RPs` without racing as many as possible
+- Collect free `cars & parts`
+- Swap or race againt bots in `Live races` to quickly win 15 races
+---
 ## Recruitment
 **Active players (Rank 80+, 600k RP/season, eligible for WEC) are needed. Make an in-app request on the last day of each season.**
 
@@ -16,7 +23,7 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 2. To earn more rewards from crew essential events
 3. To have fun through good teamwork
 ---
-## What are the goals?
+## What are the crew goals?
 |Crew goals|👤Individual measures|👤Minimum: 60%|
 |--|--|--|
 |1. 25-30 [active](#g1---how-frequently-do-you-play) members|10:00 Mon - 9:59 Fri|
@@ -40,33 +47,28 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 |📙|
 |📗|10 + 30|50|||50|
 |🥝(13d)|
+> d for day(s) to last
 
 |📗Milestone rewards|5k|124k|1.52m|5.4m|
 |--|--|--|--|--|
 |(crew rank>2.5k/<=2.5k)|(29th/35th)|(27th/33rd)|(20th/26th)|(13th/19th)|
 |Tokens|10|30|50|50|
-> Day to collect milestone rewards varies with crew performance.
+> Season Day to collect `milestone rewards` varies in crew performance.
 
 |📙Daily bonus|4th|11th|18th|25th|
 |--|--|--|--|--|
 |Tokens|30|50|30|100|
-> Day to collect daily bonus varies from player to player. And first day overlaps last day for collecting daily bonus.
+> Season Day to collect `daily bonus` varies from player to player. And first day overlaps last day for collecting daily bonus.
 
 ### Options to refuel
-||Natual|Video AD (2 pips per view)|Gold coin (10 pips per 20 GC)|
+||1. Natual|2. Video AD (2 pips per view)|3. Gold coin (10 pips per 20 GC)|
 |--|--:|--:|--:|
 |Time to refuel 10 pips|1h16m|3m|10s|
 
 > 1. Naturally refueling 1 pip takes 7m36s, 1h16m for full tank (10 pips)
-> 2. Spending 20 gold coins to instantly refuel 10 pips
-> 3. Watching 1 **passive** video ad (5-60 secs) which pops up when fuel pips drop below 6. Comparably, proactively watching 1 ad recieves only 1 fuel pip. [A guide to watching Ads](https://www.reddit.com/r/CSRRacing2/comments/c4x6hc/a_guide_to_watching_ads/)
+> 2. Watching 1 **passive** video ad (5-60 secs), which pops up when fuel pips drop below 6, recieves 2 fuel pips. Comparably, proactively watching 1 ad recieves only 1 fuel pip. [A guide to watching Ads](https://www.reddit.com/r/CSRRacing2/comments/c4x6hc/a_guide_to_watching_ads/)
+> 3. Spending 20 gold coins to instantly refuel 10 pips
 
-### Play smartly
-To sustain, member needs to reduce playing time to less than 1 hour per day.
-- Set reminders for high ROI events & wildcard campaigns
-- Earn RPs without racing as much as possible
-- Collect free cars & parts
-- Swap quickly in Live races
 ---
 ### g2 - Weekly Elite Cup
 |&#x1F536;Schedule (UTC)|Mon|Tue,Wed,Thu|Fri|
@@ -74,7 +76,16 @@ To sustain, member needs to reduce playing time to less than 1 hour per day.
 |Round|1|2, 3, 4|5|
 |Time block|10:00 - 23:59|0:00 - 23:59|0:00 - 09:59|
 
-To max a car, Yellow Elite Parts are needed but are very hard to earn. By winning 900 races of WEC, each member could earn 15 Yellow (Legendary) Elite Parts and 500 Elite Tuners Currency (2,300 ETC is equivalent to 20 YEP)
+To max a car, Yellow Elite Parts are needed but are very hard to earn.
+By winning 900 races of WEC, each member could earn 15 Yellow Elite Parts and 500 Elite Tuners Currency which could buy Elite Parts, Fusion Parts, Stage 6 Part, Elite Custom Car.
+
+#### Events to earn Yellow Elite Parts
+|Event|Races per member|Completion|Trophy rewards|Event prizes|ROI|
+|--|--:|--:|--:|--:|--:|
+|Weekly Elite Cup|40|15|--|--|0.375|
+|Showdown|500|6|30(e) / 35(c)|6(e) / 5(c)|0.012 - 0.092|
+> e for Elite Showdown, c for Champion Showdown
+
 - https://csr2racers.com/2020/12/09/elite-tuners-csr2-events-all-you-need-to-know/
 - https://www.reddit.com/r/CSRRacing2/comments/kfjbcc/weekly_elite_cup_rewards/
 - https://www.reddit.com/r/CSRRacing2/comments/xih1jf/i_cant_figure_out_what_a_premium_body_kit_is_nor/
@@ -117,15 +128,15 @@ are expected to lead by example, communicate, coordinate, help entire crew to ea
 - g2 ops, to help members build an elite tuner car eligible for WEC, and remind members to attend 5 rounds of WEC in time.
 - g3 ops, to survey and measure for best wildcard time to maximize RPs, to help and remind members to collect and donate tokens in time, to encourage members to activate and attend wildcard campaigns.
 
-deserve more respects, as they come to play as everyone but spend extra time on managing crew.
+deserve more respects, as they come to play as everyone else but spend extra time on managing crew.
 
 ### Backlog
 1. inner-crew swap for winning 15 races quickly every 8 hours
-2. the most races of WEC we won is 832. To win 900 races of WEC.
+2. the most races of WEC we won is 832. To win 900 races of WEC every week.
 ---
 ## Other resources
 - **Cars** https://csr2racers.com/2020/01/11/all-the-csr2-cars-with-tune-and-shift-pattern-for-the-best-time/, https://www.allclash.com/csr2-all-cars-best-tuning-chart/
 - **Keys** [bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them](https://csr2racers.com/2020/01/01/bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them/), [management-guide-csr-racing-2](https://www.mobilesector.net/key-management-guide-csr-racing-2/), https://csr2boss.com/csr2-racing-live-races-guide-how-to-win-every-time/
 - **Elite** [Elite Tokens](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPHrSP6Ttu1Ctc7_jTQRtXIQFd9-9emCuc8oe_FtnLSjvJBj7e3OM8sNjCo8dVb901kyRqFvr-Inng/pubhtml), [Elite Customs Spreadsheet by【ᴛʜᴇ ᴄʀᴏᴡ】](https://docs.google.com/spreadsheets/u/0/d/1qyBB2G_HQjzrBS6jF0sxosxJwAdXaB8DAGmmtP76f-4/htmlview), [elite-custom-token-limits](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/17467-elite-custom-token-limits/)
 - **Crew rules** https://csr2btb.wordpress.com/2020/04/09/crew-rules-%ef%bc%88read-first%ef%bc%89/
-- **PC** https://www.reddit.com/r/CSRRacing2/comments/fr5ra7/prestige_cup_tips/
+- **Events** [prestige-cup](https://www.allclash.com/prestige-cup-gold-cup-crew-milestone-cars-with-tuning-shift-pattern/), [prestige_cup_tips](https://www.reddit.com/r/CSRRacing2/comments/fr5ra7/prestige_cup_tips/), [Special events](https://www.allclash.com/csr2-event-guide-tunes-tips/), [Showdown events](https://www.allclash.com/csr2-showdown-guide/)
