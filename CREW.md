@@ -29,6 +29,7 @@
 |Dot*8|2024-06-05|||||k<sub>pc</sub>|
 |Dug*8|2024-06-14||||||W|
 |Ada*T|2024-06-14|||||k<sub>pc</sub>|W|
+|Tri*y|2024-06-23|||||k|W|
 |Chi*n|2024-06-23|||||k|
 |fer*5|2024-07-14|||||k<sub>pc</sub>|W|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
