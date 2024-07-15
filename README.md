@@ -4,9 +4,10 @@ This crew is supposed to be friendly and supportive. We ride alongside each othe
 ## Play smartly
 To make the crew sustainable, members need to decrease playing time to no more than 1 hour per day.
 - Set reminders for `cup events` (high ROI)
-- Earn `RPs` without racing as many as possible
-- Collect free `cars & parts`
-- Swap or race againt bots in `Live races` to quickly win 15 races
+- Collect free **cars & parts**
+- Earn **RP** without racing as many as possible
+- Donate **tokens** as early as possible and use **wildcards** for high RP events (`Showdown`, `Live races`)
+- Swap or race againt bots in `Live races` to quickly earn **keys**
 ---
 ## Recruitment
 **Active players (Rank 80+, 600k RP/season, eligible for WEC) are needed. Make an in-app request on the last day of each season.**
@@ -24,7 +25,7 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 3. To have fun through good teamwork
 ---
 ## What are the crew goals?
-|Crew goals|👤Individual measures|👤Minimum: 60%|
+|👥Crew goals|👤Individual measures|👤Minimum: 60%|
 |--|--|--|
 |1. 25-30 [active](#g1---how-frequently-do-you-play) members|10:00 Mon - 9:59 Fri|
 |2. 900 wins of [`Weekly Elite Cup`](#g2---weekly-elite-cup) for **parts** every week|&#x2610; Win 40 races of WEC|25%|
@@ -131,7 +132,6 @@ are expected to lead by example, communicate, coordinate, help entire crew to ea
 deserve more respects, as they come to play as everyone else but spend extra time on managing crew.
 
 ### Backlog
-1. inner-crew swap for winning 15 races quickly every 8 hours
 2. the most races of WEC we won is 832. To win 900 races of WEC every week.
 ---
 ## Other resources
