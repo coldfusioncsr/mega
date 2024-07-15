@@ -18,7 +18,6 @@
 |Chr*5|2024-01-19||UTC+1?||m||W|
 |KMH*Z|2024-01-21|UK?|UTC?||m||W|
 |Pen*a, Aco\*2|2024-02-24||UTC+1?||m||W|
-|MAZ*N|2024-03-17|||||k<sub>pc</sub>|
 |Asi*s|2024-03-18|||||k<sub>pc</sub>|
 |42k*1|2024-03-23|||||k<sub>pc</sub>|
 |ANI*7|2024-04-01|Argentina?|UTC-3?||m||W|
@@ -27,10 +26,11 @@
 |pp*|2024-04-22|||||k<sub>pc</sub>|
 |fou*f|2024-05-11||||m|
 |Pha*m|2024-06-01||||m||W|
-|Dot*8|2024-06-05|||||k|
+|Dot*8|2024-06-05|||||k<sub>pc</sub>|
 |Dug*8|2024-06-14||||||W|
 |Ada*T|2024-06-14|||||k<sub>pc</sub>|W|
 |Chi*n|2024-06-23|||||k|
+|fer*5|2024-07-14|||||k<sub>pc</sub>|W|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -124,3 +124,4 @@
 |MeH*1|2024-04-29|||||k|
 |Dis*n|2024-05-24||||m||
 |Tim*s|2024-05-09|||||k<sub>pc</sub>|
+|MAZ*N|2024-03-17|||||k<sub>pc</sub>|
