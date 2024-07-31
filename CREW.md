@@ -28,6 +28,8 @@
 |Tri*y|2024-06-23|||||k|W|
 |Chi*n|2024-06-23|||||k|
 |fer*5|2024-07-14|||||k<sub>pc</sub>|W|
+|adr*-|2024-07-18|||||k|
+|dee*3|2024-07-20||||m|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
