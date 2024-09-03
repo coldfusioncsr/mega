@@ -19,7 +19,6 @@
 |Asi*s|2024-03-18|||||k<sub>pc</sub>|
 |ANI*7|2024-04-01|Argentina?|UTC-3?||m||W|
 |Sil*a|2024-04-11|Argentina?|UTC-3?||m||W|
-|KAI*S|2024-04-19||||m|
 |fou*f|2024-05-11||||m|
 |Dot*8|2024-06-05|||||k<sub>pc</sub>|
 |Ada*T|2024-06-14|||||k<sub>pc</sub>|W|
@@ -27,7 +26,6 @@
 |fer*5|2024-07-14||||m||W|
 |adr*-|2024-07-18|||||k|
 |JC5*|2024-07-18|||||k|
-|dee*3|2024-07-20||||m|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -129,3 +127,5 @@
 |Xta*Z|2023-10||UTC+1?||m||W|
 |42k*1|2024-03-23|||||k<sub>pc</sub>|
 |Chi*n|2024-06-23|||||k|
+|KAI*S|2024-04-19||||m|
+|dee*3|2024-07-20||||m|
