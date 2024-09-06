@@ -9,11 +9,11 @@
 |Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5|a|m||W|
 |モ*ㄨ|2023-12-19|USA|UTC-6|a|m||W|
 |LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A|m||W|
-|mel*!|2023-12-25|Los Angeles California, USA|UTC-8|a|m||W|
-|zer*l|2023-10||UTC+5?||m||W|
+|mel*!, Dan\*S|2023-12-25|Los Angeles California, USA|UTC-8|a|m||W|
+|zer*l, Nim\*0|2023-10||UTC+5?||m||W|
 |Cha*e|2023-11|China?|UTC+8?|||k<sub>pc</sub>|W|
 |Ser*1, Pur\*4|2023-11|Russia?|UTC+3?||m||W|
-|Art*7|2024-01-05||UTC-7?||m||W|
+|Art*7, Qui\*r|2024-01-05||UTC-7?||m||W|
 |KMH*Z|2024-01-21|UK?|UTC?||m||W|
 |Pen*a, Aco\*2|2024-02-24||UTC+1?||m||W|
 |Asi*s|2024-03-18|||||k<sub>pc</sub>|
@@ -26,6 +26,7 @@
 |fer*5|2024-07-14||||m||W|
 |adr*-|2024-07-18|||||k|
 |JC5*|2024-07-18|||||k|
+|Van*g|2024-09-06|||||k|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
