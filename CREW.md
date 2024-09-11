@@ -26,6 +26,7 @@
 |fer*5|2024-07-14||||m||W|
 |adr*-|2024-07-18|||||k|
 |JC5*|2024-07-18|||||k|
+|bud*2|2024-09-04|||||k|
 |Van*g|2024-09-05|||||k<sub>pc</sub>|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
