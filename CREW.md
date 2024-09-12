@@ -22,12 +22,13 @@
 |fou*f|2024-05-11||||m|
 |Dot*8|2024-06-05|||||k<sub>pc</sub>|
 |Ada*T|2024-06-14|||||k<sub>pc</sub>|W|
-|Tri*y, ale\*7|2024-06-23|||||k|W|
+|Tri*y, ale\*7, Ada\*S|2024-06-23|||||k|W|
 |fer*5|2024-07-14||||m||W|
 |adr*-|2024-07-18|||||k|
 |JC5*|2024-07-18|||||k|
 |bud*2|2024-09-04|||||k|
 |Van*g|2024-09-05|||||k<sub>pc</sub>|
+|Ben*d|2024-09-11|||||k|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
