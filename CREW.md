@@ -22,12 +22,12 @@
 |Sil*a|2024-04-11|Argentina?|UTC-3?||m||W|
 |fou*f|2024-05-11||||m|
 |fer*5|2024-07-14||||m||W|
-|adr*-|2024-07-18|||||k|
+|adr*-|2024-07-18|||||k<sub>pc</sub>|
 |Web*o|2024-08-17|||||k|
 |bud*2|2024-09-04|||||k|
 |Van*g|2024-09-05||||m||
-|pnc*2|2024-09-28|||||k|
-|Dev*3|2024-09-28|||||k|
+|pnc*2|2024-09-28||||m|
+|Dev*3|2024-09-28|||||k<sub>pc</sub>|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
