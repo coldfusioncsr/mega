@@ -13,20 +13,18 @@
 |zer*l, Nim\*0|2023-10||UTC+5?||m||W|
 |Cha*e|2023-11|China?|UTC+8?|||k<sub>pc</sub>|W|
 |Ser*1, Pur\*4|2023-11|Russia?|UTC+3?||m||W|
-|Adr*o|2023-12-11||UTC-8?||m||W|
 |Art*7, Qui\*r, 357\*s|2024-01-05||UTC-7?||m||W|
 |KMH*Z|2024-01-21|UK?|UTC?||m||W|
 |Pen*a, Aco\*2|2024-02-24||UTC+1?||m||W|
 |Asi*s|2024-03-18|||||k<sub>pc</sub>|
 |Sil*a|2024-04-11|Argentina?|UTC-3?||m||W|
-|fou*f|2024-05-11||||m|
+|fou*f, Jul\*e|2024-05-11||||m|
 |fer*5|2024-07-14||||m||W|
 |adr*-|2024-07-18|||||k<sub>pc</sub>|
 |Web*o|2024-08-17|||||k|
 |Van*g|2024-09-05||||m||
 |pnc*2|2024-09-28||||m|
 |Dev*3|2024-09-28||||m|
-|392*|2024-10-14|||||k|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
@@ -136,3 +134,5 @@
 |Tri*y, ale\*7, Ada\*S|2024-06-23|||||k|W|
 |ANI*7|2024-04-01|Argentina?|UTC-3?||m||W|
 |bud*2|2024-09-04|||||k|
+|Adr*o|2023-12-11||UTC-8?||m||W|
+|392*|2024-10-14|||||k|
