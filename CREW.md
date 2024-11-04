@@ -25,7 +25,7 @@
 |Van*g|2024-09-05||||m||
 |pnc*2|2024-09-28||||m|
 |Dev*3|2024-09-28||||m|
-|Fie*w|2024-10-15|||||k|
+|Fie*w|2024-10-15|||||k<sub>pc</sub>|
 |BLK*7|2024-10-23|||||k|
 |Dem*S|2024-10-31|||||k<sub>pc</sub>|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
