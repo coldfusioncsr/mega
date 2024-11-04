@@ -29,7 +29,7 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 |--|--|--|
 |1. 25-30 [active](#g1---how-frequently-do-you-play) members|10:00 Mon - 9:59 Fri|
 |2. 900 wins of [`Weekly Elite Cup`](#g2---weekly-elite-cup) for **parts** every week|&#x2610; Win 40 races of WEC|25%|
-|3. [20m+ RPs](#g3---20mil-rps) for prize **car** every CSR season|&#x2610; Donate 400 tokens <br> &#x2610; Contribute 667k RP|25% <br> 50%|
+|3. [20m+ RP](#g3---20mil-rp) for prize **car** every CSR season|&#x2610; Donate 400 tokens <br> &#x2610; Contribute 667k RP|25% <br> 50%|
 ---
 ## g1 - How frequently do you play
 |Frequency|Tasks|
@@ -39,6 +39,8 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 |Every 4 hours|Daily Battles, Bronze Crates|
 
 - [**Season Schedule (Recommended)**](https://docs.google.com/spreadsheets/d/1jsgWgXeBoPMRBNFMbDjJLuDbk90S9DuI_o8sPuSyBmI/htmlview), [Season Schedule by BLACKTOP BEASTS TEAM](https://docs.google.com/spreadsheets/d/1iKkwmLYEPRktXw17auU2egdTSyIu6i1JdWZzMrI3wPk/edit), [UTC@Wikipedia](https://en.wikipedia.org/wiki/Utc), [worldclock in UTC](https://www.timeanddate.com/time/aboututc.html)
+![CSR2 Season schedule](https://github.com/user-attachments/assets/79372ca4-c8a7-4d98-aefe-1582bd214b5c)
+
 
 |Day (UTC)|Thu 1|Fri 2|Sat 3|Sun 4|Mon 5|Tue 6|Wed 7|Thu 8|Fri 9|Sat 10|Sun 11|Mon 12|Tue 13|Wed 14|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
@@ -96,14 +98,14 @@ By winning 900 races of WEC, each member could earn 15 Yellow Elite Parts and 50
 ![WEC](https://preview.redd.it/weekly-elite-cup-v0-4z0g3bkatuyb1.jpg?width=1080&crop=smart&auto=webp&s=a8d75afa5cfff24f3072056386b04857f72526dc)
 ![WEC](https://preview.redd.it/how-do-i-get-a-premium-body-kit-v0-jgejxemt9sm91.jpg?width=640&crop=smart&auto=webp&s=d1458d0fb4397d06ad311c8d7be6eab11d2751d4)
 ---
-### g3 - 20mil RPs
+### g3 - 20mil RP
 
 #### How to earn Respect Points with/without racing
 - https://www.reddit.com/r/CSRRacing2/comments/10mq83k/crew_rp_guide_for_beginners/
 - [Respect points - how to earn a lot of RP in CSR2](https://csr2mods.com/en-au/blogs/csr-racing-2-guides/respect-points-earn-racing-2)
 - https://csr2racers.com/2019/12/29/respect-points-how-to-earn-lots-of-rp/
 
-||Rewards to earn|RPs to earn|Time to spend|Time to refuel (AD)|
+||Rewards to earn|RP to earn|Time to spend|Time to refuel (AD)|
 |--|--|--:|--|--|
 |&#x1F536;WEC(8 x 5 x 2) + &#x1F4D8;(1 x 7) + &#x1F4D9; + &#x1F4D7;|15 Yellow Elite Parts + 390/440 Tokens + more|16k/Season|5min/Day, 50min/Season|
 |[Season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)(crew RP: 149)|Keys + Parts|730.6k/Season|5min/Day, 1.25hr/Season|
@@ -127,7 +129,7 @@ By winning 900 races of WEC, each member could earn 15 Yellow Elite Parts and 50
 are expected to lead by example, communicate, coordinate, help entire crew to earn more cars, parts over winnings.
 - g1 ops, to keep active players in, inactive/naughty members out. While stablizing old members are important for consistent behaviors.
 - g2 ops, to help members build an elite tuner car eligible for WEC, and remind members to attend 5 rounds of WEC in time.
-- g3 ops, to survey and measure for best wildcard time to maximize RPs, to help and remind members to collect and donate tokens in time, to encourage members to activate and attend wildcard campaigns.
+- g3 ops, to survey and measure for best wildcard time to maximize RP, to help and remind members to collect and donate tokens in time, to encourage members to activate and attend wildcard campaigns.
 
 deserve more respects, as they come to play as everyone else but spend extra time on managing crew.
 
