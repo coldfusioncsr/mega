@@ -3,7 +3,7 @@
 ## Crew records
 |Most|Record|Date (yyyy-MM-dd)|Expecting more|
 |--|--:|--:|--:|
-|Crew RPs|27,685,720|2024-10-24|
+|Crew RP|27,685,720|2024-10-24|
 |Token donations|12,005|2024-10-24|✅️|
 |🔶WEC wins|832|2024-03-01|✅️|
 |💻PC winners|20|2024-06-20|✅️|
@@ -11,7 +11,7 @@
 ## Weekly statistics
 > **UTC is used at all time.**
 > 
-> ROI (k RPs earned per token) = RPs earned (from racing, excluding rewards) / Wildcard cost
+> ROI (k RP earned per token) = RP earned (from racing, excluding rewards) / Wildcard cost
 >
 > 🎖️ is awarded to member whose
 > - Personal RP earning >= 1m
@@ -22,7 +22,7 @@
 > - Personal token donations < 150 (half season), < 300 (full season) and Personal RP earning < 667k (full season)
 > - Personal RP earning < 333k (full season)
 > - Absense from WEC (change of RP < 1.6k). (**Attending WEC is required, minimal attendance rate is 75%**)
-> - Activated wildcard, but didn't generate 30k+ RPs.
+> - Activated wildcard, but didn't generate 30k+ RP.
 >
 > = indicates no change of RP
 > 
@@ -30,7 +30,42 @@
 > 
 > Bold format indicates change of RP >= 200k if it is not 💻
 >
-> Member having earned 10k+ RPs is considered as attendee of a wildcard campaign. (Attending wildcard campaign is optional)
+> Member having earned 10k+ RP is considered as attendee of a wildcard campaign. (Attending wildcard campaign is optional)
+
+|2024 w45|🔶10:00 Mon|🔶0:00 Tue|🔶0:00 Wed|🔶0:00 Thu|*10:00 Thu|*Tokens|🔶0:00 Fri|🔶9:59 Fri|
+|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+|&#x2211;RP|20,029,140|
+|Wins, &#x2211;p|[|
+|ROO*0|2,121,380|
+|Ser*1|1,154,129|
+|Sil*A|1,182,313|
+|Orp*s|1,381,690|
+|Pen*a|1,189,953|
+|Nin*o|1,300,142|
+|Van*g|721,493|
+|Dev*3|828,650|
+|PWR*L|583,197|
+|Mad*8|962,251|
+|zer*l|779,990|
+|R***R|1,182,630|
+|pnc*2|998,345|
+|fou*u|667,423|
+|Asi*s|303,140|
+|Cha*e|343,794|
+|BLK*7|816,700|
+|Fer*s|404,273|
+|モ*ㄨ|282,087|
+|KWH*Z|672,845|
+|mel*!|630,982|
+|LIL*L|271,080|
+|adr*-|100,436|
+|Fie*w|259,980|
+|Web*o|111,883|
+|357*s|112,199|
+|Dem*S|538,306|
+|Ris*l|66,031|
+|Dle*L|60,513|
+|Wa8*9|1,305|
 
 |2024 w44|🔶10:00 Mon|🔶0:00 Tue|🔶0:00 Wed|🔶0:00 Thu|🔶0:00 Fri|🔶9:59 Fri|*Tokens|Wknd|
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|
@@ -58,7 +93,7 @@
 |KWH*Z|73,301|200,364|256,475|270,470|338,077|💻654,323|300|
 |Met*a|71,060|73,254|⚠️|--|
 |Gol*e|66,782|⚠️|⚠️|--|
-|mel*!|62,407|219,959|⚠️220,159|236,125|319,682|399,442|360|
+|mel*!|62,407|219,959|⚠️220,159|236,125|319,682|399,442|360|💻
 |LIL*L|61,723|62,395|198,575|⚠️|⚠️|214,736|0|
 |adr*-|50,233|⚠️|⚠️|84,546|96,796|⚠️|250|
 |Fie*w|46,793|49,361|177,241|222,187|227,410|⚠️|0|
