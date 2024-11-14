@@ -28,6 +28,7 @@
 |Fie*w|2024-10-15|||||k<sub>pc</sub>|
 |BLK*7|2024-10-23||||m|
 |Dem*S|2024-10-31|||||k<sub>pc</sub>|
+|Dle*L|2024-10-31|||||k|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
