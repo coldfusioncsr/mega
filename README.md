@@ -7,7 +7,7 @@ To make the crew sustainable, members need to decrease playing time to no more t
 - Collect free **cars & parts**
 - Earn **RP** without racing as many as possible
 - Donate **tokens** as early as possible and use **wildcards** for high RP events (`Showdown`, `Live races`)
-- Swap or race againt bots in `Live races` to quickly earn **keys**
+- Race againt bots in `Live races` to quickly earn **keys**
 ---
 ## Recruitment
 **Active players (Rank 80+, 600k RP/season, eligible for WEC) are needed. Make an in-app request on the last day of each season.**
@@ -137,8 +137,10 @@ deserve more respects, as they come to play as everyone else but spend extra tim
 2. the most races of WEC we won is 832. To win 900 races of WEC every week.
 ---
 ## Other resources
-- **Cars** https://csr2racers.com/2020/01/11/all-the-csr2-cars-with-tune-and-shift-pattern-for-the-best-time/, https://www.allclash.com/csr2-all-cars-best-tuning-chart/
+- https://github.com/wear87/CSR2-Racing-Collection
+- **Cars** https://csr2racers.com/2020/01/11/all-the-csr2-cars-with-tune-and-shift-pattern-for-the-best-time/, https://www.allclash.com/csr2-all-cars-best-tuning-chart/, https://csrracing.fandom.com/wiki/Category:Season_Prize
 - **Keys** [bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them](https://csr2racers.com/2020/01/01/bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them/), [management-guide-csr-racing-2](https://www.mobilesector.net/key-management-guide-csr-racing-2/), https://csr2boss.com/csr2-racing-live-races-guide-how-to-win-every-time/
 - **Elite** [Elite Tokens](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPHrSP6Ttu1Ctc7_jTQRtXIQFd9-9emCuc8oe_FtnLSjvJBj7e3OM8sNjCo8dVb901kyRqFvr-Inng/pubhtml), [Elite Customs Spreadsheet by【ᴛʜᴇ ᴄʀᴏᴡ】](https://docs.google.com/spreadsheets/u/0/d/1qyBB2G_HQjzrBS6jF0sxosxJwAdXaB8DAGmmtP76f-4/htmlview), [elite-custom-token-limits](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/17467-elite-custom-token-limits/)
+- [**Collections**](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/21270-collections/) [Introducing Collections](https://www.csr-racing.com/news/introducing-collections-a-new-way-to-experience-csr2), [CSR2 Collections Guide and Basic Tutorial](https://www.youtube.com/watch?v=IMWL65yucw8), [Collections Tournament](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/21444-collections-tournament/), [Tournaments are available to anyone above Level 60, and whose crew finished in the Top 5,000 last season.](https://www.facebook.com/csrracinggame/posts/987451606757718/)
 - **Crew rules** https://csr2btb.wordpress.com/2020/04/09/crew-rules-%ef%bc%88read-first%ef%bc%89/
 - **Events** [prestige-cup](https://www.allclash.com/prestige-cup-gold-cup-crew-milestone-cars-with-tuning-shift-pattern/), [prestige_cup_tips](https://www.reddit.com/r/CSRRacing2/comments/fr5ra7/prestige_cup_tips/), [Special events](https://www.allclash.com/csr2-event-guide-tunes-tips/), [Showdown events](https://www.allclash.com/csr2-showdown-guide/)
