@@ -29,6 +29,7 @@
 |BLK*7|2024-10-23||||m|
 |Nxe*t|2024-11-15|||||k|
 |Jor*8|2024-12-03|||||k|
+|lar*3|2024-12-10|||||k|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
