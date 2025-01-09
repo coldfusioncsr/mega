@@ -31,6 +31,7 @@
 |lar*3|2024-12-10||||m|
 |mat*r|2024-12-17|||||k|
 |Pb1*y|2024-12-30|||||k|
+|Swi*7|2025-01-05|||||k|
 |Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
