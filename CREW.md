@@ -29,9 +29,11 @@
 |BLK*7|2024-10-23||||m|
 |Nxe*t|2024-11-15|||||k<sub>pc</sub>|
 |lar*3|2024-12-10||||m|
-|Swi*7|2025-01-05|||||k|
+|Swi*7|2025-01-05|||||k<sub>pc</sub>|
 |Lem*2|2025-01-17|||||k|
-|Left member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
+
+|Ex-member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
+|--|--|--|--|--|--|--|
 |Dem*d|2023-08|VIC, AUS|UTC+10|A|m|
 |Vin*8|2023-09|USA|||m|
 |Ssp*K||VIC, AUS|UTC+10|
