@@ -22,10 +22,20 @@
 > - Personal 📘RP earning < 333k (full season), = indicates no change of RP, ≈ is marked to change of RP < 1.6k
 > - Absense from 🔶Weekly Elite Cup (change of RP < 1.6k). (**Attending WEC is required, minimal attendance rate is 75%**)
 
-|2025 w6|🔶10:00 Mon|🔶0:00 Tue|Tournam ents(3d)|🔶0:00 Wed|🔶0:00 Thu|🔶0:00 Fri|🔶9:59 Fri|📘Tokens|Wknd|
+|2025 w6|🔶10:00 Mon|🔶0:00 Tue|🏆Tourna ments(3d)|🔶0:00 Wed|🔶0:00 Thu|🔶0:00 Fri|🔶9:59 Fri|📘Tokens|Wknd|
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 |&#x2211;RP|
 |Wins, &#x2211;p|[|
+|ROO*0|||2,500|
+|R***R|||1,850|
+|Pen*a|||930|
+|Nin*o|||900|
+|Mad*8|||585|
+|Van*g|||555|
+|KWH*Z|||525|
+|Ser*1|||490|
+|lar*3|||460|
+|BLK*7|||360|
 
 |2025 w5|🔶10:00 Mon|🔶0:00 Tue|🔶0:00 Wed|🔶0:00 Thu|📘10:00 Thu|📘Tokens|🔶0:00 Fri|🔶9:59 Fri|
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|
