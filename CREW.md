@@ -13,14 +13,11 @@
 |zer*l, Nim\*0|2023-10||UTC+5?||m||W|
 |Cha*e|2023-11|China?|UTC+8?|||k<sub>pc</sub>|W|
 |Ser*1, Pur\*4|2023-11|Russia?|UTC+3?||m||W|
-|Art*7, Qui\*r, 357\*s|2024-01-05||UTC-7?||m||W|
 |KMH*Z|2024-01-21|UK?|UTC?||m||W|
 |Pen*a, Aco\*2|2024-02-24||UTC+1?||m||W|
 |Asi*s|2024-03-18|||||k<sub>pc</sub>|
-|Sil*a|2024-04-11|Argentina?|UTC-3?||m||W|
 |fou*f, Jul\*e|2024-05-11||||m|
 |adr*-|2024-07-18|||||k<sub>pc</sub>|
-|Web*o|2024-08-17|||||k<sub>pc</sub>|
 |Van*g|2024-09-05||||m||
 |pnc*2|2024-09-28||||m|
 |Dev*3|2024-09-28||||m|
@@ -151,3 +148,6 @@
 |Jor*8|2024-12-03||||m|
 |mat*r|2024-12-17||||m|
 |Pb1*y|2024-12-30|||||k|
+|Sil*a|2024-04-11|Argentina?|UTC-3?||m||W|
+|Web*o|2024-08-17|||||k<sub>pc</sub>|
+|Art*7, Qui\*r, 357\*s|2024-01-05||UTC-7?||m||W|
