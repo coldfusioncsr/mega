@@ -1,12 +1,12 @@
 # MEGA [Española](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en-US&_x_tr_pto=wapp), [中文](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=zh&_x_tr_hl=en-US&_x_tr_pto=wapp), [الأسبانية](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=ar&_x_tr_hl=en-US&_x_tr_pto=wapp), [Русский](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=en-US&_x_tr_pto=wapp), [Français](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=en-US&_x_tr_pto=wapp), [日本語](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=en-US&_x_tr_pto=wapp), [Deutsch](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en-US&_x_tr_pto=wapp), [dansk](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=da&_x_tr_hl=en-US&_x_tr_pto=wapp)
 This crew is supposed to be friendly and supportive. We ride alongside each other to earn more rewards and have fun.
 
-## Play smartly
+## Play smartly while respect crew goals
 To make the crew sustainable, members need to decrease playing time to no more than 1 hour per day.
-- Set reminders for `cup events` (high ROI)
+- Set reminders for `cup` events (high ROI, collaboration required), `Tournements`
 - Collect free **cars & parts**
 - Earn **RP** without racing as many as possible
-- Donate **tokens** as early as possible and use **wildcards** for high RP events (`Showdown`, `Live races`)
+- Donate **tokens** by second Tuesday. Activate a **wildcard** when racing high RP events (`Showdown`, `Liver races`) intensively (50+ races)
 - Race againt bots in `Live races` to quickly earn **keys**
 ---
 ## Recruitment
@@ -30,6 +30,12 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 |1. 25-30 [active](#g1---how-frequently-do-you-play) members|10:00 Mon - 9:59 Fri|
 |2. 900 wins of [`Weekly Elite Cup`](#g2---weekly-elite-cup) for **parts** every week|&#x2610; Win 40 races of WEC|25%|
 |3. [20m+ RP](#g3---20mil-rp) for prize **car** every CSR season|&#x2610; Donate 400 tokens <br> &#x2610; Contribute 667k RP|25% <br> 50%|
+---
+## 🏆Elite car collection milestones
+1. McLaren F1
+2. Ford GT40 Mk2 #1
+3. McLaren F1 LM
+4. Toyota Supra Mk4
 ---
 ## g1 - How frequently do you play
 |Frequency|Tasks|
@@ -74,14 +80,15 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 
 ---
 ### g2 - Weekly Elite Cup
-|&#x1F536;Schedule (UTC)|Mon|Tue,Wed,Thu|Fri|
+|&#x1F536;Schedule (UTC/GMT)|Mon|Tue,Wed,Thu|Fri|
 |--:|--:|--:|--:|
 |Round|1|2, 3, 4|5|
 |Time block|10:00 - 23:59|0:00 - 23:59|0:00 - 09:59|
-
-To max a car, Yellow Elite Parts are needed but are very hard to earn.
-By winning 900 races of WEC, each member could earn 15 Yellow Elite Parts and 500 Elite Tuners Currency which could buy Elite Parts, Fusion Parts, Stage 6 Part, Elite Custom Car.
-
+#### Elite Parts For The Whole Elite Customs Expansion
+|Total|Green E.P.|Blue E.P.|Pink E.P.|Yellow E.P.|
+|--|--:|--:|--:|--:|
+|Amount|1,037,785|	326,390 |	149,133 |6,463|
+> Red elite parts are the most demanding
 #### Events to earn Yellow Elite Parts
 |Event|Races per member|Completion|Trophy rewards|Event prizes|ROI|
 |--|--:|--:|--:|--:|--:|
@@ -95,8 +102,6 @@ By winning 900 races of WEC, each member could earn 15 Yellow Elite Parts and 50
 - [CSR2 Elite customs Body kit Tier or Rarity explained, elite tuners](https://www.youtube.com/watch?v=nuVsQQYxKK8)
 
 ![Weekly Elite Cup](https://preview.redd.it/882lckfxhx561.png?width=1080&crop=smart&auto=webp&s=fd1eb19f1b4bf8cf234264f6cf73bf10f27e05b8)
-![WEC](https://preview.redd.it/weekly-elite-cup-v0-4z0g3bkatuyb1.jpg?width=1080&crop=smart&auto=webp&s=a8d75afa5cfff24f3072056386b04857f72526dc)
-![WEC](https://preview.redd.it/how-do-i-get-a-premium-body-kit-v0-jgejxemt9sm91.jpg?width=640&crop=smart&auto=webp&s=d1458d0fb4397d06ad311c8d7be6eab11d2751d4)
 ---
 ### g3 - 20mil RP
 
@@ -115,12 +120,12 @@ By winning 900 races of WEC, each member could earn 15 Yellow Elite Parts and 50
 |Race pass(3 x 14)|car, parts, tokens|325k/other season|4hr/Season|
 |Legends events|Fusion parts||
 |Elite events|Elite parts||
-|Theme events|||
+|Theme/special events|||
 
 > It takes &#x2248;30s to complete 1 race or to refuel 2 pips
 - [Earn 700k+ from season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/), [results_after_a_year](https://www.reddit.com/r/CSRRacing2/comments/szqwkl/results_after_a_year_on_a_f2p_alt_account/)
 - Earn 250k+ from each `Showdown` event in the win/lose ratio of 1:2.
-- Earn 472.5k-819k/Season from `Live races` by winning 15races x 3rounds x 14days with t1 car for guaranteed wins, or with t4/t5 car in the win/lose ratio of 1:1 by [swapping with others](https://csr2racers.com/2020/03/22/live-races-lobby-times-swapping-and-w-l-in-csr2/)
+- Earn 472.5k-819k/Season from `Live races` by winning 15races x 3rounds x 14days against Bots or [swapping with others](https://csr2racers.com/2020/03/22/live-races-lobby-times-swapping-and-w-l-in-csr2/)
 - Earn 325k from extra mile rewards of `Race pass` every other season, likely odd season
 - [Buying any car gives you 500rp](https://www.reddit.com/r/CSRRacing2/comments/52f1yr/earning_rp_without_racing/), [car-stripping-in-csr-racing-2](https://www.mobilesector.net/car-stripping-in-csr-racing-2/), [Cars available for cash or gold](https://docs.google.com/spreadsheets/d/1IUQrLBN_NkSKhKuHbe9DRfBFhF9Yf2_x6Yl3izL6lLE/)
 - [100 RP per fusion part. Upgrading cars depends on Tier and stage. For example stage 1 T1 upgrade is 6 RP, stage 6 T5 upgrade is 240 RP.](https://www.reddit.com/r/CSR2/comments/g534f2/how_much_rp_do_i_get_from_fitting_fusion_parts/)
@@ -131,16 +136,20 @@ are expected to lead by example, communicate, coordinate, help entire crew to ea
 - g2 ops, to help members build an elite tuner car eligible for WEC, and remind members to attend 5 rounds of WEC in time.
 - g3 ops, to survey and measure for best wildcard time to maximize RP, to help and remind members to collect and donate tokens in time, to encourage members to activate and attend wildcard campaigns.
 
-deserve more respects, as they come to play as everyone else but spend extra time on managing crew.
+deserve more respects, as they come to play as everyone else but spend extra time on managing crew. Two admins per season shift (first half / second half of the `Race Pass`)
+
+### Alerts
+Crew RP drops to 23m or less; WEC races won drops to 600 or less.
 
 ### Backlog
-2. the most races of WEC we won is 832. To win 900 races of WEC every week.
+- the most races of WEC we won is 832. To win 900 races of WEC every week.
+- Tournaments
 ---
 ## Other resources
 - https://github.com/wear87/CSR2-Racing-Collection
 - **Cars** https://csr2racers.com/2020/01/11/all-the-csr2-cars-with-tune-and-shift-pattern-for-the-best-time/, https://www.allclash.com/csr2-all-cars-best-tuning-chart/, https://csrracing.fandom.com/wiki/Category:Season_Prize
 - **Keys** [bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them](https://csr2racers.com/2020/01/01/bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them/), [management-guide-csr-racing-2](https://www.mobilesector.net/key-management-guide-csr-racing-2/), https://csr2boss.com/csr2-racing-live-races-guide-how-to-win-every-time/
-- **Elite** [Elite Tokens](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPHrSP6Ttu1Ctc7_jTQRtXIQFd9-9emCuc8oe_FtnLSjvJBj7e3OM8sNjCo8dVb901kyRqFvr-Inng/pubhtml), [Elite Customs Spreadsheet by【ᴛʜᴇ ᴄʀᴏᴡ】](https://docs.google.com/spreadsheets/u/0/d/1qyBB2G_HQjzrBS6jF0sxosxJwAdXaB8DAGmmtP76f-4/htmlview), [elite-custom-token-limits](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/17467-elite-custom-token-limits/)
+- **Elite** [Elite Tokens (Discontinued)](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPHrSP6Ttu1Ctc7_jTQRtXIQFd9-9emCuc8oe_FtnLSjvJBj7e3OM8sNjCo8dVb901kyRqFvr-Inng/pubhtml), [Elite Customs Spreadsheet by【ᴛʜᴇ ᴄʀᴏᴡ】(Updated to 2025-02-18)](https://docs.google.com/spreadsheets/u/0/d/1qyBB2G_HQjzrBS6jF0sxosxJwAdXaB8DAGmmtP76f-4/htmlview), [elite-custom-token-limits](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/17467-elite-custom-token-limits/), [Elite Customs Expansion](https://www.reddit.com/r/CSRRacing2/comments/k0e3ew/elite_customs_expansion/)
 - [**Collections**](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/21270-collections/) [Introducing Collections](https://www.csr-racing.com/news/introducing-collections-a-new-way-to-experience-csr2), [CSR2 Collections Guide and Basic Tutorial](https://www.youtube.com/watch?v=IMWL65yucw8), [Collections Tournament](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/21444-collections-tournament/), [Tournaments are available to anyone above Level 60, and whose crew finished in the Top 5,000 last season.](https://www.facebook.com/csrracinggame/posts/987451606757718/)
 - **Crew rules** https://csr2btb.wordpress.com/2020/04/09/crew-rules-%ef%bc%88read-first%ef%bc%89/
 - **Events** [prestige-cup](https://www.allclash.com/prestige-cup-gold-cup-crew-milestone-cars-with-tuning-shift-pattern/), [prestige_cup_tips](https://www.reddit.com/r/CSRRacing2/comments/fr5ra7/prestige_cup_tips/), [Special events](https://www.allclash.com/csr2-event-guide-tunes-tips/), [Showdown events](https://www.allclash.com/csr2-showdown-guide/)
