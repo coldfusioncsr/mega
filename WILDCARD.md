@@ -5,26 +5,23 @@
 Wildcard is a key to `Less for More` (more rp Return On less time Investment).
 
 ## A brief glance
-> Wildcard combination: 🥝150% + 70%x5 + 30%x7, Wildcard time by default is 20:00 UTC or reacting to 5p+ online with ROI in mind.
+> Wildcard combination: 🍊150%x2 + 70%x5 + 30%x*
+> 
+> Wildcard time by default is 20:00 UTC or practically reacting to 2p+ online with ROI in mind.
 
 > [Token donation](#token-donation)
-> 1. ✅️Donate tokens as early as possible,
-> 2. 🚫Stop donating tokens after 20m RPs is reached,
+> 1. ✅️Donate tokens as early as possible, do not hold until the last day
 > 3. ⚠️Roll tokens left to next season before claiming your prize car
 
-> - When both 30% and 70% are unfulfilled, fill up 30% first
+### [Wildcard activation](#wildcard-strategy)
+|Wildcard|Who is meant to activate|
+|--:|--|
+|✅️+30%|any old member|
+|⚠️+70%|1m+RP contributor|
+|🚫+150%|admin only (current & ex), unless authorized by admin|
 
-> [Wildcard activation](#wildcard-strategy)
-> - 🚫Hold 150% until the 2nd Monday
-
-|Wildcard|Who is allowed to activate|Min online players|Min RP to generate by activator|
-|--:|--|--|--|
-|✅️+30%|any old member|3|30k|
-|⚠️+70%|1m+RP contributor|5|50k|
-|🚫+150%|admin only, unless authorized by admin|5|50k|
-
-> - **Old member** (in comparison to new joiner in current or last season)
-> - Whoever activated wildcard is expected to generate minium of ??+RPs to be considered serious use of a wildcard.
+> - **Old member** played within this crew for more than one season
+> - Min races to complete by activator is 50.
 ---
 ## Actual token coefficients from crew statistics
 > Crew stat indicates 30% & 70% generated more RPs, including planned & unplanned wildcard campaigns
@@ -118,9 +115,9 @@ Tokens that each member should be able to collect per season
 </details>
 
 > [!IMPORTANT]
-> Typical practice for most crews is **Wildcard is activated by admin, unless authorized by admin.**
+> Typical practice for most crews is that **Wildcard is activated by admin, unless authorized by admin.**
 >
-> For mature crew, self-governed would be ideal.
+> For mature crew, self-governed would be ideal. Within this crew, wildcards are open to all members conditionally.
 
 <details><summary>Old [!NOTE]</summary>
 
