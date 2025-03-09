@@ -1,35 +1,34 @@
 # Crew
 
-|&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|1m+RP|0.1m+PD|🔶WEC|
-|--|--|--|--|--|--|--|--|
-|ROO*0|2023-06|NSW, AUS|UTC+10 [AET](https://www.timeanddate.com/time/zones/aet)|L|m||W|
-|R*R|2024-03-09|Philippines?|UTC+8?|A|m||W|
-|Mad*8, Tem\*0|2023-12-07|Germany|UTC+1 [CET](https://www.timeanddate.com/time/zones/cet)|A|m||W|
-|Orp*s|2023-10|Eastern USA|UTC-5 [EST](https://www.timeanddate.com/time/zones/est)|A|m||W|
-|Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5|a|m||W|
+|&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|1m+RP|0.1m+PD|🔶WEC|Tournements|
+|--|--|--|--|--|--|--|--|--|
+|ROO*0|2023-06|NSW, AUS|UTC+10 [AET](https://www.timeanddate.com/time/zones/aet)|L|m||W|Y|
+|R*R|2024-03-09|Philippines?|UTC+8?|A (2nd half)|m||W|Y|
+|Mad*8, Tem\*0|2023-12-07|Germany|UTC+1 [CET](https://www.timeanddate.com/time/zones/cet)|A (1st half)|m||W|Y|
+|Orp*s|2023-10|Eastern USA|UTC-5 [EST](https://www.timeanddate.com/time/zones/est)|A (1st half)|m||W|Y|
+|Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5|a|m||W|Y|
 |モ*ㄨ|2023-12-19|USA|UTC-6|a|m||W|
-|LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A|m||W|
+|LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A (2nd half)|m||W|
 |mel*!, Dan\*S|2023-12-25|Los Angeles California, USA|UTC-8|a|m||W|
-|zer*l, Nim\*0|2023-10||UTC+5?||m||W|
+|zer*l, Nim\*0|2023-10||UTC+5?||m||W|Y|
 |Cha*e|2023-11|China?|UTC+8?|||k<sub>pc</sub>|W|
-|Ser*1, Pur\*4|2023-11|Russia?|UTC+3?||m||W|
-|KMH*Z|2024-01-21|UK?|UTC?||m||W|
-|Pen*a, Aco\*2|2024-02-24||UTC+1?||m||W|
+|Ser*1, Pur\*4|2023-11|Russia?|UTC+3?||m||W|Y|
+|KMH*Z|2024-01-21|UK?|UTC?||m||W|Y|
+|Pen*a, Aco\*2|2024-02-24||UTC+1?||m||W|Y|
 |Asi*s|2024-03-18|||||k<sub>pc</sub>|
 |fou*f, Jul\*e|2024-05-11||||m|
 |adr*-|2024-07-18|||||k<sub>pc</sub>|
-|Van*g|2024-09-05||||m||
+|Van*g|2024-09-05||||m|||Y|
 |pnc*2|2024-09-28||||m|
 |Dev*3|2024-09-28||||m|
 |Fie*w|2024-10-15|||||k<sub>pc</sub>|
-|BLK*7|2024-10-23||||m|
-|Nxe*t|2024-11-15|||||k<sub>pc</sub>|
-|lar*3|2024-12-10||||m|
+|BLK*7|2024-10-23||||m|||Y|
+|Nxe*t|2024-11-15|||||k<sub>pc</sub>|||Y|
+|lar*3|2024-12-10||||m|||Y|
 |Swi*7|2025-01-05|||||k<sub>pc</sub>|
-|Uri*0|2025-01-05|||||k|
+|Uri*0|2025-01-05|||||k|||Y|
 |And*1|2025-02-16|||||k<sub>pc</sub>|
 |Ric*y|2025-02-21|||||k<sub>pc</sub>|
-|Ban*s|2025-02-21|||||k<sub>pc</sub>|
 
 |Ex-member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |--|--|--|--|--|--|--|
@@ -155,3 +154,4 @@
 |Web*o|2024-08-17|||||k<sub>pc</sub>|
 |Art*7, Qui\*r, 357\*s|2024-01-05||UTC-7?||m||W|
 |Lem*2|2025-01-17|||||k|
+|Ban*s|2025-02-21|||||k<sub>pc</sub>|
