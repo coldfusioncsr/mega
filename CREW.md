@@ -26,9 +26,8 @@
 |Nxe*t|2024-11-15|||||k<sub>pc</sub>|||Y|
 |lar*3|2024-12-10||||m|||Y|
 |Swi*7|2025-01-05|||||k<sub>pc</sub>|
-|Uri*0|2025-01-05|||||k|||Y|
+|Uri*0|2025-01-05||||m||||Y|
 |And*1|2025-02-16|||||k<sub>pc</sub>|
-|Ric*y|2025-02-21|||||k<sub>pc</sub>|
 
 |Ex-member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |--|--|--|--|--|--|--|
@@ -155,3 +154,4 @@
 |Art*7, Qui\*r, 357\*s|2024-01-05||UTC-7?||m||W|
 |Lem*2|2025-01-17|||||k|
 |Ban*s|2025-02-21|||||k<sub>pc</sub>|
+|Ric*y|2025-02-21|||||k<sub>pc</sub>|
