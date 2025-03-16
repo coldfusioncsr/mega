@@ -17,7 +17,6 @@
 |Pen*a, Aco\*2|2024-02-24||UTC+1?||m||W|Y|
 |Asi*s|2024-03-18|||||k<sub>pc</sub>|
 |fou*f, Jul\*e|2024-05-11||||m|
-|adr*-|2024-07-18|||||k<sub>pc</sub>|
 |Van*g|2024-09-05||||m|||Y|
 |pnc*2|2024-09-28||||m|
 |Dev*3|2024-09-28||||m|
@@ -27,6 +26,7 @@
 |lar*3|2024-12-10||||m|||Y|
 |Swi*7|2025-01-05|||||k<sub>pc</sub>|
 |Uri*0|2025-01-05||||m||||Y|
+|Por*e|2025-02-09|||||k<sub>pc</sub>|
 |And*1|2025-02-16|||||k<sub>pc</sub>|
 
 |Ex-member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
@@ -153,5 +153,6 @@
 |Web*o|2024-08-17|||||k<sub>pc</sub>|
 |Art*7, Qui\*r, 357\*s|2024-01-05||UTC-7?||m||W|
 |Lem*2|2025-01-17|||||k|
+|adr*-|2024-07-18|||||k<sub>pc</sub>|
 |Ban*s|2025-02-21|||||k<sub>pc</sub>|
 |Ric*y|2025-02-21|||||k<sub>pc</sub>|
