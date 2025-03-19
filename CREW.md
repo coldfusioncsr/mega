@@ -1,6 +1,6 @@
 # Crew
 
-|&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|1m+RP|0.1m+PD|🔶WEC|Tournements|
+|&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|📘1m+RP|📘0.1m+PD|🔶WEC|🏆Tournements|
 |--|--|--|--|--|--|--|--|--|
 |ROO*0|2023-06|NSW, AUS|UTC+10 [AET](https://www.timeanddate.com/time/zones/aet)|L|m||W|Y|
 |R*R|2024-03-09|Philippines?|UTC+8?|A (2nd half)|m||W|Y|
@@ -16,18 +16,20 @@
 |KMH*Z|2024-01-21|UK?|UTC?||m||W|Y|
 |Pen*a, Aco\*2|2024-02-24||UTC+1?||m||W|Y|
 |Asi*s|2024-03-18|||||k<sub>pc</sub>|
-|fou*f, Jul\*e|2024-05-11||||m|
+|fou*f, Jul\*e|2024-05-11||||m|||Y|
 |Van*g|2024-09-05||||m|||Y|
 |pnc*2|2024-09-28||||m|
 |Dev*3|2024-09-28||||m|
 |Fie*w|2024-10-15|||||k<sub>pc</sub>|
 |BLK*7|2024-10-23||||m|||Y|
-|Nxe*t|2024-11-15|||||k<sub>pc</sub>|||Y|
+|Nxe*t|2024-11-15|||||k<sub>pc</sub>||Y|
 |lar*3|2024-12-10||||m|||Y|
 |Swi*7|2025-01-05|||||k<sub>pc</sub>|
-|Uri*0|2025-01-05||||m||||Y|
+|Uri*0|2025-01-05||||m|||Y|
 |Por*e|2025-02-09|||||k<sub>pc</sub>|
 |And*1|2025-02-16|||||k<sub>pc</sub>|
+|Hub*i, mis\*1|2025-03-14|||||k|
+|All*s|2025-03-14|||||k||Y|
 
 |Ex-member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |--|--|--|--|--|--|--|
