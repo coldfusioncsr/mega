@@ -13,9 +13,7 @@
 |zer*l, Nim\*0|2023-10||UTC+5?||m||W|Y|
 |Cha*e|2023-11|China?|UTC+8?|||k<sub>pc</sub>|W|
 |Ser*1, Pur\*4|2023-11|Russia?|UTC+3?||m||W|Y|
-|KMH*Z|2024-01-21|UK?|UTC?||m||W|Y|
 |Pen*a, Aco\*2|2024-02-24||UTC+1?||m||W|Y|
-|fou*f, Jul\*e|2024-05-11||||m|||Y|
 |Van*g|2024-09-05||||m|||Y|
 |pnc*2|2024-09-28||||m|
 |Dev*3|2024-09-28||||m|
@@ -29,6 +27,8 @@
 |Hub*i, mis\*1|2025-03-14|||||k|
 |All*s|2025-03-14|||||k||Y|
 |Fli*n|2025-03-23|||||k<sub>pc</sub>|
+|yua*5|2025-04-08|||||k|
+|Geg*g|2025-04-17|||||k<sub>pc</sub>|
 
 |Ex-member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |--|--|--|--|--|--|--|
@@ -159,3 +159,5 @@
 |Ric*y|2025-02-21|||||k<sub>pc</sub>|
 |Swi*7|2025-01-05|||||k<sub>pc</sub>|
 |Asi*s|2024-03-18|||||k<sub>pc</sub>|
+|fou*f, Jul\*e|2024-05-11||||m|||Y|
+|KMH*Z|2024-01-21|UK?|UTC?||m||W|Y|
