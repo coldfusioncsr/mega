@@ -22,12 +22,12 @@
 |Nxe*t|2024-11-15|||||k<sub>pc</sub>||Y|
 |lar*3|2024-12-10||||m|||Y|
 |Uri*0|2025-01-05||||m|||Y|
-|Por*e|2025-02-09||||m|
-|And*1|2025-02-16|||||k<sub>pc</sub>|
-|Hub*i, mis\*1|2025-03-14|||||k|
+|Por*e|2025-02-09||||m|||Y|
+|And*1|2025-02-16|||||k<sub>pc</sub>||Y|
+|Hub*i, mis\*1|2025-03-14|||||k||Y|
 |All*s|2025-03-14|||||k||Y|
 |Fli*n|2025-03-23|||||k<sub>pc</sub>|
-|yua*5|2025-04-08|||||k|
+|yua*5|2025-04-08|||||k||Y|
 |Geg*g|2025-04-17|||||k<sub>pc</sub>|
 
 |Ex-member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
