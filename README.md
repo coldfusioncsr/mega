@@ -1,7 +1,7 @@
 # MEGA [Española](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en-US&_x_tr_pto=wapp), [中文](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=zh&_x_tr_hl=en-US&_x_tr_pto=wapp), [الأسبانية](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=ar&_x_tr_hl=en-US&_x_tr_pto=wapp), [Русский](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=en-US&_x_tr_pto=wapp), [Français](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=en-US&_x_tr_pto=wapp), [日本語](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=en-US&_x_tr_pto=wapp), [Deutsch](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en-US&_x_tr_pto=wapp), [dansk](https://github-com.translate.goog/coldfusioncsr/mega?_x_tr_sl=auto&_x_tr_tl=da&_x_tr_hl=en-US&_x_tr_pto=wapp)
 This crew is supposed to be friendly and supportive. We ride alongside each other to earn more rewards and have fun.
 
-## Play smartly while respect crew goals
+## Play smartly while align with crew goals
 To make the crew sustainable, members need to decrease playing time to no more than 1 hour per day.
 - Set reminders for `cup` events (high ROI, collaboration required), `Tournements`
 - Collect free **cars & parts**
@@ -14,7 +14,7 @@ To make the crew sustainable, members need to decrease playing time to no more t
 |--|--|--|--|
 ---
 ## Recruitment
-**Active players (Rank 80+, 600k RP/season, eligible for WEC) are needed. Make an in-app request on the last day of each season.**
+**Active players (18+yo, can read English with/without translator; eligible for `Weekly Elite Cup`; enjoy playing CSR2)** are needed. Make an in-app request on the last day of each season.
 
 Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are welcome to join back.
 
@@ -38,7 +38,7 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 ## g1 - How frequently do you play
 |Frequency|Tasks|
 |---------|-----|
-|Once a day|&#x1F536;Weekly Elite Cup(8), &#x1F4D8;Season events, &#x1F4D9;Daily Bonus, &#x1F4D7;Milestone rewards|
+|Once a day|🔶Weekly Elite Cup(8), 📘Season events, 📙Daily Bonus, Daily Reward, 📗Milestone rewards|
 |Every 8 hours|Live Races|
 |Every 4 hours|Daily Battles, Bronze Crates|
 ### World clock
@@ -96,12 +96,6 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 |Amount|1,037,785|	326,390 |	149,133 |6,463|
 |Limit|15,000|10,000|5,000|500|
 > Red elite parts are the most demanding
-#### Events to earn Yellow Elite Parts
-|Event|Races per member|Completion|Trophy rewards|Event prizes|ROI|
-|--|--:|--:|--:|--:|--:|
-|Weekly Elite Cup|40|15|--|--|0.375|
-|Showdown|500|6|30(e) / 35(c)|6(e) / 5(c)|0.012 - 0.092|
-> e for Elite Showdown, c for Champion Showdown
 
 - https://csr2racers.com/2020/12/09/elite-tuners-csr2-events-all-you-need-to-know/
 - https://www.reddit.com/r/CSRRacing2/comments/kfjbcc/weekly_elite_cup_rewards/
