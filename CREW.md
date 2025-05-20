@@ -25,10 +25,12 @@
 |And*1|2025-02-16|||||k<sub>pc</sub>||Y|
 |Hub*i, mis\*1|2025-03-14|||||k||Y|
 |All*s|2025-03-14|||||k||Y|
+|BLK*7|2025-03-30|||||k<sub>pc</sub>||Y|
 |yua*5|2025-04-08|||||k||Y|
-|Geg*g|2025-04-17|||||k<sub>pc</sub>|
-|Log*L|2025-04-27|||||k<sub>pc</sub>|
+|Geg*g|2025-04-17|||||k<sub>pc</sub>||Y|
 |Car*o|2025-05-04|||||k|
+|Aza*v|2025-05-16|||||k|
+|Exc*v|2025-05-19|||||k<sub>pc</sub>|
 
 |Ex-member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |--|--|--|--|--|--|--|
@@ -163,3 +165,4 @@
 |KMH*Z|2024-01-21|UK?|UTC?||m||W|Y|
 |Fli*n|2025-03-23|||||k<sub>pc</sub>|
 |モ*ㄨ, Adr\*z|2023-12-19|USA|UTC-6|a|m||W|
+|Log*L|2025-04-27|||||k<sub>pc</sub>|
