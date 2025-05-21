@@ -31,6 +31,7 @@
 |Car*o|2025-05-04|||||k|
 |Aza*v|2025-05-16|||||k|
 |Exc*v|2025-05-19|||||k<sub>pc</sub>|
+|Uns*3|2025-05-20|||||k|
 
 |Ex-member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |--|--|--|--|--|--|--|
