@@ -26,11 +26,11 @@
 |Hub*i, mis\*1|2025-03-14|||||k||Y|
 |All*s|2025-03-14|||||k||Y|
 |BLK*7|2025-03-30|||||k<sub>pc</sub>||Y|
-|yua*5|2025-04-08|||||k||Y|
+|yua*5|2025-04-08|||||k<sub>pc</sub>||Y|
 |Geg*g|2025-04-17||||m|||Y|
 |Car*o|2025-05-04|||||k|
 |Aza*v|2025-05-16|||||k|
-|Exc*v|2025-05-19|||||k<sub>pc</sub>|
+|Exc*v|2025-05-19||||m|
 |Uns*3|2025-05-20|||||k<sub>pc</sub>|
 
 |Ex-member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
