@@ -1,34 +1,34 @@
 # Crew
 
-|&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|📘1m+RP|📘0.1m+PD|🔶WEC|🏆Tournements|
-|--|--|--|--|--|--|--|--|--|
-|ROO*0|2023-06|NSW, AUS|UTC+10 [AET](https://www.timeanddate.com/time/zones/aet)|L|m||W|Y|
-|R*R|2024-03-09|Philippines?|UTC+8?|A (2nd half)|m||W|Y|
-|Mad*8, Tem\*0|2023-12-07|Germany|UTC+1 [CET](https://www.timeanddate.com/time/zones/cet)|A (1st half)|m||W|Y|
-|Orp*s|2023-10|Eastern USA|UTC-5 [EST](https://www.timeanddate.com/time/zones/est)|A (1st half)|m||W|Y|
-|Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5|a|m||W|Y|
-|LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A (2nd half)|m||W|
-|mel*!, Dan\*S|2023-12-25|Los Angeles California, USA|UTC-8|a|m||W|
-|zer*l, Nim\*0|2023-10||UTC+5?||m||W|Y|
-|Cha*e|2023-11|China?|UTC+8?|||k<sub>pc</sub>|W|
-|Ser*1, Pur\*4|2023-11|Russia?|UTC+3?||m||W|Y|
-|Pen*a, Aco\*2|2024-02-24||UTC+1?||m||W|Y|
-|Van*g|2024-09-05||||m|||Y|
-|pnc*2|2024-09-28||||m|
-|Fie*w|2024-10-15|||||k<sub>pc</sub>|
-|BLK*7|2024-10-23||||m|||Y|
-|Nxe*t|2024-11-15|||||k<sub>pc</sub>||Y|
-|lar*3|2024-12-10||||m|||Y|
-|Uri*0, Cri\*l|2025-01-05||||m|||Y|
-|Por*e, Aro\*s|2025-02-09||||m|||Y|
-|And*1|2025-02-16|||||k<sub>pc</sub>||Y|
-|Hub*i, mis\*1|2025-03-14|||||k||Y|
-|All*s|2025-03-14|||||k||Y|]
-|yua*5|2025-04-08|||||k<sub>pc</sub>||Y|
-|Geg*g|2025-04-17||||m|||Y|
-|Car*o|2025-05-04|||||k<sub>pc</sub>|
-|Exc*v|2025-05-19||||m|
-|Uns*3|2025-05-20||||m|
+|&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|📘RP|📘Tokens|🏆Tournements|
+|--|--|--|--|--|--|--|--|
+|ROO*0|2023-06|NSW, AUS|UTC+10 [AET](https://www.timeanddate.com/time/zones/aet)|L|m💻|h|Y|
+|R*R|2024-03-09|Philippines?|UTC+8?|A (2nd half)|m💻|h|Y|
+|Mad*8, Tem\*0|2023-12-07|Germany|UTC+1 [CET](https://www.timeanddate.com/time/zones/cet)|A (1st half)|m💻|h|Y|
+|Orp*s|2023-10|Eastern USA|UTC-5 [EST](https://www.timeanddate.com/time/zones/est)|A (1st half)|m💻|h|Y|
+|Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5|a|m💻|h|Y|
+|LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A (2nd half)|m💻|h|⚠️|
+|mel*!, Dan\*S|2023-12-25|Los Angeles California, USA|UTC-8|a|m💻|h|⚠️|
+|zer*l, Nim\*0|2023-10||UTC+5?||m💻|h|Y|
+|Cha*e|2023-11|China?|UTC+8?||💻k|h|⚠️|
+|Ser*1, Pur\*4|2023-11|Russia?|UTC+3?||m💻|h|Y|
+|Pen*a, Aco\*2|2024-02-24||UTC+1?||m💻|h|Y|
+|Van*g|2024-09-05||||m💻|k|Y|
+|pnc*2|2024-09-28||||m💻|h|⚠️|
+|Fie*w|2024-10-15||||💻k|⚠️0|⚠️|
+|BLK*7|2024-10-23||||m💻|⚠️|Y|
+|Nxe*t|2024-11-15||||💻k|h|Y|
+|lar*3|2024-12-10||||m💻|h|Y|
+|Uri*0, Cri\*l|2025-01-05||||m💻|h|Y|
+|Por*e, Aro\*s|2025-02-09||||m💻|k|Y|
+|And*1|2025-02-16||||💻k|h|Y|
+|Hub*i, mis\*1|2025-03-14||||k|h|Y|
+|All*s|2025-03-14||||k|h|Y|
+|yua*5|2025-04-08||||💻k|⚠️0|Y|
+|Geg*g|2025-04-17||||m💻|h|Y|
+|Car*o|2025-05-04||||💻k|h|⚠️|
+|Exc*v|2025-05-19||||m💻|k|⚠️|
+|Uns*3|2025-05-20||||m💻|h|⚠️|
 
 |Ex-member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |--|--|--|--|--|--|--|
