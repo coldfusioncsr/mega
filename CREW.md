@@ -1,6 +1,8 @@
 # Crew
 
 > From 2025Q2
+> 
+> To be listed, you need to demonstrate that you earn 100k RP per day
 
 |&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|📘RP|📘Tokens|🏆Tournements|
 |--|--|--|--|--|--|--|--|
@@ -14,7 +16,7 @@
 |zer*l, Nim\*0|2023-10||UTC+5?||m💻|🎖️h|k|
 |Cha*e|2023-11|China?|UTC+8?||k|🎖️h|⚠️|
 |Ser*1, Pur\*4|2023-11|Russia?|UTC+3?||m💻|🎖️h|k|
-|Pen*a, Aco\*2|2024-02-24||UTC+1?||m💻|h|🎖️k|
+|Pee*a, Aco\*2|2024-02-24||UTC+1?||m💻|🎖️h|🎖️k|
 |Van*g|2024-09-05||||m💻|k🎖️|🎖️k|
 |pnc*2|2024-09-28||||m💻|🎖️h|⚠️|
 |Fie*w|2024-10-15||||💻k|⚠️0|⚠️|
