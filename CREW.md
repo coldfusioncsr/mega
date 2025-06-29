@@ -1,5 +1,7 @@
 # Crew
 
+> From 2025Q2
+
 |&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|📘RP|📘Tokens|🏆Tournements|
 |--|--|--|--|--|--|--|--|
 |ROO*0|2023-06|NSW, AUS|UTC+10 [AET](https://www.timeanddate.com/time/zones/aet)|L|m💻|🎖️h|🎖️k|
@@ -10,7 +12,7 @@
 |LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A (2nd half)|m💻|h|⚠️|
 |mel*!, Dan\*S|2023-12-25|Los Angeles California, USA|UTC-8|a|m💻|🎖️h|⚠️|
 |zer*l, Nim\*0|2023-10||UTC+5?||m💻|🎖️h|k|
-|Cha*e|2023-11|China?|UTC+8?||💻k|🎖️h|⚠️|
+|Cha*e|2023-11|China?|UTC+8?||k|🎖️h|⚠️|
 |Ser*1, Pur\*4|2023-11|Russia?|UTC+3?||m💻|🎖️h|k|
 |Pen*a, Aco\*2|2024-02-24||UTC+1?||m💻|h|🎖️k|
 |Van*g|2024-09-05||||m💻|k🎖️|🎖️k|
