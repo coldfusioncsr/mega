@@ -4,14 +4,14 @@
 > 
 > To be listed, you need to demonstrate that you earn 100k RP per day
 
-|&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|📘RP|📘Tokens|🏆Tournements|
-|--|--|--|--|--|--|--|--|
+|&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|📘RP|📘Tokens|🏆Tournements|🔶WEC|
+|--|--|--|--|--|--|--|--|--|
 |ROO*0|2023-06|NSW, AUS|UTC+10 [AET](https://www.timeanddate.com/time/zones/aet)|L|m💻|🎖️h|🎖️k|
 |R*R|2024-03-09|Philippines?|UTC+8?|A (2nd half)|m💻|🎖️h|k|
 |Mad*8, Tem\*0|2023-12-07|Germany|UTC+1 [CET](https://www.timeanddate.com/time/zones/cet)|A (1st half)|m💻|🎖️h|k|
 |Orp*s|2023-10|Eastern USA|UTC-5 [EST](https://www.timeanddate.com/time/zones/est)|A (1st half)|m💻|🎖️h|k|
 |Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5|a|m💻|🎖️h|k|
-|LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A (2nd half)|m💻|h|⚠️|
+|LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A (2nd half)|m💻|h|⚠️|⚠️|
 |mel*!, Dan\*S|2023-12-25|Los Angeles California, USA|UTC-8|a|m💻|🎖️h|⚠️|
 |zer*l, Nim\*0|2023-10||UTC+5?||m💻|🎖️h|k|
 |Cha*e|2023-11|China?|UTC+8?||k|🎖️h|⚠️|
@@ -19,18 +19,18 @@
 |Pee*a, Aco\*2|2024-02-24||UTC+1?||m💻|🎖️h|🎖️k|
 |Van*g|2024-09-05||||m💻|k🎖️|🎖️k|
 |pnc*2|2024-09-28||||m💻|🎖️h|⚠️|
-|Fie*w|2024-10-15||||💻k|⚠️0|⚠️|
-|BLK*7|2024-10-23||||m💻|⚠️|h|
+|Fie*w|2024-10-15||||💻k|⚠️0|⚠️|⚠️|
+|BLK*7|2024-10-23||||m💻|h|h|⚠️|
 |Nxe*t|2024-11-15||||💻k|🎖️h|k|
 |Uri*0, Cri\*l|2025-01-05||||m💻|🎖️h|k|
-|Por*e, Aro\*s|2025-02-09||||m💻|k🎖️|k|
-|And*1|2025-02-16||||💻k|🎖️h|k|
+|Por*e, Aro\*s|2025-02-09||||m💻|k🎖️|k|⚠️|
+|And*1|2025-02-16||||💻k|🎖️k|k|
 |Hub*i, mis\*1|2025-03-14||||💻k|🎖️h|k|
 |All*s|2025-03-14||||k|h|k|
 |yua*5|2025-04-08||||💻k|⚠️0|k|
 |Geg*g|2025-04-17||||m💻|🎖️h|h|
 |Car*o|2025-05-04||||m💻|🎖️h|h|
-|Ott*z|2025-05-12||||💻k|🎖️h|k|
+|Ott*z|2025-05-12||||💻k|🎖️h|k|⚠️|
 |Exc*v|2025-05-19||||m💻|k🎖️|h|
 |Uns*3|2025-05-20||||m💻|⚠️|k|
 ||
