@@ -2,7 +2,7 @@
 
 > From 2025Q2
 > 
-> To be listed, you need to demonstrate that you earn 100k RP per day
+> To be listed, you need to demonstrate that you earn 100k RP in a day
 
 |&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|📘RP|📘Tokens|🏆Tournements|🔶WEC|
 |--|--|--|--|--|--|--|--|--|
@@ -24,7 +24,7 @@
 |Nxe*t|2024-11-15||||💻k|🎖️h|k|
 |Uri*0, Cri\*l|2025-01-05||||m💻|🎖️h|k|
 |Por*e, Aro\*s|2025-02-09||||m💻|k🎖️|k|⚠️|
-|And*1|2025-02-16||||💻k|🎖️k|k|
+|And*1|2025-02-16||||💻k|k🎖️|k|
 |Hub*i, mis\*1|2025-03-14||||💻k|🎖️h|k|
 |All*s|2025-03-14||||k|h|k|⚠️|
 |yua*5|2025-04-08||||💻k|⚠️0|k|
@@ -32,10 +32,10 @@
 |Car*o|2025-05-04||||m💻|🎖️h|h|
 |Ott*z|2025-05-12||||💻k|🎖️h|k|
 |Exc*v|2025-05-19||||m💻|k🎖️|h|
-|Uns*3|2025-05-20||||m💻|⚠️|k|
+|Uns*3|2025-05-20|US?|||m💻|⚠️|k|
 |Cra*L|2025-05-30||||k|h|⚠️|
+|Jav*V|2025-06-06||||k|h|⚠️|
 |Gbo*B|2025-07-06||||k|⚠️|⚠️|
-||
 
 |Ex-Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|📘RP|📘Tokens|🏆Tournements|
 |--|--|--|--|--|--|--|--|
