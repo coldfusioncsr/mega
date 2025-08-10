@@ -3,9 +3,9 @@ This crew is supposed to be friendly and supportive. We ride alongside each othe
 
 ## Play smartly while align with crew goals
 To make the crew sustainable, members need to decrease playing time to no more than 1 hour per day.
-- Set reminders for `cup` events (high ROI, collaboration required), `Tournements`
+- Set reminders for `cup` events (Weely Elite, Token, Crew), `Tournements`
 - Collect free **cars & parts**
-- Earn **RP** without racing as many as possible
+- Earn **RP** without racing as much as possible
 - Donate **tokens** by second Tuesday. Activate a **wildcard** when racing high RP events (`Showdown`, `Live races`) intensively (50+ races)
 - Race againt bots in `Live races` to quickly earn **keys**
 
@@ -14,7 +14,7 @@ To make the crew sustainable, members need to decrease playing time to no more t
 |--|--|--|--|
 ---
 ## Recruitment
-**Active players (18+yo, can read English with/without translator; eligible for `Weekly Elite Cup`; enjoy playing CSR2)** are needed. Make an in-app request on the last day of each season.
+**Active players (18+yo, can read in English with/without translator; eligible for `Weekly Elite Cup`; enjoy playing CSR2)** are needed. Make an in-app request on the last day of each season.
 
 Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are welcome to join back.
 
@@ -27,13 +27,19 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 1. Some season events require you to join a crew
 2. To earn more rewards from crew essential events
 3. To have fun through good teamwork
+
+||To get season car|To play Tournemants|
+|--|--|--|
+|Requirement|>=20m crew RP|Top 5000 crew Rank|
+|MEGA|✅️|✅️|
 ---
 ## What are the crew goals?
 |👥Crew goals|👤Individual measures|👤Minimum: 60%|
 |--|--|--|
 |1. 25-30 [active](#g1---how-frequently-do-you-play) members|10:00 Mon - 9:59 Fri|
-|2. 900 wins of [`Weekly Elite Cup`](#g2---weekly-elite-cup) for **parts** every week|&#x2610; Win 40 races of WEC|25%|
-|3. [20m+ RP](#g3---20mil-rp) for prize **car** every CSR season|&#x2610; Donate 400 tokens <br> &#x2610; Contribute 667k RP|25% <br> 50%|
+|2. [20m+ RP](#g3---20mil-rp) for prize **car** every CSR season|&#x2610; Donate 400 tokens <br> &#x2610; Contribute 667k RP|10% <br> 50%|
+|3. 900 wins of [`Weekly Elite Cup`](#g2---weekly-elite-cup) for **parts** every week|&#x2610; Win 40 races of WEC|20%|
+|4. Tournements||20%|
 ---
 ## g1 - How frequently do you play
 |Frequency|Tasks|
@@ -62,6 +68,8 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 |📙|
 |📗|10 + 30|50|||50|
 |🥝(13d)|
+|Tournements(3d)|||d1|d2|d3|
+|Collections cup(3d)||||d1|d2|d3|||||d1|d2|d3|
 > d for day(s) to last
 
 |📗Milestone rewards|5k|124k|1.52m|5.4m|
