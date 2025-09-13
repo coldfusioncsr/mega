@@ -16,7 +16,7 @@
 |Mad*8, Tem\*0|2023-12-07|Germany|UTC+1 [CET](https://www.timeanddate.com/time/zones/cet)|A (1st half)|m💻|🎖️h|k|
 |Orp*s|2023-10|Eastern USA|UTC-5 [EST](https://www.timeanddate.com/time/zones/est)|A (1st half)|m💻|🎖️h|k|
 |Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5|a|m💻|🎖️h|k|
-|LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A (2nd half)|m💻|h|⚠️|
+|LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A (2nd half)|m💻|h|⚠️|⚠️x5|
 |mel*!, Dan\*S|2023-12-25|Los Angeles California, USA|UTC-8|a|m💻|🎖️h|⚠️|
 |zer*l, Nim\*0|2023-10||UTC+5?||m💻|🎖️h|k|
 |Cha*e|2023-11|China?|UTC+8?||💻k|🎖️h|⚠️|
@@ -24,21 +24,21 @@
 |Pee*a, Aco\*2|2024-02-24||UTC+1?||m💻|🎖️h|🎖️k|
 |Van*g|2024-09-05|||A (2nd half)|m💻|k🎖️|🎖️k|
 |pnc*2|2024-09-28||||m💻|🎖️h|⚠️|
-|Uri*0, Cri\*l|2025-01-05||||m💻|🎖️h|k|⚠️
+|Uri*0, Cri\*l|2025-01-05||||m💻|🎖️h|k|
 |And*1|2025-02-16||||💻k|k🎖️|k|
-|Hub*i, mis\*1|2025-03-14||||💻k|🎖️h|k|⚠️
 |All*s|2025-03-14||||k|🎖️h|k|⚠️|
 |yua*5|2025-04-08||||💻k|⚠️0|k|
 |Geg*g|2025-04-17||||m💻|🎖️h|h|
 |Car*o|2025-05-04||||m💻|🎖️h|h|⚠️
-|Ott*z|2025-05-12||||💻k|🎖️h|k|⚠️
-|Uns*3|2025-05-20|USA?|||m💻|⚠️|k|
-|Gbo*B, mrg\*b|2025-07-06||||k|h⚠️|⚠️|
+|Ott*z|2025-05-12||||💻k|🎖️h|k|
+|Uns*3|2025-05-20|USA?|||m💻|h|k|
+|Gbo*B, mrg\*b|2025-07-06||||k|h|
 |Ste*K|2025-07-22||||m💻|h|k|
 |Luc*F|2025-07-30||||💻k|h|⚠️|⚠️
-|Jes*e|2025-08-16||||k|
-|Loo*1|2025-08-19||||k|
-|Jes*R|2025-08-31||||k|
+|Jes*e|2025-08-16||||💻k|h|
+|Jes*R|2025-08-31||||💻k|h|
+|Smi*3|2025-09-01|||💻k|h|
+|sal*d|2025-09-07||||k|
 ||
 ||
 ||
@@ -55,6 +55,8 @@
 |Fie*w|2024-10-15||||💻k|h⚠️|⚠️|
 |Paa*4|2025-08-10||||k|h|
 |Nxe*t|2024-11-15||||💻k|🎖️h|k|
+|Hub*i, mis\*1|2025-03-14||||💻k|🎖️h|k|⚠️
+|Loo*1|2025-08-19||||k|⚠️
 
 |Ex-member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |--|--|--|--|--|--|--|
