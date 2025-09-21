@@ -3,8 +3,8 @@ This crew is supposed to be friendly and supportive. We ride alongside each othe
 
 ## Play smartly while align with crew goals
 To make the crew sustainable, members need to decrease playing time to no more than 1 hour per day.
-- Set reminders for `cup` events (Weely Elite, Token, Crew), `Tournements`
-- Collect free **cars & parts**
+- Set reminders for high ROI(Return On Investment) events, `cup` (Weely Elite, Token, Crew), `Tournaments`
+- Collect free **cars & parts** daily
 - Earn **RP** without racing as much as possible
 - Donate **tokens** by second Tuesday. Activate a **wildcard** when racing high RP events (`Showdown`, `Live races`) intensively (50+ races)
 - Race againt bots in `Live races` to quickly earn **keys**
@@ -28,7 +28,7 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 2. To earn more rewards from crew essential events
 3. To have fun through good teamwork
 
-||To get season car|To play Tournemants|
+||To get season car|To play Tournaments|
 |--|--|--|
 |Requirement|>=20m crew RP|Top 5000 crew Rank|
 |MEGA|✅️|✅️|
@@ -37,14 +37,14 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 |👥Crew goals|👤Individual measures|👤Minimum: 60%|
 |--|--|--|
 |1. 25-30 [active](#g1---how-frequently-do-you-play) members|10:00 Mon - 9:59 Fri|
-|2. [20m+ RP](#g3---20mil-rp) for prize **car** every CSR season|&#x2610; Donate 400 tokens <br> &#x2610; Contribute 667k RP|10% <br> 50%|
-|3. 900 wins of [`Weekly Elite Cup`](#g2---weekly-elite-cup) for **parts** every week|&#x2610; Win 40 races of WEC|20%|
-|4. Tournements||20%|
+|2. [20m+ 📘RP](#g3---20mil-rp) for prize **car** every CSR season|&#x2610; Donate 400 tokens <br> &#x2610; Contribute 667k RP|10% <br> 50%|
+|3. 900 wins of [`🔶Weekly Elite Cup`](#g2---weekly-elite-cup) for **parts** every week|&#x2610; Win 40 races of WEC|20%|
+|4. 🏆Tournaments for `car credits` every CSR season|&#x2610; Complete 6 races|20%|
 ---
 ## g1 - How frequently do you play
 |Frequency|Tasks|
 |---------|-----|
-|Once a day|🔶Weekly Elite Cup(8), 📘Season events, 📙Daily Bonus, Daily Reward, 📗Milestone rewards|
+|Once a day|🔶Weekly Elite Cup(8), 📘Season events, 📙Daily Bonus, ✚Daily Reward(Free gift), 📗Milestone rewards|
 |Every 8 hours|Live Races|
 |Every 4 hours|Daily Battles, Bronze Crates|
 ### World clock
@@ -68,7 +68,7 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 |📙|
 |📗|10 + 30|50|||50|
 |🥝(13d)|
-|Tournements(3d)|||d1|d2|d3|
+|🏆Tournaments(3d)|||d1|d2|d3|
 |Collections cup(3d)||||d1|d2|d3|||||d1|d2|d3|
 > d for day(s) to last
 
@@ -129,6 +129,7 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 |Race pass(3 x 14)|car, parts, tokens|325k/other season|4hr/Season|
 |Legends events|Fusion parts||
 |Elite events|Elite parts||
+|Collections cup, Tournaments|Car credits||
 |Theme/special events|||
 
 > It takes &#x2248;30s to complete 1 race or to refuel 2 pips
