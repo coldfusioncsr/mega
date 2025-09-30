@@ -1,6 +1,6 @@
 # Crew
 
-> From 2025Q2
+> From 2025Q3
 > 
 > To be listed, you need to demonstrate that you earn 100k RP in a day
 >
@@ -9,19 +9,20 @@
 > 📘Tokens: k > 🎖️ > h > ⚠️ > 0
 > 
 > 🏆: 🎖️ > k > h > ⚠️
+> 🔶WEC: ⚠️(<=-3)
 
-|&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|📘RP|📘Tokens|🏆Tournements|🔶WEC|
+|&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|📘RP|📘Tokens|🏆Tournaments|🔶WEC|
 |--|--|--|--|--|--|--|--|--|
 |ROO*0|2023-06|NSW, AUS|UTC+10 [AET](https://www.timeanddate.com/time/zones/aet)|L|m💻|🎖️h|🎖️k|
 |Mad*8, Tem\*0|2023-12-07|Germany|UTC+1 [CET](https://www.timeanddate.com/time/zones/cet)|A (1st half)|m💻|🎖️h|k|
 |Orp*s|2023-10|Eastern USA|UTC-5 [EST](https://www.timeanddate.com/time/zones/est)|A (1st half)|m💻|🎖️h|k|
 |Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5|a|m💻|🎖️h|k|
-|LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|A (2nd half)|m💻|h|⚠️|⚠️x6|
+|LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|a|m💻|h|⚠️|⚠️x6|
 |mel*!, Dan\*S|2023-12-25|Los Angeles California, USA|UTC-8|a|m💻|🎖️h|⚠️|
 |zer*l, Nim\*0|2023-10||UTC+5?||m💻|🎖️h|k|
 |Cha*e|2023-11|China?|UTC+8?||💻k|🎖️h|⚠️|⚠️
 |Ser*1, Pur\*4|2023-11|Russia?|UTC+3?||m💻|🎖️h|k|
-|Pee*a, Aco\*2|2024-02-24||UTC+1?||m💻|🎖️h|🎖️k|
+|Pee*a, Aco\*2|2024-02-24|A (2nd half)|UTC+1?||m💻|🎖️h|🎖️k|
 |Van*g|2024-09-05|||A (2nd half)|m💻|k🎖️|🎖️k|
 |pnc*2|2024-09-28||||m💻|🎖️h|⚠️|
 |Uri*0, Cri\*l|2025-01-05||||m💻|🎖️h|k|
@@ -31,14 +32,14 @@
 |Geg*g|2025-04-17||||m💻|🎖️h|h|
 |Car*o|2025-05-04||||m💻|🎖️h|h|⚠️
 |Uns*3|2025-05-20|USA?|||m💻|h|k|
-|Gbo*B, mrg\*b|2025-07-06||||k|h|
 |Ste*K|2025-07-22||||m💻|h|k|
-|Jes*e|2025-08-16||||💻k|h|
-|Jes*R|2025-08-31||||💻k|h|
+|Jes*e|2025-08-16||||m💻|🎖️h|h|
+|50k*L|2025-08-25||||m💻|🎖️h|h|
 |Smi*3|2025-09-01||||💻k|h|k|
-|Col*n|2005-09-02||||💻k|h|
-|joz*6|2005-09-03||||💻k|h|
-|sal*d|2025-09-07||||k|
+|Col*n|2005-09-02||||m💻|🎖️h|⚠️|
+|joz*6|2005-09-03||||m💻|🎖️h|h|
+|sal*d|2025-09-07||||k|h|h|
+|Mik*r|2025-09-21||||k||⚠️|
 ||
 ||
 ||
@@ -59,6 +60,8 @@
 |Luc*F|2025-07-30||||💻k|h|⚠️|⚠️
 |Loo*1|2025-08-19||||k|⚠️
 |Ott*z|2025-05-12||||💻k|🎖️h|k|⚠️
+|Gbo*B, mrg\*b|2025-07-06||||k|h|⚠️|⚠️
+|Jes*R|2025-08-31||||💻k|h|⚠️|⚠️
 
 |Ex-member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |--|--|--|--|--|--|--|
