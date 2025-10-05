@@ -3,20 +3,20 @@ This crew is supposed to be friendly and supportive. We ride alongside each othe
 
 ## Play smartly while align with crew goals
 To make the crew sustainable, members need to decrease playing time to no more than 1 hour per day.
-- Set reminders for high ROI(Return On Investment) events, `cup` (Weely Elite, Token, Crew), `Tournaments`
+- ☝️Set reminders for high ROI(Return On Investment) events, `cup` (🔶Weely Elite, Token, Crew), `🏆Tournaments`
 - Collect free **cars & parts** daily
 - Earn **RP** without racing as much as possible
 - Donate **tokens** by second Tuesday. Activate a **wildcard** when racing high RP events (`Showdown`, `Live races`) intensively (50+ races)
 - Race againt bots in `Live races` to quickly earn **keys**
 
-**🏆Elite car collection milestones**
-|1. McLaren F1|2. Toyota Supra Mk4|3. Ford GT40 Mk2 #1|4. McLaren F1 LM|
-|--|--|--|--|
+**🏆Elite 🚗car collection milestones**
+|&#x2610; McLaren F1|&#x2610; Toyota Supra Mk4|&#x2610; Ford GT40 Mk2 #1|&#x2610; McLaren F1 LM|&#x2610; Cobra Daytona Coupe|
+|--|--|--|--|--|
 ---
 ## Recruitment
 **Active players (18+yo, can read in English with/without translator; eligible for `Weekly Elite Cup`; enjoy playing CSR2)** are needed. Make an in-app request on the last day of each season.
 
-Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are welcome to join back.
+Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, R\*R, you are welcome to join back.
 
 ## Why do you play this game?
 **Family 1st, work 2nd, game 3rd.**
@@ -30,13 +30,13 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 
 ||To get season car|To play Tournaments|
 |--|--|--|
-|Requirement|>=20m crew RP|Top 5000 crew Rank|
+|Requirement|>=20m crew RP|Top 5,000 crew Rank (& Level 60 member rank)|
 |MEGA|✅️|✅️|
 ---
 ## What are the crew goals?
 |👥Crew goals|👤Individual measures|👤Minimum: 60%|
 |--|--|--|
-|1. 25-30 [active](#g1---how-frequently-do-you-play) members|10:00 Mon - 9:59 Fri|
+|1. 25-30 [active](#g1---how-frequently-do-you-play) members|10:00 Mon - 10:00 Fri|
 |2. [20m+ 📘RP](#g3---20mil-rp) for prize **car** every CSR season|&#x2610; Donate 400 tokens <br> &#x2610; Contribute 667k RP|10% <br> 50%|
 |3. 900 wins of [`🔶Weekly Elite Cup`](#g2---weekly-elite-cup) for **parts** every week|&#x2610; Win 40 races of WEC|20%|
 |4. 🏆Tournaments for `car credits` every CSR season|&#x2610; Complete 6 races|20%|
@@ -44,7 +44,7 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 ## g1 - How frequently do you play
 |Frequency|Tasks|
 |---------|-----|
-|Once a day|🔶Weekly Elite Cup(8), 📘Season events, 📙Daily Bonus, ✚Daily Reward(Free gift), 📗Milestone rewards|
+|☝️Once a day|🔶Weekly Elite Cup(8), 📘Season events, 📙Daily Bonus, ✚Daily Reward(Free gift), 📗Milestone rewards|
 |Every 8 hours|Live Races|
 |Every 4 hours|Daily Battles, Bronze Crates|
 ### World clock
@@ -53,8 +53,8 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 ||UTC-10|UTC-7|UTC-4|UTC/GMT|UTC+3|UTC+8|UTC+10|
 |--|--|--|--|--|--|--|--|
 |Cities|Honolulu|Los Angeles|New York|London|Moscow, Doha|Beijing, Manila|Sydney|
-|Time|🌙0:00|🌙3:00|🌙6:00|10:00|13:00|18:00|20:00|
-|Time|14:00|17:00|20:00|🌙0:00|🌙3:00|8:00|10:00|
+|🔶r1|🌙0:00|🌙3:00|🌙6:00|10:00|13:00|18:00|20:00|
+|🔶r2-r5|14:00|17:00|20:00|🌙0:00|🌙3:00|8:00|10:00|
 
 ---
 - [**Season Schedule (Recommended)**](https://docs.google.com/spreadsheets/d/1jsgWgXeBoPMRBNFMbDjJLuDbk90S9DuI_o8sPuSyBmI/htmlview), [Season Schedule by BLACKTOP BEASTS TEAM](https://docs.google.com/spreadsheets/d/1iKkwmLYEPRktXw17auU2egdTSyIu6i1JdWZzMrI3wPk/edit), 
@@ -62,13 +62,13 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 
 |Day (UTC)|Thu 1|Fri 2|Sat 3|Sun 4|Mon 5|Tue 6|Wed 7|Thu 8|Fri 9|Sat 10|Sun 11|Mon 12|Tue 13|Wed 14|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|🔶Weekly elite cup (8)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)|(1d)|0:00 - 9:59|||10:00 - 23:59|(1d)|(1d)||
+|☝️🔶Weekly elite cup (8)|(1d)|0:00 - 10:00|||10:00 - 23:59|(1d)|(1d)|(1d)|0:00 - 10:00|||10:00 - 23:59|(1d)|(1d)||
 |📘Token events (1)|40 (3d)||20 (2d)||||50 (1d)|20 (PC #7)|40 (3d)|||20 (1d)|50 (PC #19)||
 |📘RP events|||30k (2d)|34.5k (2d)|86.4k (2d)||30k (1d) + 34.5k (2d)|300k (PC)||34.5 (2d)||30k (1d)|120.9k (2d)||
 |📙|
 |📗|10 + 30|50|||50|
 |🥝(13d)|
-|🏆Tournaments(3d)|||d1|d2|d3|
+|☝️🏆Tournaments(3d)|||d1|d2|d3|
 |Collections cup(3d)||||d1|d2|d3|||||d1|d2|d3|
 > d for day(s) to last
 
@@ -78,10 +78,15 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 |Tokens|10|30|50|50|
 > Season Day to collect `milestone rewards` varies in crew performance.
 
-|📙Daily bonus|4th|11th|18th|25th|
-|--|--|--|--|--|
+|📙Daily bonus|day 4|day 11|day 18|day 25|day 26|day 28|
+|--|--|--|--|--|--|--|
 |Tokens|30|50|30|100|
+|Gold keys|||||1|3|
 > Season Day to collect `daily bonus` varies from player to player. And first day overlaps last day for collecting daily bonus.
+
+|✚Daily Reward|day 1|day 2|day 3|day 4|day 5|day 6|day 7|Bonus|
+|--|--|--|--|--|--|--|--|--|
+|Reward|10 Gold coins|10,000 Cash|100 Green elite parts|15,000 Cash|50 Bronze keys|50 Blue elite parts|20,000 Cash|☝️3 Gold keys|
 
 ### Options to refuel
 ||1. Natual|2. Video AD (2 pips per view)|3. Gold coin (10 pips per 20 GC)|
@@ -97,7 +102,7 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, you are 
 |&#x1F536;Schedule (UTC/GMT)|Mon|Tue,Wed,Thu|Fri|
 |--:|--:|--:|--:|
 |Round|1|2, 3, 4|5|
-|Time block|10:00 - 23:59|0:00 - 23:59|0:00 - 09:59|
+|Time block|10:00 - 0:00|0:00 - 0:00|0:00 - 10:00|
 #### Elite Parts For The Whole Elite Customs Expansion
 |Total|Green E.P.|Blue E.P.|Pink E.P.|Yellow E.P.|
 |--|--:|--:|--:|--:|
@@ -157,9 +162,9 @@ Crew RP drops to 23m or less; WEC races won drops to 500 or less.
 ---
 ## Other resources
 - https://github.com/wear87/CSR2-Racing-Collection
-- **Cars** https://csr2racers.com/2020/01/11/all-the-csr2-cars-with-tune-and-shift-pattern-for-the-best-time/, https://www.allclash.com/csr2-all-cars-best-tuning-chart/, https://csrracing.fandom.com/wiki/Category:Season_Prize
+- **🚗Cars** https://csr2racers.com/2020/01/11/all-the-csr2-cars-with-tune-and-shift-pattern-for-the-best-time/, https://www.allclash.com/csr2-all-cars-best-tuning-chart/, https://csrracing.fandom.com/wiki/Category:Season_Prize
 - **Keys** [bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them](https://csr2racers.com/2020/01/01/bronze-silver-and-gold-keys-in-csr2-how-to-earn-a-lot-of-them/), [management-guide-csr-racing-2](https://www.mobilesector.net/key-management-guide-csr-racing-2/), https://csr2boss.com/csr2-racing-live-races-guide-how-to-win-every-time/
-- **Elite** [Elite Tokens (Discontinued)](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPHrSP6Ttu1Ctc7_jTQRtXIQFd9-9emCuc8oe_FtnLSjvJBj7e3OM8sNjCo8dVb901kyRqFvr-Inng/pubhtml), [Elite Customs Spreadsheet by【ᴛʜᴇ ᴄʀᴏᴡ】(Updated to 2025-02-18)](https://docs.google.com/spreadsheets/u/0/d/1qyBB2G_HQjzrBS6jF0sxosxJwAdXaB8DAGmmtP76f-4/htmlview), [elite-custom-token-limits](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/17467-elite-custom-token-limits/), [Elite Customs Expansion](https://www.reddit.com/r/CSRRacing2/comments/k0e3ew/elite_customs_expansion/)
-- [**Collections**](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/21270-collections/) [Introducing Collections](https://www.csr-racing.com/news/introducing-collections-a-new-way-to-experience-csr2), [CSR2 Collections Guide and Basic Tutorial](https://www.youtube.com/watch?v=IMWL65yucw8), [Collections Tournament](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/21444-collections-tournament/), [Tournaments are available to anyone above Level 60, and whose crew finished in the Top 5,000 last season.](https://www.facebook.com/csrracinggame/posts/987451606757718/)
+- **🚗Elite** [Elite Tokens (Discontinued)](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPHrSP6Ttu1Ctc7_jTQRtXIQFd9-9emCuc8oe_FtnLSjvJBj7e3OM8sNjCo8dVb901kyRqFvr-Inng/pubhtml), [Elite Customs Spreadsheet by【ᴛʜᴇ ᴄʀᴏᴡ】(Updated to 2025-02-18)](https://docs.google.com/spreadsheets/u/0/d/1qyBB2G_HQjzrBS6jF0sxosxJwAdXaB8DAGmmtP76f-4/htmlview), [elite-custom-token-limits](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/17467-elite-custom-token-limits/), [Elite Customs Expansion](https://www.reddit.com/r/CSRRacing2/comments/k0e3ew/elite_customs_expansion/)
+- [**🚗Collections**](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/21270-collections/) [Introducing Collections](https://www.csr-racing.com/news/introducing-collections-a-new-way-to-experience-csr2), [CSR2 Collections Guide and Basic Tutorial](https://www.youtube.com/watch?v=IMWL65yucw8), [Collections Tournament](https://zyngasupport.helpshift.com/hc/en/55-csr-2/faq/21444-collections-tournament/), [Tournaments are available to anyone above Level 60, and whose crew finished in the Top 5,000 last season.](https://www.facebook.com/csrracinggame/posts/987451606757718/)
 - **Crew rules** https://csr2btb.wordpress.com/2020/04/09/crew-rules-%ef%bc%88read-first%ef%bc%89/
 - **Events** [prestige-cup](https://www.allclash.com/prestige-cup-gold-cup-crew-milestone-cars-with-tuning-shift-pattern/), [prestige_cup_tips](https://www.reddit.com/r/CSRRacing2/comments/fr5ra7/prestige_cup_tips/), [Special events](https://www.allclash.com/csr2-event-guide-tunes-tips/), [Showdown events](https://www.allclash.com/csr2-showdown-guide/)
