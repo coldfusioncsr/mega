@@ -17,31 +17,29 @@
 |Mad*8, Tem\*0|2023-12-07|Germany|UTC+1 [CET](https://www.timeanddate.com/time/zones/cet)|A (1st half)|m💻|🎖️h|k|
 |Orp*s|2023-10|Eastern USA|UTC-5 [EST](https://www.timeanddate.com/time/zones/est)|A (1st half)|m💻|🎖️h|k|
 |Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5|a|m💻|🎖️h|k|
-|mel*!, Dan\*S|2023-12-25|Los Angeles California, USA|UTC-8|a|m💻|🎖️h|⚠️|⚠️
+|mel*!, Dan\*S|2023-12-25|Los Angeles California, USA|UTC-8|a|m💻|🎖️h|⚠️|
 |zer*l, Nim\*0|2023-10||UTC+5?||m💻|🎖️h|k|
 |Cha*e|2023-11|China?|UTC+8?||💻k|🎖️h|⚠️|
 |Ser*1, Pur\*4|2023-11|Russia?|UTC+3?||m💻|🎖️h|k|
 |Pee*a, Aco\*2|2024-02-24||UTC+1?|A (2nd half)|m💻|🎖️h|🎖️k|
 |Van*g|2024-09-05|||A (2nd half)|m💻|k🎖️|🎖️k|
 |pnc*2|2024-09-28||||m💻|🎖️h|⚠️|
-|Uri*0, Cri\*l|2025-01-05||||m💻|🎖️h|k|⚠️
+|Uri*0, Cri\*l|2025-01-05||||m💻|🎖️h|k|
 |And*1|2025-02-16||||💻k|k🎖️|k|
 |yua*5|2025-04-08||||💻k|⚠️0|k|
 |Geg*g|2025-04-17||||m💻|🎖️h|k|
-|Car*o|2025-05-04||||m💻|🎖️h|h|
+|Car*o|2025-05-04||||m💻|🎖️h|h|⚠️
 |Uns*3|2025-05-20|USA?|||m💻|h|k|
 |Ste*K|2025-07-22||||m💻|h|k|
 |Jes*e|2025-08-16||||m💻|🎖️h|h|
 |Smi*3|2025-09-01||||💻k|🎖️h|k|
 |Col*n|2005-09-02||||m💻|🎖️h|k|
 |joz*6|2005-09-03||||m💻|🎖️h|h|
-|sal*d|2025-09-07||||k|h|k|
+|sal*d|2025-09-07||||k|🎖️h|k|
 |San*L|2025-09-30||||m💻|h|k|
-|SHA*A|2025-09-30|Russia?|||k|h|⚠️|⚠️
-|Moh*E|2025-10-05||||k|⚠️0|⚠️|
+|Moh*E|2025-10-05||||💻k|h|⚠️|
 |BMW*i|2025-10-05||||💻k|⚠️0|⚠️|
-|Bee*L|2025-10-12||||k||⚠️|
-|Lui*1|2025-10-15||||💻k|
+|Lui*1|2025-10-15||||💻k|h|k|
 
 |Ex-Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|📘RP|📘Tokens|🏆Tournements|🔶WEC|
 |--|--|--|--|--|--|--|--|--|
@@ -65,6 +63,8 @@
 |LIL*L|2023-08|Stockton California, USA|UTC-8 [PST](https://www.timeanddate.com/time/zones/pst)|a|m💻|h|⚠️|⚠️x6|
 |50k*L|2025-08-25||||m💻|🎖️h|h|
 |Mik*r|2025-09-21||||k|h|⚠️|
+|Bee*L|2025-10-12||||k||⚠️|
+|SHA*A|2025-09-30|Russia?|||k|h|⚠️|⚠️
 
 |Ex-member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |--|--|--|--|--|--|--|
