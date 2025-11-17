@@ -11,7 +11,7 @@
 > 🏆: 🎖️ > k > h > ⚠️
 > 🔶WEC: ⚠️(<=-3)
 
-|&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|📘RP|📘Tokens|🏆Tournaments|🔶WEC|
+|&#x1F464;Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|📘RP (highest)|📘Tokens (highest)|🏆Tournaments (highest)|🔶WEC|
 |--|--|--|--|--|--|--|--|--|
 |ROO*0|2023-06|NSW, AUS|UTC+10 [AET](https://www.timeanddate.com/time/zones/aet)|L|m💻|🎖️h|🎖️k|
 |Mad*8, Tem\*0|2023-12-07|Germany|UTC+1 [CET](https://www.timeanddate.com/time/zones/cet)|A (1st half)|m💻|🎖️h|k|
