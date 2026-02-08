@@ -4,6 +4,7 @@ This crew is supposed to be friendly and supportive. We ride alongside each othe
 ## Play smartly while align with crew goals
 To make the crew sustainable, members need to decrease playing time to no more than 1 hour per day.
 - ☝️Set reminders for high ROI(Return On Investment) events, `cup` (🔶Weely Elite, Token, Crew), `🏆Tournaments`
+- Restart app when switching events to avoid Ads, while staying at an event as long as possible or until it is completed.
 - Collect free **cars & parts** daily
 - Earn **RP** without racing as much as possible
 - Donate **tokens** by second Tuesday. Activate a **wildcard** when racing high RP events (`Showdown`, `Live races`) intensively (50+ races)
@@ -91,9 +92,9 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, R\*R, yo
 ### Options to refuel
 ||1. Natual|2. Video AD (2 pips per view)|3. Gold coin (10 pips per 20 GC)|
 |--|--:|--:|--:|
-|Time to refuel 10 pips|1h16m|3m|10s|
+|Time to refuel 10 pips|53m20s - 1h16m|3m|10s|
 
-> 1. Naturally refueling 1 pip takes 7m36s, 1h16m for full tank (10 pips)
+> 1. Naturally refueling 1 pip takes 5m20s - 7m36s, 53m20s - 1h16m for full tank (10 pips)
 > 2. Watching 1 **passive** video ad (5-60 secs), which pops up when fuel pips drop below 6, recieves 2 fuel pips. Comparably, proactively watching 1 ad recieves only 1 fuel pip. [A guide to watching Ads](https://www.reddit.com/r/CSRRacing2/comments/c4x6hc/a_guide_to_watching_ads/)
 > 3. Spending 20 gold coins to instantly refuel 10 pips
 
