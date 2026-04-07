@@ -16,7 +16,6 @@
 |ROO*0|2023-06|NSW, AUS|UTC+10 [AET](https://www.timeanddate.com/time/zones/aet)|L|m💻|🎖️h|🎖️k|
 |Mad*8, Tem\*0|2023-12-07|Germany|UTC+1 [CET](https://www.timeanddate.com/time/zones/cet)|A (1st half)|m💻|🎖️h|k|
 |Orp*s|2023-10|Eastern USA|UTC-5 [EST](https://www.timeanddate.com/time/zones/est)|A (1st half)|m💻|k🎖️|k|
-|Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5|a|m💻|🎖️h|k|⚠️x2
 |mel*!, Dan\*S|2023-12-25|Los Angeles California, USA|UTC-8|a|m💻|k🎖️|⚠️|
 |zer*l, Nim\*0|2023-10|Malaysia?|UTC+5?||m💻|🎖️h|k|
 |Pee*a, Aco\*2|2024-02-24||UTC+1?|A (2nd half)|m💻|🎖️h|🎖️k|
@@ -30,7 +29,6 @@
 |Col*n|2005-09-02||||m💻|🎖️h|k|
 |sal*d|2025-09-07||||💻k|🎖️h|k|
 |Lui*1|2025-10-15||||💻k|🎖️h|k|
-|Row*3|2025-10-27||||m💻|k🎖️|h|⚠️
 |Mar*F|2025-10-10||||💻k|🎖️h|h|
 |Elj*6|2025-12-09|Dominican Republic?|||m💻|🎖️h|k|
 |NO1*y|2025-12-14||||m💻|🎖️h|k|
@@ -41,6 +39,7 @@
 |Mea*3|2026-03-03||||k|h|⚠️|
 |Azn*s|2026-03-19||||k|
 |DES*L|2026-03-21||||💻k|
+|jaG*s|2026-04-04||||k|
 
 |Ex-Member|Joined|&#x2316;Location|&#x1F30D;Timezone|Role|📘RP|📘Tokens|🏆Tournements|🔶WEC|
 |--|--|--|--|--|--|--|--|--|
@@ -83,6 +82,8 @@
 |Arn*2|2026-03-07||||k|
 |IRI*S|2026-02-28||||k||⚠️|
 |Dar*5|2025-12-21||||k|🎖️h|h|
+|Row*3|2025-10-27||||m💻|k🎖️|h|⚠️
+|Jen*e, nin\*o|2023-12-11|Michigan, USA|UTC-5|a|m💻|🎖️h|k|⚠️x2
 
 |Ex-member|Joined|Location|Timezone|Role|1m+RP|0.1m+PD|
 |--|--|--|--|--|--|--|
