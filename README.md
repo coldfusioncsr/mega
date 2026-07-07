@@ -11,8 +11,8 @@ To make the crew sustainable, members need to decrease playing time to no more t
 - Race againt bots in `Live races` to quickly earn **keys**
 
 **🏆Elite 🚗car collection milestones**
-|&#x2610; McLaren F1|&#x2610; Toyota Supra Mk4|&#x2610; Ford GT40 Mk2 #1|&#x2610; McLaren F1 LM|&#x2610; Cobra Daytona Coupe|
-|--|--|--|--|--|
+|&#x2610; McLaren F1|&#x2610; Toyota Supra Mk4|&#x2610; Ford GT40 Mk2 #1|&#x2610; McLaren F1 LM|
+|--|--|--|--|
 ---
 ## Recruitment
 **Active players (18+yo, can read in English with/without translator; eligible for `Weekly Elite Cup`; enjoy playing CSR2)** are needed. Make an in-app request on the last day of each season.
