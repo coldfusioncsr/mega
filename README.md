@@ -2,16 +2,17 @@
 This crew is supposed to be friendly and supportive. We ride alongside each other to earn more rewards and have fun.
 
 ## Play smartly while align with crew goals
-To make the crew sustainable, members need to decrease playing time to no more than 1 hour per day.
-- ☝️Set reminders for high ROI(Return On Investment) events, `cup` (🔶Weely Elite, Token, Crew), `🏆Tournaments`
-- Restart app when switching events to avoid Ads, while staying at an event as long as possible or until it is completed.
+To keep the crew healthy long-term, please limit your daily playtime to a maximum of 1 hour. If you’re short on time, aim to spend 5–10 minutes on the ☝️ once-daily tasks.
+- Set reminders for high ROI(Return On Investment) events, `cup` (🔶Weely Elite, Token, Crew), `🏆Tournaments`
 - Collect free **cars & parts** daily
+- Donate **tokens** by second Tuesday.
+- Activate a wildcard when racing intensively in high-RP events (Showdown, Live Races) (50+ races)
+- Race against bots in `Live races` to quickly earn **keys**
 - Earn **RP** without racing as much as possible
-- Donate **tokens** by second Tuesday. Activate a **wildcard** when racing high RP events (`Showdown`, `Live races`) intensively (50+ races)
-- Race againt bots in `Live races` to quickly earn **keys**
+- Restart app when switching events to avoid **Ads**
 
 **🏆Elite 🚗car collection milestones**
-|&#x2610; McLaren F1|&#x2610; Toyota Supra Mk4|&#x2610; Ford GT40 Mk2 #1|&#x2610; McLaren F1 LM|
+|[x] McLaren F1|&#x2610; Toyota Supra Mk4|&#x2610; Ford GT40 Mk2 #1|&#x2610; McLaren F1 LM|
 |--|--|--|--|
 ---
 ## Recruitment
@@ -33,6 +34,14 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, R\*R, yo
 |--|--|--|
 |Requirement|>=20m crew RP|Top 5,000 crew Rank (& Level 60 member rank)|
 |MEGA|✅️|✅️|
+
+> This is a game we play after family and work. t’s completely okay to step away if something more important comes along.
+> 
+> If you choose to stay, please keep your crew obligations in mind: contributing to RP, and participating in the 🔶 Weekly Elite Cup and 🏆 Tournaments.
+> 
+> While we play anonymously, long-term members are still given preference since they’re already familiar with the crew’s rules.
+> 
+> To keep the crew competitive, inactive members will be removed. You’re always welcome to rejoin whenever you’re able to play actively again.
 ---
 ## What are the crew goals?
 |👥Crew goals|👤Individual measures|👤Minimum: 60%|
@@ -45,7 +54,7 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, R\*R, yo
 ## g1 - How frequently do you play
 |Frequency|Tasks|
 |---------|-----|
-|☝️Once a day|🔶Weekly Elite Cup(8), 📘Season events, 📙Daily Bonus, ✚Daily Reward(Free gift), 📗Milestone rewards|
+|☝️`Once a day`|🔶Weekly Elite Cup(8) & free Elite Parts conversion, 📘Season events, 📙Daily Bonus, ✚Daily Reward(Free gift), 📗Milestone rewards|
 |Every 8 hours|Live Races|
 |Every 4 hours|Daily Battles, Bronze Crates|
 ### World clock
@@ -63,7 +72,7 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, R\*R, yo
 
 |Day (UTC)|Thu 1|Fri 2|Sat 3|Sun 4|Mon 5|Tue 6|Wed 7|Thu 8|Fri 9|Sat 10|Sun 11|Mon 12|Tue 13|Wed 14|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|☝️🔶Weekly elite cup (8)|(1d)|0:00 - 10:00|||10:00 - 23:59|(1d)|(1d)|(1d)|0:00 - 10:00|||10:00 - 23:59|(1d)|(1d)||
+|☝️🔶Weekly elite cup (8)|(1d)|0:00 - 10:00|||10:00 - 0:00|(1d)|(1d)|(1d)|0:00 - 10:00|||10:00 - 0:00|(1d)|(1d)||
 |📘Token events (1)|40 (3d)||20 (2d)||||50 (1d)|20 (PC #7)|40 (3d)|||20 (1d)|50 (PC #19)||
 |📘RP events|||30k (2d)|34.5k (2d)|86.4k (2d)||30k (1d) + 34.5k (2d)|300k (PC)||34.5 (2d)||30k (1d)|120.9k (2d)||
 |📙|
@@ -87,24 +96,27 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, R\*R, yo
 
 |✚Daily Reward|day 1|day 2|day 3|day 4|day 5|day 6|day 7|Bonus|
 |--|--|--|--|--|--|--|--|--|
-|Reward|10 Gold coins|10,000 Cash|100 Green elite parts|15,000 Cash|50 Bronze keys|50 Blue elite parts|20,000 Cash|☝️3 Gold keys|
+|Reward|10 Gold coins|10,000 Cash|100 Green elite parts|15,000 Cash|50 Bronze keys|50 Blue elite parts|20,000 Cash|3 Gold keys🔑|
+> https://www.csr-racing.com/csr2/reward-streak
 
 ### Options to refuel
-||1. Natual|2. Video AD (2 pips per view)|3. Gold coin (10 pips per 20 GC)|
+||1. Natural|2. Video AD (2 pips/view)|3. 🟡Gold coin (10 pips/20 GC)|
 |--|--:|--:|--:|
 |Time to refuel 10 pips|53m20s - 1h16m|3m|10s|
 
-> 1. Naturally refueling 1 pip takes 5m20s - 7m36s, 53m20s - 1h16m for full tank (10 pips)
-> 2. Watching 1 **passive** video ad (5-60 secs), which pops up when fuel pips drop below 6, recieves 2 fuel pips. Comparably, proactively watching 1 ad recieves only 1 fuel pip. [A guide to watching Ads](https://www.reddit.com/r/CSRRacing2/comments/c4x6hc/a_guide_to_watching_ads/)
-> 3. Spending 20 gold coins to instantly refuel 10 pips
+> 1. ✅️Natural Refueling: Each pip regenerates in 5m 20s – 7m 36s. A full tank (10 pips) takes 53m 20s – 1h 16m.
+> 
+> 2. Video Ads: Watching one passive AD (5–60 seconds) automatically rewards 2 fuel pips. This ad triggers only when your fuel drops below 6 pips. In contrast, proactively watching an AD only grants 1 fuel pip. [A guide to watching Ads](https://www.reddit.com/r/CSRRacing2/comments/c4x6hc/a_guide_to_watching_ads/)
+> 
+> 3. Gold Coins: Spending 20 Gold Coins instantly refuels 10 pips. (✅️only when Wildcard +150% is up)
 
 ---
-### g2 - Weekly Elite Cup
-|&#x1F536;Schedule (UTC/GMT)|Mon|Tue,Wed,Thu|Fri|
+### g3 - 🔶Weekly Elite Cup (WEC)
+|Schedule (UTC/GMT)|Mon|Tue,Wed,Thu|Fri|
 |--:|--:|--:|--:|
 |Round|1|2, 3, 4|5|
 |Time block|10:00 - 0:00|0:00 - 0:00|0:00 - 10:00|
-#### Elite Parts For The Whole Elite Customs Expansion
+#### Elite Parts For The Whole Elite Customs Expansion (legacy)
 |Total|Green E.P.|Blue E.P.|Pink E.P.|Yellow E.P.|
 |--|--:|--:|--:|--:|
 |Amount|1,037,785|	326,390 |	149,133 |6,463|
@@ -117,8 +129,13 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, R\*R, yo
 - [CSR2 Elite customs Body kit Tier or Rarity explained, elite tuners](https://www.youtube.com/watch?v=nuVsQQYxKK8)
 
 ![Weekly Elite Cup](https://preview.redd.it/882lckfxhx561.png?width=1080&crop=smart&auto=webp&s=fd1eb19f1b4bf8cf234264f6cf73bf10f27e05b8)
+
 ---
-### g3 - 20mil RP
+### g4 - 🏆Tournaments
+<img width="1278" height="590" alt="IMG_4554" src="https://github.com/user-attachments/assets/a94a51fb-8613-4a58-8628-faa777c78ab9" />
+
+---
+### g2 - 20mil RP
 
 #### How to earn Respect Points with/without racing
 - https://www.reddit.com/r/CSRRacing2/comments/10mq83k/crew_rp_guide_for_beginners/
@@ -131,11 +148,11 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, R\*R, yo
 |[Season events](https://csr2btb.wordpress.com/2019/09/16/csr2-season-events-schedule-and-prize/)(crew RP: 149)|Keys + Parts|730.6k/Season|5min/Day, 1.25hr/Season|
 |Season events (non-crew RP: 484)|Keys+Parts+Gold coins+Legends components|96.8k/Season|17min/Day, 4hr/Season|
 |Live Races(15x3x14)|(150 Bronze Key + 10 Silver Key) x3x14|600-1400/win, 33,750-58,500/Day, 472.5k-819k/Season|45min+/Day, 10.5hr+/Season|22min+/Day, 5.1hr+/Season|
-|Showdowns(0.5kx[2,3])|Elite parts|250k+ x [2,3] /Season|36min+ x[2,3]/Day, 8.3hr+ x[2,3]/Season|18min+ x[2,3]/Day, 4.17hr+ x[2,3]/Season|
-|Race pass(3 x 14)|car, parts, tokens|325k/other season|4hr/Season|
+|Showdowns(0.5kx2,3])|Elite parts, 🚗|250k+ x [2,3] /Season|36min+ x[2,3]/Day, 8.3hr+ x[2,3]/Season|18min+ x[2,3]/Day, 4.17hr+ x[2,3]/Season|
+|**Race pass**|car, parts, tokens, 🔑|325k/other season|4hr/Season|
 |Legends events|Fusion parts||
 |Elite events|Elite parts||
-|Collections cup, Tournaments|Car credits||
+|Collections cup, 🏆Tournaments|Car credits||
 |Theme/special events|||
 
 > It takes &#x2248;30s to complete 1 race or to refuel 2 pips
@@ -148,13 +165,14 @@ Demo\*d, MADm\*1, Vint\*8, Thom\*L, SlyG\*8, MeDi\*i, Isai\*G, yung\*p, R\*R, yo
 ---
 ## Admins
 are expected to lead by example, communicate, coordinate, help entire crew to earn more cars, parts over winnings.
-- g1 ops, to keep active players in, inactive/naughty members out. While stablizing old members are important for consistent behaviors.
-- g2 ops, to help members build an elite tuner car eligible for WEC, and remind members to attend 5 rounds of WEC in time.
-- g3 ops, to survey and measure for best wildcard time to maximize RP, to help and remind members to collect and donate tokens in time, to encourage members to activate and attend wildcard campaigns.
+- g1 ops, keep active players in, inactive/naughty members out. While retaining veteran members is important for consistent performance. The primary focus remains on keeping the crew active and engaged.
+- g3 ops, help members in building elite tuner cars eligible for the WEC, and remind members to complete 5 rounds of `WEC` in time.
+- g2 ops, help and remind members to collect and donate tokens in time, and encourage members to activate and participate in wildcard campaigns.
+- g4 ops, remind members to complete 6 races of `Tournaments`
 
 deserve more respects, as they come to play as everyone else but spend extra time on managing crew. Two admins per season shift (first half / second half of the `Race Pass`)
 
-### Alerts
+### Alerts⚠️
 Crew RP drops to 23m or less; WEC races won drops to 500 or less.
 
 ### Backlog
