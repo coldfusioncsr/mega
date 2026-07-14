@@ -7,7 +7,7 @@
 |📘Token donations|18,980|2026-06-18||
 |🔶WEC races won|832|2024-03-01|✅️|
 |💻PC winners|22|2025-12-04|✅️|
-|🏆Tournaments trophies won|🥈104,120 / 23p|2026-03-31|✅️|
+|🏆Tournaments trophies won|🥈104,180|2026-07-07|✅️|
 
 ## Weekly statistics
 > **[UTC](https://en.wikipedia.org/wiki/Utc) is the default time zone used for all time.**
@@ -30,6 +30,42 @@
 > - Personal 📘RP earning < 333k (full season), = indicates no change of RP, ≈/~ is marked to change of RP < 1.6k
 > - Absense from 🔶**Weekly Elite Cup** (change of RP < 1.6k). (**Attending WEC is required**)
 > - Absense from 🏆**Tournaments**.
+
+### 2026 w29
+||🔶10:00 Mon|🔶0:00 Tue|🔶0:00 Wed|🔶0:00 Thu|📘10:00 Thu|📘Tokens|🔶0:00 Fri|🔶10:00 Fri|ratio|
+|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+|∑|23,010,355|24,283,223|
+|Wins, &#x2211;p|[|123w, 16p][|
+|Pit*L|2,001,851|2,130,011|
+|ROC*0|1,830,591|1,926,417|
+|Orp*s|1,669,130|1,765,459|
+|Van*g|1,560,646|1,619,870|
+|Uns*3|1,437,534|1,500,788|
+|sto*7|953,155|987,398|
+|Pet*n|1,496,934|1,802,850|
+|Pes*s|1,239,621|1,280,910|
+|mar*n|634,966|⚠️|
+|Pee*a|574,453|585,515|
+|Tur*8|1,099,770|1,149,110|
+|FK*o|729,221|764,093|
+|UnT*t|729,375|768,395|
+|mel*n|1,028,861|1,059,703|
+|Mad*8|761,040|797,063|
+|zer*l|312,874|⚠️|
+|Rub*S|370,798|425,580|
+|Col*N|594,432|⚠️|
+|Lui*1|452,969|492,856|
+|Bra*a|228,965|⚠️230,424|
+|GHO*Y|676,443|⚠️|
+|Jes*e|297,365|332,571|
+|Gen*s|294,606|⚠️|
+|***|546,719|551,999|
+|XNi*s|182,474|221,428|
+|Sty*3|120,096|135,517|
+|the*m|474,788|⚠️|
+|Dwa*L|0|⚠️|
+|Big*t|357,256|362,751|
+|Ger*a|353,422|404,406|
 
 ### 2026 w28
 ||🔶10:00 Mon|🔶0:00 Tue|🏆Tournaments(3d)|🔶0:00 Wed|🔶0:00 Thu|🔶0:00 Fri|🔶9:59 Fri|📘Tokens|Wknd|
